@@ -1,0 +1,764 @@
+id,title,option1,option2,option3,sku,requires_shipping,taxable,featured_image_src,available,price,grams,compare_at_price,position,product_id,created_at,updated_at
+50661202559144,Small (250g) / Whole Bean,Small (250g),Whole Bean,,4256,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/272_Colombia_Finca_Monteblanco_Citric_Co-ferment_250g.webp?v=1733304314,True,14.55,260,,1,8730611024040,2024-12-04T09:24:06+00:00,2024-12-11T13:51:02+00:00
+50661202591912,Small (250g) / Cafetiere,Small (250g),Cafetiere,,4257,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/272_Colombia_Finca_Monteblanco_Citric_Co-ferment_250g.webp?v=1733304314,True,14.55,264,,2,8730611024040,2024-12-04T09:24:06+00:00,2024-12-11T13:51:02+00:00
+50661202624680,Small (250g) / Filter,Small (250g),Filter,,4258,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/272_Colombia_Finca_Monteblanco_Citric_Co-ferment_250g.webp?v=1733304314,True,14.55,264,,3,8730611024040,2024-12-04T09:24:06+00:00,2024-12-11T13:51:02+00:00
+50661202657448,Small (250g) / Espresso,Small (250g),Espresso,,4259,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/272_Colombia_Finca_Monteblanco_Citric_Co-ferment_250g.webp?v=1733304314,True,14.55,264,,4,8730611024040,2024-12-04T09:24:06+00:00,2024-12-11T13:51:02+00:00
+50661202690216,Large (1kg) / Whole Bean,Large (1kg),Whole Bean,,4260,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/272_Colombia_Finca_Monteblanco_Citric_Co-ferment_1kg.webp?v=1733304314,True,49.20,1040,58.20,5,8730611024040,2024-12-04T09:24:06+00:00,2024-12-11T13:51:02+00:00
+50661202722984,Large (1kg) / Cafetiere,Large (1kg),Cafetiere,,4261,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/272_Colombia_Finca_Monteblanco_Citric_Co-ferment_1kg.webp?v=1733304314,True,49.20,1040,58.20,6,8730611024040,2024-12-04T09:24:06+00:00,2024-12-11T13:51:02+00:00
+50661202755752,Large (1kg) / Filter,Large (1kg),Filter,,4262,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/272_Colombia_Finca_Monteblanco_Citric_Co-ferment_1kg.webp?v=1733304314,True,49.20,1040,58.20,7,8730611024040,2024-12-04T09:24:06+00:00,2024-12-11T13:51:02+00:00
+50661202788520,Large (1kg) / Espresso,Large (1kg),Espresso,,4263,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/272_Colombia_Finca_Monteblanco_Citric_Co-ferment_1kg.webp?v=1733304314,True,49.20,1040,58.20,8,8730611024040,2024-12-04T09:24:06+00:00,2024-12-11T13:51:02+00:00
+20608616726582,Small (500g) / Green,Small (500g),Green,,43004,True,False,,True,9.00,512,,1,2165719236662,2019-06-13T10:30:28+01:00,2024-12-11T13:51:02+00:00
+41369652756648,Whole Bean,Whole Bean,,,63032,True,False,,True,14.10,820,,1,7156157120680,2021-10-21T13:58:31+01:00,2024-12-11T13:51:02+00:00
+41369652789416,Cafetiere,Cafetiere,,,63033,True,False,,True,14.10,820,,2,7156157120680,2021-10-21T13:58:31+01:00,2024-12-11T13:51:02+00:00
+41369652822184,Filter,Filter,,,63034,True,False,,True,14.10,820,,3,7156157120680,2021-10-21T13:58:31+01:00,2024-12-11T13:51:02+00:00
+41369652854952,Espresso,Espresso,,,63035,True,False,,True,14.10,820,,4,7156157120680,2021-10-21T13:58:31+01:00,2024-12-11T13:51:02+00:00
+3160903417882,Small (250g) / Whole Bean,Small (250g),Whole Bean,,3085,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/077_Colombia_El_Carmen_Sugarcane_Decaf.jpg?v=1710430626,True,8.45,280,,1,214272311322,2017-12-05T10:30:36+00:00,2024-12-11T13:51:02+00:00
+3160903450650,Small (250g) / Cafetiere,Small (250g),Cafetiere,,3086,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/077_Colombia_El_Carmen_Sugarcane_Decaf.jpg?v=1710430626,True,8.45,280,,2,214272311322,2017-12-05T10:30:36+00:00,2024-12-11T13:51:02+00:00
+3160903483418,Small (250g) / Filter,Small (250g),Filter,,3087,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/077_Colombia_El_Carmen_Sugarcane_Decaf.jpg?v=1710430626,True,8.45,280,,3,214272311322,2017-12-05T10:30:36+00:00,2024-12-11T13:51:02+00:00
+3160903581722,Small (250g) / Espresso,Small (250g),Espresso,,3088,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/077_Colombia_El_Carmen_Sugarcane_Decaf.jpg?v=1710430626,True,8.45,280,,4,214272311322,2017-12-05T10:30:37+00:00,2024-12-11T13:51:02+00:00
+3160903811098,Large (1kg) / Whole Bean,Large (1kg),Whole Bean,,3089,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/077_Colombia_El_Carmen_Sugarcane_Decaf_1kg.jpg?v=1720192598,True,28.75,1040,33.80,5,214272311322,2017-12-05T10:30:37+00:00,2024-12-11T13:51:02+00:00
+3160903843866,Large (1kg) / Cafetiere,Large (1kg),Cafetiere,,3090,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/077_Colombia_El_Carmen_Sugarcane_Decaf_1kg.jpg?v=1720192598,True,28.75,1040,33.80,6,214272311322,2017-12-05T10:30:37+00:00,2024-12-11T13:51:02+00:00
+3160903876634,Large (1kg) / Filter,Large (1kg),Filter,,3091,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/077_Colombia_El_Carmen_Sugarcane_Decaf_1kg.jpg?v=1720192598,True,28.75,1040,33.80,7,214272311322,2017-12-05T10:30:37+00:00,2024-12-11T13:51:02+00:00
+3160903974938,Large (1kg) / Espresso,Large (1kg),Espresso,,3092,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/077_Colombia_El_Carmen_Sugarcane_Decaf_1kg.jpg?v=1720192598,True,28.75,1040,33.80,8,214272311322,2017-12-05T10:30:37+00:00,2024-12-11T13:51:02+00:00
+50592596721832,Small (250g) / Whole Bean,Small (250g),Whole Bean,,4248,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/271_Colombia_Finca_Monteblanco_Cold_Wash_250g.webp?v=1732794394,True,15.90,260,,1,8723796951208,2024-11-28T11:45:20+00:00,2024-12-11T13:51:02+00:00
+50592596754600,Small (250g) / Cafetiere,Small (250g),Cafetiere,,4249,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/271_Colombia_Finca_Monteblanco_Cold_Wash_250g.webp?v=1732794394,True,15.90,264,,2,8723796951208,2024-11-28T11:45:20+00:00,2024-12-11T13:51:02+00:00
+50592596787368,Small (250g) / Filter,Small (250g),Filter,,4250,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/271_Colombia_Finca_Monteblanco_Cold_Wash_250g.webp?v=1732794394,True,15.90,264,,3,8723796951208,2024-11-28T11:45:20+00:00,2024-12-11T13:51:02+00:00
+50592596820136,Small (250g) / Espresso,Small (250g),Espresso,,4251,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/271_Colombia_Finca_Monteblanco_Cold_Wash_250g.webp?v=1732794394,True,15.90,264,,4,8723796951208,2024-11-28T11:45:20+00:00,2024-12-11T13:51:02+00:00
+50592596852904,Large (1kg) / Whole Bean,Large (1kg),Whole Bean,,4252,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/271_Colombia_Finca_Monteblanco_Cold_Wash_1kg.webp?v=1732794394,True,53.85,1040,63.60,5,8723796951208,2024-11-28T11:45:20+00:00,2024-12-11T13:51:02+00:00
+50592596885672,Large (1kg) / Cafetiere,Large (1kg),Cafetiere,,4253,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/271_Colombia_Finca_Monteblanco_Cold_Wash_1kg.webp?v=1732794394,True,53.85,1040,63.60,6,8723796951208,2024-11-28T11:45:20+00:00,2024-12-11T13:51:02+00:00
+50592596918440,Large (1kg) / Filter,Large (1kg),Filter,,4254,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/271_Colombia_Finca_Monteblanco_Cold_Wash_1kg.webp?v=1732794394,True,53.85,1040,63.60,7,8723796951208,2024-11-28T11:45:20+00:00,2024-12-11T13:51:02+00:00
+50592596951208,Large (1kg) / Espresso,Large (1kg),Espresso,,4255,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/271_Colombia_Finca_Monteblanco_Cold_Wash_1kg.webp?v=1732794394,True,53.85,1040,63.60,8,8723796951208,2024-11-28T11:45:20+00:00,2024-12-11T13:51:02+00:00
+50593167147176,Small,Small,,,33172,True,True,https://cdn.shopify.com/s/files/1/0390/4361/files/Purple_Airscape_1_copy.webp?v=1732808589,True,25.00,1250,,1,8723846758568,2024-11-28T13:06:59+00:00,2024-12-11T13:51:02+00:00
+50593167179944,Medium,Medium,,,33173,True,True,https://cdn.shopify.com/s/files/1/0390/4361/files/Purple_Airscape_3_copy.webp?v=1732808603,True,29.00,1250,,2,8723846758568,2024-11-28T13:06:59+00:00,2024-12-11T13:51:02+00:00
+50472441905320,Small (250g) / Whole Bean,Small (250g),Whole Bean,,4288,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/263_Tanzania_Korongo_250g.webp?v=1732623281,True,8.95,260,,1,8709680300200,2024-11-18T12:15:49+00:00,2024-12-11T13:51:02+00:00
+50472441938088,Small (250g) / Cafetiere,Small (250g),Cafetiere,,4289,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/263_Tanzania_Korongo_250g.webp?v=1732623281,True,8.95,264,,2,8709680300200,2024-11-18T12:15:49+00:00,2024-12-11T13:51:02+00:00
+50472441970856,Small (250g) / Filter,Small (250g),Filter,,4290,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/263_Tanzania_Korongo_250g.webp?v=1732623281,True,8.95,264,,3,8709680300200,2024-11-18T12:15:49+00:00,2024-12-11T13:51:02+00:00
+50472442003624,Small (250g) / Espresso,Small (250g),Espresso,,4291,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/263_Tanzania_Korongo_250g.webp?v=1732623281,True,8.95,264,,4,8709680300200,2024-11-18T12:15:49+00:00,2024-12-11T13:51:02+00:00
+50569565503656,Large (1kg) / Whole Bean,Large (1kg),Whole Bean,,4292,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/263_Tanzania_Korongo_1kg.webp?v=1732623281,True,30.45,260,35.80,5,8709680300200,2024-11-26T12:12:34+00:00,2024-12-11T13:51:02+00:00
+50569565536424,Large (1kg) / Cafetiere,Large (1kg),Cafetiere,,4293,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/263_Tanzania_Korongo_1kg.webp?v=1732623281,True,30.45,260,35.80,6,8709680300200,2024-11-26T12:12:34+00:00,2024-12-11T13:51:02+00:00
+50569565569192,Large (1kg) / Filter,Large (1kg),Filter,,4294,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/263_Tanzania_Korongo_1kg.webp?v=1732623281,True,30.45,260,35.80,7,8709680300200,2024-11-26T12:12:34+00:00,2024-12-11T13:51:02+00:00
+50569565601960,Large (1kg) / Espresso,Large (1kg),Espresso,,4295,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/263_Tanzania_Korongo_1kg.webp?v=1732623281,True,30.45,260,35.80,8,8709680300200,2024-11-26T12:12:34+00:00,2024-12-11T13:51:02+00:00
+50471845298344,Small (250g) / Whole Bean,Small (250g),Whole Bean,,4280,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/265_GuatemalaNueva_Era_250g.webp?v=1731927909,True,9.95,264,,1,8709601558696,2024-11-18T11:04:55+00:00,2024-12-11T13:51:02+00:00
+50471845331112,Small (250g) / Cafetiere,Small (250g),Cafetiere,,4281,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/265_GuatemalaNueva_Era_250g.webp?v=1731927909,True,9.95,264,,2,8709601558696,2024-11-18T11:04:55+00:00,2024-12-11T13:51:02+00:00
+50471845363880,Small (250g) / Filter,Small (250g),Filter,,4282,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/265_GuatemalaNueva_Era_250g.webp?v=1731927909,True,9.95,264,,3,8709601558696,2024-11-18T11:04:55+00:00,2024-12-11T13:51:02+00:00
+50471845396648,Small (250g) / Espresso,Small (250g),Espresso,,4283,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/265_GuatemalaNueva_Era_250g.webp?v=1731927909,True,9.95,264,,4,8709601558696,2024-11-18T11:04:55+00:00,2024-12-11T13:51:02+00:00
+50471845429416,Large (1Kg) / Whole Bean,Large (1Kg),Whole Bean,,4284,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/265_GuatemalaNueva_Era_1kg.webp?v=1731927909,True,33.85,1040,39.80,5,8709601558696,2024-11-18T11:04:55+00:00,2024-12-11T13:51:02+00:00
+50471845462184,Large (1Kg) / Cafetiere,Large (1Kg),Cafetiere,,4285,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/265_GuatemalaNueva_Era_1kg.webp?v=1731927909,True,33.85,1040,39.80,6,8709601558696,2024-11-18T11:04:55+00:00,2024-12-11T13:51:02+00:00
+50471845494952,Large (1Kg) / Filter,Large (1Kg),Filter,,4286,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/265_GuatemalaNueva_Era_1kg.webp?v=1731927909,True,33.85,1040,39.80,7,8709601558696,2024-11-18T11:04:55+00:00,2024-12-11T13:51:02+00:00
+50471845527720,Large (1Kg) / Espresso,Large (1Kg),Espresso,,4287,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/265_GuatemalaNueva_Era_1kg.webp?v=1731927909,True,33.85,1040,39.80,8,8709601558696,2024-11-18T11:04:55+00:00,2024-12-11T13:51:02+00:00
+50471950287016,Small (250g) / Whole Bean,Small (250g),Whole Bean,,4272,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/277_China_Banka_250g.webp?v=1732201119,True,11.20,264,,1,8709614600360,2024-11-18T11:19:33+00:00,2024-12-11T13:51:02+00:00
+50471950319784,Small (250g) / Cafetiere,Small (250g),Cafetiere,,4273,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/277_China_Banka_250g.webp?v=1732201119,True,11.20,264,,2,8709614600360,2024-11-18T11:19:33+00:00,2024-12-11T13:51:02+00:00
+50471950352552,Small (250g) / Filter,Small (250g),Filter,,4274,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/277_China_Banka_250g.webp?v=1732201119,True,11.20,264,,3,8709614600360,2024-11-18T11:19:33+00:00,2024-12-11T13:51:02+00:00
+50471950385320,Small (250g) / Espresso,Small (250g),Espresso,,4275,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/277_China_Banka_250g.webp?v=1732201119,True,11.20,264,,4,8709614600360,2024-11-18T11:19:33+00:00,2024-12-11T13:51:02+00:00
+50471950418088,Large (1kg) / Whole Bean,Large (1kg),Whole Bean,,4276,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/277_China_Banka_1kg.webp?v=1732201119,True,38.10,1040,44.80,5,8709614600360,2024-11-18T11:19:33+00:00,2024-12-11T13:51:02+00:00
+50471950450856,Large (1kg) / Cafetiere,Large (1kg),Cafetiere,,4277,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/277_China_Banka_1kg.webp?v=1732201119,True,38.10,1040,44.80,6,8709614600360,2024-11-18T11:19:33+00:00,2024-12-11T13:51:02+00:00
+50471950483624,Large (1kg) / Filter,Large (1kg),Filter,,4278,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/277_China_Banka_1kg.webp?v=1732201119,True,38.10,1040,44.80,7,8709614600360,2024-11-18T11:19:33+00:00,2024-12-11T13:51:02+00:00
+50471950516392,Large (1kg) / Espresso,Large (1kg),Espresso,,4279,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/277_China_Banka_1kg.webp?v=1732201119,True,38.10,1040,44.80,8,8709614600360,2024-11-18T11:19:33+00:00,2024-12-11T13:51:02+00:00
+50471713112232,Small (250g) / Whole Bean,Small (250g),Whole Bean,,4240,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/270_Colombia_Danilo_Perez_250g.webp?v=1731926901,True,14.90,260,,1,8709586059432,2024-11-18T10:47:07+00:00,2024-12-11T13:51:02+00:00
+50471713145000,Small (250g) / Cafetiere,Small (250g),Cafetiere,,4241,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/270_Colombia_Danilo_Perez_250g.webp?v=1731926901,True,14.90,264,,2,8709586059432,2024-11-18T10:47:07+00:00,2024-12-11T13:51:02+00:00
+50471713177768,Small (250g) / Filter,Small (250g),Filter,,4242,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/270_Colombia_Danilo_Perez_250g.webp?v=1731926901,True,14.90,264,,3,8709586059432,2024-11-18T10:47:07+00:00,2024-12-11T13:51:02+00:00
+50471713210536,Small (250g) / Espresso,Small (250g),Espresso,,4243,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/270_Colombia_Danilo_Perez_250g.webp?v=1731926901,True,14.90,264,,4,8709586059432,2024-11-18T10:47:07+00:00,2024-12-11T13:51:02+00:00
+50471713243304,Large (1kg) / Whole Bean,Large (1kg),Whole Bean,,4244,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/270_Colombia_Danilo_Perez_1kg.webp?v=1731926901,True,50.20,1040,59.60,5,8709586059432,2024-11-18T10:47:07+00:00,2024-12-11T13:51:02+00:00
+50471713276072,Large (1kg) / Cafetiere,Large (1kg),Cafetiere,,4245,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/270_Colombia_Danilo_Perez_1kg.webp?v=1731926901,True,50.20,1040,59.60,6,8709586059432,2024-11-18T10:47:07+00:00,2024-12-11T13:51:02+00:00
+50471713308840,Large (1kg) / Filter,Large (1kg),Filter,,4246,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/270_Colombia_Danilo_Perez_1kg.webp?v=1731926901,True,50.20,1040,59.60,7,8709586059432,2024-11-18T10:47:07+00:00,2024-12-11T13:51:02+00:00
+50471713341608,Large (1kg) / Espresso,Large (1kg),Espresso,,4247,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/270_Colombia_Danilo_Perez_1kg.webp?v=1731926901,True,50.20,1040,59.60,8,8709586059432,2024-11-18T10:47:07+00:00,2024-12-11T13:51:02+00:00
+50520410554536,Default Title,Default Title,,,105081,True,True,,False,19.95,250,29.95,1,8715262427304,2024-11-22T11:04:07+00:00,2024-12-11T13:51:02+00:00
+50428348825768,Small (250g) / Whole Bean,Small (250g),Whole Bean,,4264,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/275_Kenya_Gatina_AA_250g.webp?v=1731589192,True,9.45,264,,1,8705352663208,2024-11-14T09:56:36+00:00,2024-12-11T13:51:02+00:00
+50428348858536,Small (250g) / Cafetiere,Small (250g),Cafetiere,,4265,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/275_Kenya_Gatina_AA_250g.webp?v=1731589192,True,9.45,264,,2,8705352663208,2024-11-14T09:56:36+00:00,2024-12-11T13:51:02+00:00
+50428348891304,Small (250g) / Filter,Small (250g),Filter,,4266,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/275_Kenya_Gatina_AA_250g.webp?v=1731589192,True,9.45,264,,3,8705352663208,2024-11-14T09:56:36+00:00,2024-12-11T13:51:02+00:00
+50428348924072,Small (250g) / Espresso,Small (250g),Espresso,,4267,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/275_Kenya_Gatina_AA_250g.webp?v=1731589192,True,9.45,264,,4,8705352663208,2024-11-14T09:56:36+00:00,2024-12-11T13:51:02+00:00
+50428348956840,Large (1kg) / Whole Bean,Large (1kg),Whole Bean,,4268,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/275_Kenya_Gatina_AA_1kg_1.webp?v=1731589250,True,32.15,1040,37.80,5,8705352663208,2024-11-14T09:56:36+00:00,2024-12-11T13:51:02+00:00
+50428348989608,Large (1kg) / Cafetiere,Large (1kg),Cafetiere,,4269,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/275_Kenya_Gatina_AA_1kg_1.webp?v=1731589250,True,32.15,1040,37.80,6,8705352663208,2024-11-14T09:56:36+00:00,2024-12-11T13:51:02+00:00
+50428349022376,Large (1kg) / Filter,Large (1kg),Filter,,4270,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/275_Kenya_Gatina_AA_1kg_1.webp?v=1731589250,True,32.15,1040,37.80,7,8705352663208,2024-11-14T09:56:36+00:00,2024-12-11T13:51:02+00:00
+50428349055144,Large (1kg) / Espresso,Large (1kg),Espresso,,4271,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/275_Kenya_Gatina_AA_1kg_1.webp?v=1731589250,True,32.15,1040,37.80,8,8705352663208,2024-11-14T09:56:36+00:00,2024-12-11T13:51:02+00:00
+50394700054696,Default Title,Default Title,,,110007,True,False,,True,4.95,150,,1,8701649584296,2024-11-11T12:44:59+00:00,2024-12-11T13:51:02+00:00
+50264108859560,Christmas Blend / Aeropress Grind,Christmas Blend,Aeropress Grind,,23484,True,True,https://cdn.shopify.com/s/files/1/0390/4361/files/Untitled-234.jpg?v=1730374064,True,41.50,1165,,1,8689153540264,2024-10-31T11:17:09+00:00,2024-12-11T13:51:02+00:00
+50264109056168,Christmas Blend / Whole Bean,Christmas Blend,Whole Bean,,23483,True,True,https://cdn.shopify.com/s/files/1/0390/4361/files/Untitled-234.jpg?v=1730374064,True,41.50,1165,,2,8689153540264,2024-10-31T11:17:09+00:00,2024-12-11T13:51:02+00:00
+50264108073128,Signature / Aeropress Grind,Signature,Aeropress Grind,,23469,True,True,https://cdn.shopify.com/s/files/1/0390/4361/files/Untitled-181_2.jpg?v=1730374063,True,39.99,1165,,3,8689153540264,2024-10-31T11:17:09+00:00,2024-12-11T13:51:02+00:00
+50264108269736,Signature / Whole Bean,Signature,Whole Bean,,23468,True,True,https://cdn.shopify.com/s/files/1/0390/4361/files/Untitled-181_2.jpg?v=1730374063,True,39.99,1165,,4,8689153540264,2024-10-31T11:17:09+00:00,2024-12-11T13:51:02+00:00
+50264108466344,Decaf / Aeropress Grind,Decaf,Aeropress Grind,,23473,True,True,https://cdn.shopify.com/s/files/1/0390/4361/files/Untitled-181_2.jpg?v=1730374063,True,39.99,1165,,5,8689153540264,2024-10-31T11:17:09+00:00,2024-12-11T13:51:02+00:00
+50264108662952,Decaf / Whole Bean,Decaf,Whole Bean,,23472,True,True,https://cdn.shopify.com/s/files/1/0390/4361/files/Untitled-181_2.jpg?v=1730374063,True,39.99,1165,,6,8689153540264,2024-10-31T11:17:09+00:00,2024-12-11T13:51:02+00:00
+50264049254568,Default Title,Default Title,,,33170,True,True,,True,37.00,550,,1,8689143972008,2024-10-31T11:09:38+00:00,2024-12-11T13:51:02+00:00
+50240390987944,Christmas Blend,Christmas Blend,,,23482,True,True,https://cdn.shopify.com/s/files/1/0390/4361/files/AeroPress_Gift_Set_with_Grinder.webp?v=1731500885,True,101.19,1875,,2,6010421641384,2024-10-29T14:22:56+00:00,2024-12-11T13:51:02+00:00
+50240391020712,Signature,Signature,,,23001,True,True,https://cdn.shopify.com/s/files/1/0390/4361/files/Giftset.webp?v=1730716599,True,98.99,1875,,3,6010421641384,2024-10-29T14:22:56+00:00,2024-12-11T13:51:02+00:00
+50240245301416,Small / Whole Bean,Small,Whole Bean,,23489,True,True,https://cdn.shopify.com/s/files/1/0390/4361/files/ChristmasGifting-SmallAirscape.webp?v=1730210779,True,30.95,0,,1,8686839759016,2024-10-29T14:06:03+00:00,2024-12-11T13:51:02+00:00
+50240245334184,Small / Cafetiere,Small,Cafetiere,,23490,True,True,https://cdn.shopify.com/s/files/1/0390/4361/files/ChristmasGifting-SmallAirscape.webp?v=1730210779,True,30.95,0,,2,8686839759016,2024-10-29T14:06:03+00:00,2024-12-11T13:51:02+00:00
+50240245366952,Small / Filter,Small,Filter,,23491,True,True,https://cdn.shopify.com/s/files/1/0390/4361/files/ChristmasGifting-SmallAirscape.webp?v=1730210779,True,30.95,0,,3,8686839759016,2024-10-29T14:06:03+00:00,2024-12-11T13:51:02+00:00
+50240245399720,Small / Espresso,Small,Espresso,,23492,True,True,https://cdn.shopify.com/s/files/1/0390/4361/files/ChristmasGifting-SmallAirscape.webp?v=1730210779,True,30.95,0,,4,8686839759016,2024-10-29T14:06:03+00:00,2024-12-11T13:51:02+00:00
+50240245432488,Medium / Whole Bean,Medium,Whole Bean,,23493,True,True,https://cdn.shopify.com/s/files/1/0390/4361/files/ChristmasGifting-MediumAirscape.webp?v=1730210779,True,39.70,0,,5,8686839759016,2024-10-29T14:06:03+00:00,2024-12-11T13:51:02+00:00
+50240245465256,Medium / Cafetiere,Medium,Cafetiere,,23494,True,True,https://cdn.shopify.com/s/files/1/0390/4361/files/ChristmasGifting-MediumAirscape.webp?v=1730210779,True,39.70,0,,6,8686839759016,2024-10-29T14:06:03+00:00,2024-12-11T13:51:02+00:00
+50240245498024,Medium / Filter,Medium,Filter,,23495,True,True,https://cdn.shopify.com/s/files/1/0390/4361/files/ChristmasGifting-MediumAirscape.webp?v=1730210779,True,39.70,0,,7,8686839759016,2024-10-29T14:06:03+00:00,2024-12-11T13:51:02+00:00
+50240245530792,Medium / Espresso,Medium,Espresso,,23496,True,True,https://cdn.shopify.com/s/files/1/0390/4361/files/ChristmasGifting-MediumAirscape.webp?v=1730210779,True,39.70,0,,8,8686839759016,2024-10-29T14:06:03+00:00,2024-12-11T13:51:02+00:00
+50240245563560,Large / Whole Bean,Large,Whole Bean,,23497,True,True,https://cdn.shopify.com/s/files/1/0390/4361/files/ChristmasGifting-LargeAirscape.webp?v=1730210779,True,51.20,0,,9,8686839759016,2024-10-29T14:06:03+00:00,2024-12-11T13:51:02+00:00
+50240245596328,Large / Cafetiere,Large,Cafetiere,,23498,True,True,https://cdn.shopify.com/s/files/1/0390/4361/files/ChristmasGifting-LargeAirscape.webp?v=1730210779,True,51.20,0,,10,8686839759016,2024-10-29T14:06:03+00:00,2024-12-11T13:51:02+00:00
+50240245629096,Large / Filter,Large,Filter,,23499,True,True,https://cdn.shopify.com/s/files/1/0390/4361/files/ChristmasGifting-LargeAirscape.webp?v=1730210779,True,51.20,0,,11,8686839759016,2024-10-29T14:06:03+00:00,2024-12-11T13:51:02+00:00
+50240245661864,Large / Espresso,Large,Espresso,,23500,True,True,https://cdn.shopify.com/s/files/1/0390/4361/files/ChristmasGifting-LargeAirscape.webp?v=1730210779,True,51.20,0,,12,8686839759016,2024-10-29T14:06:03+00:00,2024-12-11T13:51:02+00:00
+50240179404968,Small / Whole Bean,Small,Whole Bean,,23501,True,True,https://cdn.shopify.com/s/files/1/0390/4361/files/ChristmasGifting-SmallAirscapeWhite.webp?v=1730210091,True,30.95,0,,1,8686833270952,2024-10-29T13:56:49+00:00,2024-12-11T13:51:02+00:00
+50240192610472,Small / Cafetiere,Small,Cafetiere,,23502,True,True,https://cdn.shopify.com/s/files/1/0390/4361/files/ChristmasGifting-SmallAirscapeWhite.webp?v=1730210091,True,30.95,0,,2,8686833270952,2024-10-29T13:58:36+00:00,2024-12-11T13:51:02+00:00
+50240192643240,Small / Filter,Small,Filter,,23503,True,True,https://cdn.shopify.com/s/files/1/0390/4361/files/ChristmasGifting-SmallAirscapeWhite.webp?v=1730210091,True,30.95,0,,3,8686833270952,2024-10-29T13:58:36+00:00,2024-12-11T13:51:02+00:00
+50240192676008,Small / Espresso,Small,Espresso,,23504,True,True,https://cdn.shopify.com/s/files/1/0390/4361/files/ChristmasGifting-SmallAirscapeWhite.webp?v=1730210091,True,30.95,0,,4,8686833270952,2024-10-29T13:58:36+00:00,2024-12-11T13:51:02+00:00
+50240210305192,Medium / Whole Bean,Medium,Whole Bean,,23505,True,True,https://cdn.shopify.com/s/files/1/0390/4361/files/ChristmasGifting-MediumAirscapeWhite.webp?v=1730210091,True,39.70,0,,5,8686833270952,2024-10-29T14:01:05+00:00,2024-12-11T13:51:02+00:00
+50240210337960,Medium / Cafetiere,Medium,Cafetiere,,23506,True,True,https://cdn.shopify.com/s/files/1/0390/4361/files/ChristmasGifting-MediumAirscapeWhite.webp?v=1730210091,True,39.70,0,,6,8686833270952,2024-10-29T14:01:05+00:00,2024-12-11T13:51:02+00:00
+50240210370728,Medium / Filter,Medium,Filter,,23507,True,True,https://cdn.shopify.com/s/files/1/0390/4361/files/ChristmasGifting-MediumAirscapeWhite.webp?v=1730210091,True,39.70,0,,7,8686833270952,2024-10-29T14:01:05+00:00,2024-12-11T13:51:02+00:00
+50240210403496,Medium / Espresso,Medium,Espresso,,23508,True,True,https://cdn.shopify.com/s/files/1/0390/4361/files/ChristmasGifting-MediumAirscapeWhite.webp?v=1730210091,True,39.70,0,,8,8686833270952,2024-10-29T14:01:05+00:00,2024-12-11T13:51:02+00:00
+50240210436264,Large / Whole Bean,Large,Whole Bean,,23509,True,True,https://cdn.shopify.com/s/files/1/0390/4361/files/ChristmasGifting-LargeAirscapeWhite.webp?v=1730210091,True,51.20,0,,9,8686833270952,2024-10-29T14:01:05+00:00,2024-12-11T13:51:02+00:00
+50240210469032,Large / Cafetiere,Large,Cafetiere,,23510,True,True,https://cdn.shopify.com/s/files/1/0390/4361/files/ChristmasGifting-LargeAirscapeWhite.webp?v=1730210091,True,51.20,0,,10,8686833270952,2024-10-29T14:01:05+00:00,2024-12-11T13:51:02+00:00
+50240210501800,Large / Filter,Large,Filter,,23511,True,True,https://cdn.shopify.com/s/files/1/0390/4361/files/ChristmasGifting-LargeAirscapeWhite.webp?v=1730210091,True,51.20,0,,11,8686833270952,2024-10-29T14:01:05+00:00,2024-12-11T13:51:02+00:00
+50240210534568,Large / Espresso,Large,Espresso,,23512,True,True,https://cdn.shopify.com/s/files/1/0390/4361/files/ChristmasGifting-LargeAirscapeWhite.webp?v=1730210091,True,51.20,0,,12,8686833270952,2024-10-29T14:01:05+00:00,2024-12-11T13:51:02+00:00
+18907503231030,Christmas Blend / Filter,Christmas Blend,Filter,,23486,True,True,https://cdn.shopify.com/s/files/1/0390/4361/files/Christmas_Gifting-Aeropress_with_Cup.webp?v=1730211029,True,57.50,1165,,1,1903198011446,2018-11-15T17:43:44+00:00,2024-12-11T13:51:02+00:00
+18907503198262,Christmas Blend / Whole Bean,Christmas Blend,Whole Bean,,23485,True,True,https://cdn.shopify.com/s/files/1/0390/4361/files/Christmas_Gifting-Aeropress_with_Cup.webp?v=1730211029,True,57.50,1165,,2,1903198011446,2018-11-15T17:43:44+00:00,2024-12-11T13:51:02+00:00
+50240297730216,Signature / Filter,Signature,Filter,,23015,True,True,https://cdn.shopify.com/s/files/1/0390/4361/files/Untitled-131.jpg?v=1725362581,True,56.00,1165,,3,1903198011446,2024-10-29T14:13:01+00:00,2024-12-11T13:51:02+00:00
+50240297762984,Signature / Whole Bean,Signature,Whole Bean,,23016,True,True,https://cdn.shopify.com/s/files/1/0390/4361/files/Untitled-131.jpg?v=1725362581,True,56.00,1165,,4,1903198011446,2024-10-29T14:13:01+00:00,2024-12-11T13:51:02+00:00
+50062228914344,10 Pods,10 Pods,,,73047,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/022_Christmas_Blend_10Pods_Newbox_1.jpg?v=1729000315,True,3.95,100,3.95,1,8670951932072,2024-10-15T14:48:45+01:00,2024-12-11T13:51:02+00:00
+50062228947112,50 Pods,50 Pods,,,73048,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/022_Christmas_Blend_50Pods_Newbox.jpg?v=1729000315,True,18.75,100,18.75,2,8670951932072,2024-10-15T14:48:45+01:00,2024-12-11T13:51:02+00:00
+50062228979880,100 Pods,100 Pods,,,73049,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/022_Christmas_Blend_100Pods_Newbox.jpg?v=1729000315,True,35.55,100,36.50,3,8670951932072,2024-10-15T14:48:45+01:00,2024-12-11T13:51:02+00:00
+50047449399464,Small (250g) / Whole Bean,Small (250g),Whole Bean,,4232,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/266_Colombia_Terra_Community_Gesha_250g.jpg?v=1728915563,True,14.35,260,,1,8669309206696,2024-10-14T13:25:16+01:00,2024-12-11T13:51:02+00:00
+50047449432232,Small (250g) / Cafetiere,Small (250g),Cafetiere,,4233,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/266_Colombia_Terra_Community_Gesha_250g.jpg?v=1728915563,True,14.35,264,,2,8669309206696,2024-10-14T13:25:16+01:00,2024-12-11T13:51:02+00:00
+50047449465000,Small (250g) / Filter,Small (250g),Filter,,4234,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/266_Colombia_Terra_Community_Gesha_250g.jpg?v=1728915563,True,14.35,264,,3,8669309206696,2024-10-14T13:25:16+01:00,2024-12-11T13:51:02+00:00
+50047449497768,Small (250g) / Espresso,Small (250g),Espresso,,4235,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/266_Colombia_Terra_Community_Gesha_250g.jpg?v=1728915563,True,14.35,264,,4,8669309206696,2024-10-14T13:25:16+01:00,2024-12-11T13:51:02+00:00
+50047449530536,Large (1kg) / Whole Bean,Large (1kg),Whole Bean,,4236,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/266_Colombia_Terra_Community_Gesha_1kg.jpg?v=1728915563,True,48.85,1040,57.40,5,8669309206696,2024-10-14T13:25:16+01:00,2024-12-11T13:51:02+00:00
+50047449563304,Large (1kg) / Cafetiere,Large (1kg),Cafetiere,,4237,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/266_Colombia_Terra_Community_Gesha_1kg.jpg?v=1728915563,True,48.85,1040,57.40,6,8669309206696,2024-10-14T13:25:16+01:00,2024-12-11T13:51:02+00:00
+50047449596072,Large (1kg) / Filter,Large (1kg),Filter,,4238,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/266_Colombia_Terra_Community_Gesha_1kg.jpg?v=1728915563,True,48.85,1040,57.40,7,8669309206696,2024-10-14T13:25:16+01:00,2024-12-11T13:51:02+00:00
+50047449628840,Large (1kg) / Espresso,Large (1kg),Espresso,,4239,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/266_Colombia_Terra_Community_Gesha_1kg.jpg?v=1728915563,True,48.85,1040,57.40,8,8669309206696,2024-10-14T13:25:16+01:00,2024-12-11T13:51:02+00:00
+50048309723304,Small (250g) / Whole Bean,Small (250g),Whole Bean,,13185,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/022_Christmas_Blend_250g_babe9b48-a363-42c5-af4c-04738f60e0d5.jpg?v=1728913855,True,8.95,280,,1,8669390438568,2024-10-14T14:46:43+01:00,2024-12-11T13:51:02+00:00
+50048309756072,Small (250g) / Cafetiere,Small (250g),Cafetiere,,13186,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/022_Christmas_Blend_250g_babe9b48-a363-42c5-af4c-04738f60e0d5.jpg?v=1728913855,True,8.95,280,,2,8669390438568,2024-10-14T14:46:43+01:00,2024-12-11T13:51:02+00:00
+50048309788840,Small (250g) / Filter,Small (250g),Filter,,13187,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/022_Christmas_Blend_250g_babe9b48-a363-42c5-af4c-04738f60e0d5.jpg?v=1728913855,True,8.95,280,,3,8669390438568,2024-10-14T14:46:43+01:00,2024-12-11T13:51:02+00:00
+50048309821608,Small (250g) / Espresso,Small (250g),Espresso,,13188,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/022_Christmas_Blend_250g_babe9b48-a363-42c5-af4c-04738f60e0d5.jpg?v=1728913855,True,8.95,280,,4,8669390438568,2024-10-14T14:46:43+01:00,2024-12-11T13:51:02+00:00
+50048309854376,Large (1kg) / Whole Bean,Large (1kg),Whole Bean,,13189,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/022_Christmas_Blend_1kg_5d5fb965-d1d1-4f7a-a9a6-948d6739c471.jpg?v=1728913854,True,30.45,1040,35.80,5,8669390438568,2024-10-14T14:46:43+01:00,2024-12-11T13:51:02+00:00
+50048309887144,Large (1kg) / Cafetiere,Large (1kg),Cafetiere,,13190,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/022_Christmas_Blend_1kg_5d5fb965-d1d1-4f7a-a9a6-948d6739c471.jpg?v=1728913854,True,30.45,1040,35.80,6,8669390438568,2024-10-14T14:46:43+01:00,2024-12-11T13:51:02+00:00
+50048309919912,Large (1kg) / Filter,Large (1kg),Filter,,13191,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/022_Christmas_Blend_1kg_5d5fb965-d1d1-4f7a-a9a6-948d6739c471.jpg?v=1728913854,True,30.45,1040,35.80,7,8669390438568,2024-10-14T14:46:43+01:00,2024-12-11T13:51:02+00:00
+50048309952680,Large (1kg) / Espresso,Large (1kg),Espresso,,13192,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/022_Christmas_Blend_1kg_5d5fb965-d1d1-4f7a-a9a6-948d6739c471.jpg?v=1728913854,True,30.45,1040,35.80,8,8669390438568,2024-10-14T14:46:43+01:00,2024-12-11T13:51:02+00:00
+49795251765416,Small (500g) / green,Small (500g),green,,43022,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/Honduras_Finca_El_Chollo_GREEN__250g.jpg?v=1727090013,True,12.30,515,,1,8641381597352,2024-09-23T12:12:12+01:00,2024-12-11T13:51:02+00:00
+49879291461800,Black,Black,,,105058,True,True,https://cdn.shopify.com/s/files/1/0390/4361/files/dark-roast-sqaure.jpg?v=1727770839,True,19.95,78,,2,8650629054632,2024-09-30T12:29:29+01:00,2024-12-11T13:51:02+00:00
+49879291494568,Navy,Navy,,,105057,True,True,https://cdn.shopify.com/s/files/1/0390/4361/files/light-roast-square.jpg?v=1727770839,True,19.95,78,,3,8650629054632,2024-09-30T12:29:29+01:00,2024-12-11T13:51:02+00:00
+49879707648168,Small (250g) / Whole Bean,Small (250g),Whole Bean,,4224,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/260_El_Salvador_Santa_Petrona_250g.jpg?v=1727700285,True,9.95,260,,1,8650683285672,2024-09-30T13:19:11+01:00,2024-12-11T13:51:02+00:00
+49879707680936,Small (250g) / Cafetiere,Small (250g),Cafetiere,,4225,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/260_El_Salvador_Santa_Petrona_250g.jpg?v=1727700285,True,9.95,264,,2,8650683285672,2024-09-30T13:19:11+01:00,2024-12-11T13:51:02+00:00
+49879707713704,Small (250g) / Filter,Small (250g),Filter,,4226,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/260_El_Salvador_Santa_Petrona_250g.jpg?v=1727700285,True,9.95,264,,3,8650683285672,2024-09-30T13:19:11+01:00,2024-12-11T13:51:02+00:00
+49879707746472,Small (250g) / Espresso,Small (250g),Espresso,,4227,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/260_El_Salvador_Santa_Petrona_250g.jpg?v=1727700285,True,9.95,264,,4,8650683285672,2024-09-30T13:19:11+01:00,2024-12-11T13:51:02+00:00
+49879707779240,Large (1kg) / Whole Bean,Large (1kg),Whole Bean,,4228,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/260_El_Salvador_Santa_Petrona_1kg.jpg?v=1727700285,True,33.85,1040,39.80,5,8650683285672,2024-09-30T13:19:11+01:00,2024-12-11T13:51:02+00:00
+49879707812008,Large (1kg) / Cafetiere,Large (1kg),Cafetiere,,4229,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/260_El_Salvador_Santa_Petrona_1kg.jpg?v=1727700285,True,33.85,1040,39.80,6,8650683285672,2024-09-30T13:19:11+01:00,2024-12-11T13:51:02+00:00
+49879707844776,Large (1kg) / Filter,Large (1kg),Filter,,4230,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/260_El_Salvador_Santa_Petrona_1kg.jpg?v=1727700285,True,33.85,1040,39.80,7,8650683285672,2024-09-30T13:19:11+01:00,2024-12-11T13:51:02+00:00
+49879707877544,Large (1kg) / Espresso,Large (1kg),Espresso,,4231,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/260_El_Salvador_Santa_Petrona_1kg.jpg?v=1727700285,True,33.85,1040,39.80,8,8650683285672,2024-09-30T13:19:11+01:00,2024-12-11T13:51:02+00:00
+49793940521128,Small (250g) / Whole Bean,Small (250g),Whole Bean,,4152,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/252_Ethiopia_Bookkisa_250g.jpg?v=1727080358,True,10.45,264,,1,8641233191080,2024-09-23T09:31:43+01:00,2024-12-11T13:51:02+00:00
+49793940553896,Small (250g) / Cafetiere,Small (250g),Cafetiere,,4153,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/252_Ethiopia_Bookkisa_250g.jpg?v=1727080358,True,10.45,264,,2,8641233191080,2024-09-23T09:31:43+01:00,2024-12-11T13:51:02+00:00
+49793940586664,Small (250g) / Filter,Small (250g),Filter,,4154,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/252_Ethiopia_Bookkisa_250g.jpg?v=1727080358,True,10.45,264,,3,8641233191080,2024-09-23T09:31:43+01:00,2024-12-11T13:51:02+00:00
+49793940619432,Small (250g) / Espresso,Small (250g),Espresso,,4155,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/252_Ethiopia_Bookkisa_250g.jpg?v=1727080358,True,10.45,264,,4,8641233191080,2024-09-23T09:31:43+01:00,2024-12-11T13:51:02+00:00
+49793940652200,Large (1kg) / Whole Bean,Large (1kg),Whole Bean,,4156,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/252_Ethiopia_Bookkisa_1kg.jpg?v=1727080358,True,35.55,1040,41.80,5,8641233191080,2024-09-23T09:31:43+01:00,2024-12-11T13:51:02+00:00
+49793940684968,Large (1kg) / Cafetiere,Large (1kg),Cafetiere,,4157,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/252_Ethiopia_Bookkisa_1kg.jpg?v=1727080358,True,35.55,1040,41.80,6,8641233191080,2024-09-23T09:31:43+01:00,2024-12-11T13:51:02+00:00
+49793940717736,Large (1kg) / Filter,Large (1kg),Filter,,4158,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/252_Ethiopia_Bookkisa_1kg.jpg?v=1727080358,True,35.55,1040,41.80,7,8641233191080,2024-09-23T09:31:43+01:00,2024-12-11T13:51:02+00:00
+49793940750504,Large (1kg) / Espresso,Large (1kg),Espresso,,4159,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/252_Ethiopia_Bookkisa_1kg.jpg?v=1727080358,True,35.55,1040,41.80,8,8641233191080,2024-09-23T09:31:43+01:00,2024-12-11T13:51:02+00:00
+49583522742440,Default Title,Default Title,,,105056,True,True,,True,3.95,5,,2,8617675620520,2024-09-05T09:33:31+01:00,2024-12-11T13:51:02+00:00
+49570923806888,Chrome / Dark,Chrome,Dark,,23462,True,True,https://cdn.shopify.com/s/files/1/0390/4361/files/Untitled-144.jpg?v=1725443825,True,72.99,0,,1,8615823081640,2024-09-04T10:56:26+01:00,2024-12-11T13:51:02+00:00
+49570925838504,Chrome / Milk,Chrome,Milk,,23463,True,True,https://cdn.shopify.com/s/files/1/0390/4361/files/Untitled-142.jpg?v=1725443825,True,72.99,0,,2,8615823081640,2024-09-04T10:56:43+01:00,2024-12-11T13:51:02+00:00
+49570925871272,Chrome / White,Chrome,White,,23464,True,True,https://cdn.shopify.com/s/files/1/0390/4361/files/Untitled-139.jpg?v=1725443825,False,72.99,0,,3,8615823081640,2024-09-04T10:56:43+01:00,2024-12-11T13:51:02+00:00
+49570923839656,Copper / Dark,Copper,Dark,,23465,True,True,https://cdn.shopify.com/s/files/1/0390/4361/files/Untitled-140.jpg?v=1725443825,True,72.99,0,,4,8615823081640,2024-09-04T10:56:26+01:00,2024-12-11T13:51:02+00:00
+49570925936808,Copper / Milk,Copper,Milk,,23466,True,True,https://cdn.shopify.com/s/files/1/0390/4361/files/Untitled-143.jpg?v=1725443825,True,72.99,0,,5,8615823081640,2024-09-04T10:56:43+01:00,2024-12-11T13:51:02+00:00
+49570925969576,Copper / White,Copper,White,,23467,True,True,https://cdn.shopify.com/s/files/1/0390/4361/files/Untitled-141.jpg?v=1725443825,False,72.99,0,,6,8615823081640,2024-09-04T10:56:43+01:00,2024-12-11T13:51:02+00:00
+49571152232616,Chrome,Chrome,,,33168,True,True,https://cdn.shopify.com/s/files/1/0390/4361/files/Untitled-128.jpg?v=1725445566,True,67.99,0,,1,8615877705896,2024-09-04T11:24:45+01:00,2024-12-11T13:51:02+00:00
+49571152330920,Copper,Copper,,,33167,True,True,https://cdn.shopify.com/s/files/1/0390/4361/files/Untitled-130.jpg?v=1725445566,True,67.99,0,,2,8615877705896,2024-09-04T11:24:45+01:00,2024-12-11T13:51:02+00:00
+49479651459240,Small (250g) / Whole Bean,Small (250g),Whole Bean,,4184,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/254_Honduras_Finca_La_Valentina_250g.jpg?v=1724756632,True,9.95,260,,1,8604880175272,2024-08-27T12:02:59+01:00,2024-12-11T13:51:02+00:00
+49479651492008,Small (250g) / Cafetiere,Small (250g),Cafetiere,,4185,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/254_Honduras_Finca_La_Valentina_250g.jpg?v=1724756632,True,9.95,264,,2,8604880175272,2024-08-27T12:02:59+01:00,2024-12-11T13:51:02+00:00
+49479651524776,Small (250g) / Filter,Small (250g),Filter,,4186,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/254_Honduras_Finca_La_Valentina_250g.jpg?v=1724756632,True,9.95,264,,3,8604880175272,2024-08-27T12:02:59+01:00,2024-12-11T13:51:02+00:00
+49479651557544,Small (250g) / Espresso,Small (250g),Espresso,,4187,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/254_Honduras_Finca_La_Valentina_250g.jpg?v=1724756632,True,9.95,264,,4,8604880175272,2024-08-27T12:02:59+01:00,2024-12-11T13:51:02+00:00
+49479651590312,Large (1kg) / Whole Bean,Large (1kg),Whole Bean,,4188,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/254_Honduras_Finca_La_Valentina_1kg.jpg?v=1724756633,True,33.85,1040,39.80,5,8604880175272,2024-08-27T12:02:59+01:00,2024-12-11T13:51:02+00:00
+49479651623080,Large (1kg) / Cafetiere,Large (1kg),Cafetiere,,4189,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/254_Honduras_Finca_La_Valentina_1kg.jpg?v=1724756633,True,33.85,1040,39.80,6,8604880175272,2024-08-27T12:02:59+01:00,2024-12-11T13:51:02+00:00
+49479651655848,Large (1kg) / Filter,Large (1kg),Filter,,4190,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/254_Honduras_Finca_La_Valentina_1kg.jpg?v=1724756633,True,33.85,1040,39.80,7,8604880175272,2024-08-27T12:02:59+01:00,2024-12-11T13:51:02+00:00
+49479651688616,Large (1kg) / Espresso,Large (1kg),Espresso,,4191,True,False,https://cdn.shopify.com/s/files/1/0390/4361/files/254_Honduras_Finca_La_Valentina_1kg.jpg?v=1724756633,True,33.85,1040,39.80,8,8604880175272,2024-08-27T12:03:00+01:00,2024-12-11T13:51:02+00:00
+53010130108799,Sample - 227g / Beans,Sample - 227g,Beans,,000133-1,True,False,,True,15.99,227,,1,14819064512895,2024-11-15T08:10:32+00:00,2024-12-11T13:51:04+00:00
+53010130141567,Sample - 227g / Filter,Sample - 227g,Filter,,000133-3,True,False,,True,15.99,227,,2,14819064512895,2024-11-15T08:10:32+00:00,2024-12-11T13:51:04+00:00
+53010130174335,Sample - 227g / Percolator,Sample - 227g,Percolator,,000133-4,True,False,,True,15.99,227,,3,14819064512895,2024-11-15T08:10:32+00:00,2024-12-11T13:51:04+00:00
+53010130207103,Sample - 227g / Turkish,Sample - 227g,Turkish,,000133-5,True,False,,True,15.99,227,,4,14819064512895,2024-11-15T08:10:32+00:00,2024-12-11T13:51:04+00:00
+53010130239871,Sample - 227g / Cafetiere,Sample - 227g,Cafetiere,,000133-6,True,False,,True,15.99,227,,5,14819064512895,2024-11-15T08:10:32+00:00,2024-12-11T13:51:04+00:00
+53010130272639,Sample - 227g / Espresso,Sample - 227g,Espresso,,000133-2,True,False,,True,15.99,227,,6,14819064512895,2024-11-15T08:10:32+00:00,2024-12-11T13:51:04+00:00
+53010130305407,Regular - 454g / Beans,Regular - 454g,Beans,,000133-7,True,False,,True,19.99,454,,7,14819064512895,2024-11-15T08:10:32+00:00,2024-12-11T13:51:04+00:00
+53010130338175,Regular - 454g / Filter,Regular - 454g,Filter,,000133-10,True,False,,True,19.99,454,,8,14819064512895,2024-11-15T08:10:32+00:00,2024-12-11T13:51:04+00:00
+53010130370943,Regular - 454g / Percolator,Regular - 454g,Percolator,,000133-11,True,False,,True,19.99,454,,9,14819064512895,2024-11-15T08:10:32+00:00,2024-12-11T13:51:04+00:00
+53010130403711,Regular - 454g / Turkish,Regular - 454g,Turkish,,000133-12,True,False,,True,19.99,454,,10,14819064512895,2024-11-15T08:10:32+00:00,2024-12-11T13:51:04+00:00
+53010130436479,Regular - 454g / Cafetiere,Regular - 454g,Cafetiere,,000133-8,True,False,,True,19.99,454,,11,14819064512895,2024-11-15T08:10:32+00:00,2024-12-11T13:51:04+00:00
+53010130469247,Regular - 454g / Espresso,Regular - 454g,Espresso,,000133-9,True,False,,True,19.99,454,,12,14819064512895,2024-11-15T08:10:32+00:00,2024-12-11T13:51:04+00:00
+53010130502015,Large - 908g / Beans,Large - 908g,Beans,,000133-13,True,False,,True,30.99,908,,13,14819064512895,2024-11-15T08:10:32+00:00,2024-12-11T13:51:04+00:00
+53010130534783,Large - 908g / Filter,Large - 908g,Filter,,000133-16,True,False,,True,30.99,908,,14,14819064512895,2024-11-15T08:10:32+00:00,2024-12-11T13:51:04+00:00
+53010130567551,Large - 908g / Percolator,Large - 908g,Percolator,,000133-17,True,False,,True,30.99,908,,15,14819064512895,2024-11-15T08:10:32+00:00,2024-12-11T13:51:04+00:00
+53010130600319,Large - 908g / Turkish,Large - 908g,Turkish,,000133-18,True,False,,True,30.99,908,,16,14819064512895,2024-11-15T08:10:32+00:00,2024-12-11T13:51:04+00:00
+53010130633087,Large - 908g / Cafetiere,Large - 908g,Cafetiere,,000133-14,True,False,,True,30.99,908,,17,14819064512895,2024-11-15T08:10:32+00:00,2024-12-11T13:51:04+00:00
+53010130665855,Large - 908g / Espresso,Large - 908g,Espresso,,000133-15,True,False,,True,30.99,908,,18,14819064512895,2024-11-15T08:10:32+00:00,2024-12-11T13:51:04+00:00
+53010130698623,2.5kg / Beans,2.5kg,Beans,,000133-25,True,False,,True,68.99,2500,,19,14819064512895,2024-11-15T08:10:32+00:00,2024-12-11T13:51:04+00:00
+53010130731391,5kg / Beans,5kg,Beans,,000133-50,True,False,,True,123.99,5000,,20,14819064512895,2024-11-15T08:10:32+00:00,2024-12-11T13:51:04+00:00
+51971864559999,Default Title,Default Title,,,EG5603/40,True,True,,True,719.00,9600,899.00,1,14812238774655,2024-11-08T11:54:39+00:00,2024-12-11T13:51:04+00:00
+51971504308607,Default Title,Default Title,,,EG6603/40,True,True,,True,629.00,7700,849.00,1,14812226322815,2024-11-08T11:50:32+00:00,2024-12-11T13:51:04+00:00
+44254153113765,Default Title,Default Title,,,POCCO1,True,False,,True,10.99,1200,,2,8846190477477,2024-10-07T09:07:38+01:00,2024-12-11T13:51:04+00:00
+44212882145445,Default Title,Default Title,,,62722,True,True,,True,214.99,4900,,2,8835492020389,2024-09-20T08:20:37+01:00,2024-12-11T13:51:04+00:00
+44202633101477,Default Title,Default Title,,,6758122,True,True,,False,54.99,2000,69.99,2,8832499613861,2024-09-16T12:09:37+01:00,2024-12-11T13:51:04+00:00
+44192696664229,Default Title,Default Title,,,RSD032,True,True,,True,8.99,120,,2,8828916662437,2024-09-12T12:39:16+01:00,2024-12-11T13:51:04+00:00
+44192695156901,Default Title,Default Title,,,RSD031,True,True,,True,13.99,240,,2,8828916531365,2024-09-12T12:35:33+01:00,2024-12-11T13:51:04+00:00
+44192694599845,Default Title,Default Title,,,RSD030,True,True,,True,7.99,340,,2,8828916400293,2024-09-12T12:32:54+01:00,2024-12-11T13:51:04+00:00
+44192691650725,Gold,Gold,,,RSD029-1,True,True,,True,19.99,378,,2,8828915974309,2024-09-12T12:28:17+01:00,2024-12-11T13:51:04+00:00
+44192691683493,Silver,Silver,,,RSD029-2,True,True,,True,19.99,378,,3,8828915974309,2024-09-12T12:28:17+01:00,2024-12-11T13:51:04+00:00
+44192691716261,Bronze,Bronze,,,RSD029-3,True,True,,True,19.99,378,,4,8828915974309,2024-09-12T12:28:17+01:00,2024-12-11T13:51:04+00:00
+44192691749029,Red,Red,,,RSD029-4,True,True,,True,19.99,378,,5,8828915974309,2024-09-12T12:28:17+01:00,2024-12-11T13:51:04+00:00
+44192687915173,Default Title,Default Title,,,RSD028,True,True,,True,27.99,540,,2,8828915351717,2024-09-12T12:18:56+01:00,2024-12-11T13:51:04+00:00
+44192682934437,Default Title,Default Title,,,RSD027,True,True,,True,8.99,79,,2,8828914073765,2024-09-12T12:11:10+01:00,2024-12-11T13:51:04+00:00
+44192681066661,Default Title,Default Title,,,RSD026,True,True,,True,5.99,28,,2,8828913451173,2024-09-12T12:09:00+01:00,2024-12-11T13:51:04+00:00
+44192677298341,350ml,350ml,,,RSD025-1,True,True,,True,14.99,225,,2,8828913057957,2024-09-12T12:04:38+01:00,2024-12-11T13:51:04+00:00
+44192677331109,750ml,750ml,,,RSD025-2,True,True,,True,17.99,440,,3,8828913057957,2024-09-12T12:04:38+01:00,2024-12-11T13:51:04+00:00
+44192676380837,600ml,600ml,,,RSD024-2,True,True,,True,24.99,500,,2,8828912861349,2024-09-12T12:00:11+01:00,2024-12-11T13:51:04+00:00
+44192669499557,800ml / 218g,800ml / 218g,,,RSD023-1,True,True,,True,26.99,200,,2,8828911124645,2024-09-12T11:51:54+01:00,2024-12-11T13:51:04+00:00
+44192669532325,1200ml / 275g,1200ml / 275g,,,RSD023-2,True,True,,True,29.99,340,,3,8828911124645,2024-09-12T11:51:54+01:00,2024-12-11T13:51:04+00:00
+44192669040805,Default Title,Default Title,,,RSD022,True,True,,True,12.99,50,,2,8828910960805,2024-09-12T11:47:08+01:00,2024-12-11T13:51:04+00:00
+44192668057765,Default Title,Default Title,,,RSD021,True,True,,True,6.99,40,,2,8828910698661,2024-09-12T11:44:34+01:00,2024-12-11T13:51:04+00:00
+44192665960613,Default Title,Default Title,,,RSD020,True,True,,True,24.99,300,,2,8828910174373,2024-09-12T11:36:24+01:00,2024-12-11T13:51:04+00:00
+44075066163365,Default Title,Default Title,,,62325,True,True,,True,69.99,880,,2,8785952833701,2024-07-29T12:13:40+01:00,2024-12-11T13:51:04+00:00
+44075063607461,Default Title,Default Title,,,62326,True,True,,True,69.99,880,,2,8785951096997,2024-07-29T12:11:42+01:00,2024-12-11T13:51:04+00:00
+44075054629029,Default Title,Default Title,,,6767054,True,True,,False,139.00,2800,,2,8785947000997,2024-07-29T12:07:31+01:00,2024-12-11T13:51:04+00:00
+44075050664101,Default Title,Default Title,,,62623,True,True,,True,699.00,8300,779.00,2,8785943920805,2024-07-29T12:03:13+01:00,2024-12-11T13:51:04+00:00
+44075048009893,Default Title,Default Title,,,62626,True,True,,True,539.99,9900,599.00,2,8785941594277,2024-07-29T11:58:59+01:00,2024-12-11T13:51:04+00:00
+44075045683365,Default Title,Default Title,,,62721,True,True,,True,159.00,3900,,2,8785939333285,2024-07-29T11:56:15+01:00,2024-12-11T13:51:04+00:00
+44075042930853,Default Title,Default Title,,,6766589,True,True,,True,79.99,2400,,2,8785937137829,2024-07-29T11:52:33+01:00,2024-12-11T13:51:04+00:00
+44075037524133,Default Title,Default Title,,,6769008,True,True,,True,117.00,2800,,2,8785932714149,2024-07-29T11:46:12+01:00,2024-12-11T13:51:04+00:00
+44040564637861,Default Title,Default Title,,,DL0079,True,True,,False,59.99,1500,66.99,2,8771218342053,2024-07-19T09:19:27+01:00,2024-12-11T13:51:04+00:00
+44040544714917,Default Title,Default Title,,,DL0210,True,True,,True,56.99,1000,,2,8771216375973,2024-07-19T09:14:30+01:00,2024-12-11T13:51:04+00:00
+44040520630437,Default Title,Default Title,,,DL3531,True,True,,False,209.99,4200,,2,8771212837029,2024-07-19T09:06:41+01:00,2024-12-11T13:51:04+00:00
+41201462444087,Default Title,Default Title,,,,True,True,,True,1299.00,0,,2,7149870383159,2024-08-06T18:15:37+05:30,2024-12-11T19:21:05+05:30
+41132993511479,Default Title,Default Title,,,,True,True,,True,1899.00,0,,2,7131306623031,2024-07-09T14:25:55+05:30,2024-12-11T19:21:05+05:30
+41396687962167,250g / Aeropress,250g,Aeropress,,,True,True,,True,680.00,0,,1,7204001185847,2024-12-02T14:20:00+05:30,2024-12-11T19:21:05+05:30
+41396688093239,250g / Channi,250g,Channi,,,True,True,,True,680.00,0,,2,7204001185847,2024-12-02T14:20:00+05:30,2024-12-11T19:21:05+05:30
+41396688224311,250g / Coffee Filter,250g,Coffee Filter,,,True,True,,True,680.00,0,,3,7204001185847,2024-12-02T14:20:00+05:30,2024-12-11T19:21:05+05:30
+41396688355383,250g / Cold Brew,250g,Cold Brew,,,True,True,,True,680.00,0,,4,7204001185847,2024-12-02T14:20:00+05:30,2024-12-11T19:21:05+05:30
+41396688486455,250g / Commercial Espresso,250g,Commercial Espresso,,,True,True,,True,680.00,0,,5,7204001185847,2024-12-02T14:20:00+05:30,2024-12-11T19:21:05+05:30
+41396688617527,250g / French Press,250g,French Press,,,True,True,,True,680.00,0,,6,7204001185847,2024-12-02T14:20:00+05:30,2024-12-11T19:21:05+05:30
+41396688748599,250g / Home Espresso,250g,Home Espresso,,,True,True,,True,680.00,0,,7,7204001185847,2024-12-02T14:20:00+05:30,2024-12-11T19:21:05+05:30
+41396688879671,250g / Inverted Aeropress,250g,Inverted Aeropress,,,True,True,,True,680.00,0,,8,7204001185847,2024-12-02T14:20:00+05:30,2024-12-11T19:21:05+05:30
+41396689010743,250g / Moka Pot,250g,Moka Pot,,,True,True,,True,680.00,0,,9,7204001185847,2024-12-02T14:20:00+05:30,2024-12-11T19:21:05+05:30
+41396689141815,250g / Pourover,250g,Pourover,,,True,True,,True,680.00,0,,10,7204001185847,2024-12-02T14:20:00+05:30,2024-12-11T19:21:05+05:30
+41396689272887,250g / South Indian Filter,250g,South Indian Filter,,,True,True,,True,680.00,0,,11,7204001185847,2024-12-02T14:20:00+05:30,2024-12-11T19:21:05+05:30
+41396689403959,250g / Turkish,250g,Turkish,,,True,True,,True,680.00,0,,12,7204001185847,2024-12-02T14:20:00+05:30,2024-12-11T19:21:05+05:30
+41396689535031,250g / Whole Bean,250g,Whole Bean,,,True,True,,True,680.00,0,,13,7204001185847,2024-12-02T14:20:00+05:30,2024-12-11T19:21:05+05:30
+41396687994935,500g / Aeropress,500g,Aeropress,,,True,True,,True,1260.00,0,,14,7204001185847,2024-12-02T14:20:00+05:30,2024-12-11T19:21:05+05:30
+41396688126007,500g / Channi,500g,Channi,,,True,True,,True,1260.00,0,,15,7204001185847,2024-12-02T14:20:00+05:30,2024-12-11T19:21:05+05:30
+41396688257079,500g / Coffee Filter,500g,Coffee Filter,,,True,True,,True,1260.00,0,,16,7204001185847,2024-12-02T14:20:00+05:30,2024-12-11T19:21:05+05:30
+41396688388151,500g / Cold Brew,500g,Cold Brew,,,True,True,,True,1260.00,0,,17,7204001185847,2024-12-02T14:20:00+05:30,2024-12-11T19:21:05+05:30
+41396688519223,500g / Commercial Espresso,500g,Commercial Espresso,,,True,True,,True,1260.00,0,,18,7204001185847,2024-12-02T14:20:00+05:30,2024-12-11T19:21:05+05:30
+41396688650295,500g / French Press,500g,French Press,,,True,True,,True,1260.00,0,,19,7204001185847,2024-12-02T14:20:00+05:30,2024-12-11T19:21:05+05:30
+41396688781367,500g / Home Espresso,500g,Home Espresso,,,True,True,,True,1260.00,0,,20,7204001185847,2024-12-02T14:20:00+05:30,2024-12-11T19:21:05+05:30
+41396688912439,500g / Inverted Aeropress,500g,Inverted Aeropress,,,True,True,,True,1260.00,0,,21,7204001185847,2024-12-02T14:20:00+05:30,2024-12-11T19:21:05+05:30
+41396689043511,500g / Moka Pot,500g,Moka Pot,,,True,True,,True,1260.00,0,,22,7204001185847,2024-12-02T14:20:00+05:30,2024-12-11T19:21:05+05:30
+41396689174583,500g / Pourover,500g,Pourover,,,True,True,,True,1260.00,0,,23,7204001185847,2024-12-02T14:20:00+05:30,2024-12-11T19:21:05+05:30
+41396689305655,500g / South Indian Filter,500g,South Indian Filter,,,True,True,,True,1260.00,0,,24,7204001185847,2024-12-02T14:20:00+05:30,2024-12-11T19:21:05+05:30
+41396689436727,500g / Turkish,500g,Turkish,,,True,True,,True,1260.00,0,,25,7204001185847,2024-12-02T14:20:00+05:30,2024-12-11T19:21:05+05:30
+41396689567799,500g / Whole Bean,500g,Whole Bean,,,True,True,,True,1260.00,0,,26,7204001185847,2024-12-02T14:20:00+05:30,2024-12-11T19:21:05+05:30
+41396687929399,1000g / Aeropress,1000g,Aeropress,,,True,True,,True,2300.00,0,,27,7204001185847,2024-12-02T14:20:00+05:30,2024-12-11T19:21:05+05:30
+41396688060471,1000g / Channi,1000g,Channi,,,True,True,,True,2300.00,0,,28,7204001185847,2024-12-02T14:20:00+05:30,2024-12-11T19:21:05+05:30
+41396688191543,1000g / Coffee Filter,1000g,Coffee Filter,,,True,True,,True,2300.00,0,,29,7204001185847,2024-12-02T14:20:00+05:30,2024-12-11T19:21:05+05:30
+41396688322615,1000g / Cold Brew,1000g,Cold Brew,,,True,True,,True,2300.00,0,,30,7204001185847,2024-12-02T14:20:00+05:30,2024-12-11T19:21:05+05:30
+41396688453687,1000g / Commercial Espresso,1000g,Commercial Espresso,,,True,True,,True,2300.00,0,,31,7204001185847,2024-12-02T14:20:00+05:30,2024-12-11T19:21:05+05:30
+41396688584759,1000g / French Press,1000g,French Press,,,True,True,,True,2300.00,0,,32,7204001185847,2024-12-02T14:20:00+05:30,2024-12-11T19:21:05+05:30
+41396688715831,1000g / Home Espresso,1000g,Home Espresso,,,True,True,,True,2300.00,0,,33,7204001185847,2024-12-02T14:20:00+05:30,2024-12-11T19:21:05+05:30
+41396688846903,1000g / Inverted Aeropress,1000g,Inverted Aeropress,,,True,True,,True,2300.00,0,,34,7204001185847,2024-12-02T14:20:00+05:30,2024-12-11T19:21:05+05:30
+41396688977975,1000g / Moka Pot,1000g,Moka Pot,,,True,True,,True,2300.00,0,,35,7204001185847,2024-12-02T14:20:00+05:30,2024-12-11T19:21:05+05:30
+41396689109047,1000g / Pourover,1000g,Pourover,,,True,True,,True,2300.00,0,,36,7204001185847,2024-12-02T14:20:00+05:30,2024-12-11T19:21:05+05:30
+41396689240119,1000g / South Indian Filter,1000g,South Indian Filter,,,True,True,,True,2300.00,0,,37,7204001185847,2024-12-02T14:20:00+05:30,2024-12-11T19:21:05+05:30
+41396689371191,1000g / Turkish,1000g,Turkish,,,True,True,,True,2300.00,0,,38,7204001185847,2024-12-02T14:20:00+05:30,2024-12-11T19:21:05+05:30
+41396689502263,1000g / Whole Bean,1000g,Whole Bean,,,True,True,,True,2300.00,0,,39,7204001185847,2024-12-02T14:20:00+05:30,2024-12-11T19:21:05+05:30
+41394184618039,Whole Bean,Whole Bean,,,,True,True,,True,540.00,225,,1,7203513761847,2024-11-29T12:37:48+05:30,2024-12-11T19:21:05+05:30
+41394184650807,Aeropress,Aeropress,,,,True,True,,True,540.00,225,,2,7203513761847,2024-11-29T12:37:48+05:30,2024-12-11T19:21:05+05:30
+41394184683575,Channi,Channi,,,,True,True,,True,540.00,225,,3,7203513761847,2024-11-29T12:37:48+05:30,2024-12-11T19:21:05+05:30
+41394184716343,Coffee Filter,Coffee Filter,,,,True,True,,True,540.00,225,,4,7203513761847,2024-11-29T12:37:48+05:30,2024-12-11T19:21:05+05:30
+41394184749111,Cold Brew,Cold Brew,,,,True,True,,True,540.00,225,,5,7203513761847,2024-11-29T12:37:48+05:30,2024-12-11T19:21:05+05:30
+41394184781879,Commercial Espresso,Commercial Espresso,,,,True,True,,True,540.00,225,,6,7203513761847,2024-11-29T12:37:48+05:30,2024-12-11T19:21:05+05:30
+41394184814647,French Press,French Press,,,,True,True,,True,540.00,225,,7,7203513761847,2024-11-29T12:37:48+05:30,2024-12-11T19:21:05+05:30
+41394184847415,Home Espresso,Home Espresso,,,,True,True,,True,540.00,225,,8,7203513761847,2024-11-29T12:37:48+05:30,2024-12-11T19:21:05+05:30
+41394184880183,Inverted Aeropress,Inverted Aeropress,,,,True,True,,True,540.00,225,,9,7203513761847,2024-11-29T12:37:48+05:30,2024-12-11T19:21:05+05:30
+41394184912951,Moka Pot,Moka Pot,,,,True,True,,True,540.00,225,,10,7203513761847,2024-11-29T12:37:48+05:30,2024-12-11T19:21:05+05:30
+41394184945719,Pourover,Pourover,,,,True,True,,True,540.00,225,,11,7203513761847,2024-11-29T12:37:48+05:30,2024-12-11T19:21:05+05:30
+41394184978487,South Indian Filter,South Indian Filter,,,,True,True,,True,540.00,225,,12,7203513761847,2024-11-29T12:37:48+05:30,2024-12-11T19:21:05+05:30
+41394185011255,Turkish,Turkish,,,,True,True,,True,540.00,225,,13,7203513761847,2024-11-29T12:37:48+05:30,2024-12-11T19:21:05+05:30
+41396662075447,75g / Aeropress,75g,Aeropress,,,True,True,,True,0.00,0,,1,7203994599479,2024-12-02T12:54:56+05:30,2024-12-11T19:21:05+05:30
+41396662108215,75g / Channi,75g,Channi,,,True,True,,True,0.00,0,,2,7203994599479,2024-12-02T12:54:56+05:30,2024-12-11T19:21:05+05:30
+41396662140983,75g / Coffee Filter,75g,Coffee Filter,,,True,True,,True,0.00,0,,3,7203994599479,2024-12-02T12:54:56+05:30,2024-12-11T19:21:05+05:30
+41396662173751,75g / Cold Brew,75g,Cold Brew,,,True,True,,True,0.00,0,,4,7203994599479,2024-12-02T12:54:56+05:30,2024-12-11T19:21:05+05:30
+41396662206519,75g / Commercial Espresso,75g,Commercial Espresso,,,True,True,,True,0.00,0,,5,7203994599479,2024-12-02T12:54:56+05:30,2024-12-11T19:21:05+05:30
+41396662239287,75g / French Press,75g,French Press,,,True,True,,True,0.00,0,,6,7203994599479,2024-12-02T12:54:56+05:30,2024-12-11T19:21:05+05:30
+41396662272055,75g / Home Espresso,75g,Home Espresso,,,True,True,,True,0.00,0,,7,7203994599479,2024-12-02T12:54:56+05:30,2024-12-11T19:21:05+05:30
+41396662304823,75g / Inverted Aeropress,75g,Inverted Aeropress,,,True,True,,True,0.00,0,,8,7203994599479,2024-12-02T12:54:56+05:30,2024-12-11T19:21:05+05:30
+41396662337591,75g / Moka Pot,75g,Moka Pot,,,True,True,,True,0.00,0,,9,7203994599479,2024-12-02T12:54:56+05:30,2024-12-11T19:21:05+05:30
+41396662370359,75g / Pourover,75g,Pourover,,,True,True,,True,0.00,0,,10,7203994599479,2024-12-02T12:54:56+05:30,2024-12-11T19:21:05+05:30
+41396662403127,75g / South Indian Filter,75g,South Indian Filter,,,True,True,,True,0.00,0,,11,7203994599479,2024-12-02T12:54:56+05:30,2024-12-11T19:21:05+05:30
+41396662435895,75g / Turkish,75g,Turkish,,,True,True,,True,0.00,0,,12,7203994599479,2024-12-02T12:54:56+05:30,2024-12-11T19:21:05+05:30
+41396662468663,75g / Whole Beans,75g,Whole Beans,,,True,True,,True,0.00,0,,13,7203994599479,2024-12-02T12:54:56+05:30,2024-12-11T19:21:05+05:30
+41396661518391,75g / Aeropress,75g,Aeropress,,,True,True,,True,0.00,0,,1,7203994533943,2024-12-02T12:54:12+05:30,2024-12-11T19:21:05+05:30
+41396661551159,75g / Channi,75g,Channi,,,True,True,,True,0.00,0,,2,7203994533943,2024-12-02T12:54:12+05:30,2024-12-11T19:21:05+05:30
+41396661583927,75g / Coffee Filter,75g,Coffee Filter,,,True,True,,True,0.00,0,,3,7203994533943,2024-12-02T12:54:12+05:30,2024-12-11T19:21:05+05:30
+41396661616695,75g / Cold Brew,75g,Cold Brew,,,True,True,,True,0.00,0,,4,7203994533943,2024-12-02T12:54:12+05:30,2024-12-11T19:21:05+05:30
+41396661649463,75g / Commercial Espresso,75g,Commercial Espresso,,,True,True,,True,0.00,0,,5,7203994533943,2024-12-02T12:54:12+05:30,2024-12-11T19:21:05+05:30
+41396661682231,75g / French Press,75g,French Press,,,True,True,,True,0.00,0,,6,7203994533943,2024-12-02T12:54:12+05:30,2024-12-11T19:21:05+05:30
+41396661714999,75g / Home Espresso,75g,Home Espresso,,,True,True,,True,0.00,0,,7,7203994533943,2024-12-02T12:54:12+05:30,2024-12-11T19:21:05+05:30
+41396661747767,75g / Inverted Aeropress,75g,Inverted Aeropress,,,True,True,,True,0.00,0,,8,7203994533943,2024-12-02T12:54:12+05:30,2024-12-11T19:21:05+05:30
+41396661780535,75g / Moka Pot,75g,Moka Pot,,,True,True,,True,0.00,0,,9,7203994533943,2024-12-02T12:54:12+05:30,2024-12-11T19:21:05+05:30
+41396661813303,75g / Pourover,75g,Pourover,,,True,True,,True,0.00,0,,10,7203994533943,2024-12-02T12:54:12+05:30,2024-12-11T19:21:05+05:30
+41396661846071,75g / South Indian Filter,75g,South Indian Filter,,,True,True,,True,0.00,0,,11,7203994533943,2024-12-02T12:54:12+05:30,2024-12-11T19:21:05+05:30
+41396661878839,75g / Turkish,75g,Turkish,,,True,True,,True,0.00,0,,12,7203994533943,2024-12-02T12:54:12+05:30,2024-12-11T19:21:05+05:30
+41396661911607,75g / Whole Beans,75g,Whole Beans,,,True,True,,True,0.00,0,,13,7203994533943,2024-12-02T12:54:12+05:30,2024-12-11T19:21:05+05:30
+41396660961335,75g / Aeropress,75g,Aeropress,,,True,True,,True,0.00,0,,1,7203994402871,2024-12-02T12:53:14+05:30,2024-12-11T19:21:05+05:30
+41396660994103,75g / Channi,75g,Channi,,,True,True,,True,0.00,0,,2,7203994402871,2024-12-02T12:53:14+05:30,2024-12-11T19:21:05+05:30
+41396661026871,75g / Coffee Filter,75g,Coffee Filter,,,True,True,,True,0.00,0,,3,7203994402871,2024-12-02T12:53:14+05:30,2024-12-11T19:21:05+05:30
+41396661059639,75g / Cold Brew,75g,Cold Brew,,,True,True,,True,0.00,0,,4,7203994402871,2024-12-02T12:53:14+05:30,2024-12-11T19:21:05+05:30
+41396661092407,75g / Commercial Espresso,75g,Commercial Espresso,,,True,True,,True,0.00,0,,5,7203994402871,2024-12-02T12:53:14+05:30,2024-12-11T19:21:05+05:30
+41396661125175,75g / French Press,75g,French Press,,,True,True,,True,0.00,0,,6,7203994402871,2024-12-02T12:53:14+05:30,2024-12-11T19:21:05+05:30
+41396661157943,75g / Home Espresso,75g,Home Espresso,,,True,True,,True,0.00,0,,7,7203994402871,2024-12-02T12:53:14+05:30,2024-12-11T19:21:05+05:30
+41396661190711,75g / Inverted Aeropress,75g,Inverted Aeropress,,,True,True,,True,0.00,0,,8,7203994402871,2024-12-02T12:53:14+05:30,2024-12-11T19:21:05+05:30
+41396661223479,75g / Moka Pot,75g,Moka Pot,,,True,True,,True,0.00,0,,9,7203994402871,2024-12-02T12:53:14+05:30,2024-12-11T19:21:05+05:30
+41396661256247,75g / Pourover,75g,Pourover,,,True,True,,True,0.00,0,,10,7203994402871,2024-12-02T12:53:14+05:30,2024-12-11T19:21:05+05:30
+41396661289015,75g / South Indian Filter,75g,South Indian Filter,,,True,True,,True,0.00,0,,11,7203994402871,2024-12-02T12:53:14+05:30,2024-12-11T19:21:05+05:30
+41396661321783,75g / Turkish,75g,Turkish,,,True,True,,True,0.00,0,,12,7203994402871,2024-12-02T12:53:14+05:30,2024-12-11T19:21:05+05:30
+41396661354551,75g / Whole Beans,75g,Whole Beans,,,True,True,,True,0.00,0,,13,7203994402871,2024-12-02T12:53:14+05:30,2024-12-11T19:21:05+05:30
+39465155788855,600ml,600ml,,,FP600N,True,True,,False,2199.00,0,,1,6587292418103,2021-09-05T16:55:54+05:30,2024-12-11T19:21:05+05:30
+41390351384631,Default Title,Default Title,,,,True,True,,False,1399.00,0,,1,7202483863607,2024-11-26T17:44:36+05:30,2024-12-11T19:21:05+05:30
+41390346207287,Default Title,Default Title,,,,True,True,,True,1199.00,0,,1,7202483404855,2024-11-26T17:33:46+05:30,2024-12-11T19:21:05+05:30
+41386329604151,250g / Whole Bean,250g,Whole Bean,,,True,True,,True,580.00,0,,1,7201269973047,2024-11-22T14:21:49+05:30,2024-12-11T19:21:05+05:30
+41386328424503,250g / Aeropress,250g,Aeropress,,,True,True,,True,580.00,0,,2,7201269973047,2024-11-22T14:21:49+05:30,2024-12-11T19:21:05+05:30
+41386328522807,250g / Channi,250g,Channi,,,True,True,,True,580.00,0,,3,7201269973047,2024-11-22T14:21:49+05:30,2024-12-11T19:21:05+05:30
+41386328621111,250g / Coffee Filter,250g,Coffee Filter,,,True,True,,True,580.00,0,,4,7201269973047,2024-11-22T14:21:49+05:30,2024-12-11T19:21:05+05:30
+41386328719415,250g / Cold Brew,250g,Cold Brew,,,True,True,,True,580.00,0,,5,7201269973047,2024-11-22T14:21:49+05:30,2024-12-11T19:21:05+05:30
+41386328817719,250g / Commercial Espresso,250g,Commercial Espresso,,,True,True,,True,580.00,0,,6,7201269973047,2024-11-22T14:21:49+05:30,2024-12-11T19:21:05+05:30
+41386328916023,250g / French Press,250g,French Press,,,True,True,,True,580.00,0,,7,7201269973047,2024-11-22T14:21:49+05:30,2024-12-11T19:21:05+05:30
+41386329014327,250g / Home Espresso,250g,Home Espresso,,,True,True,,True,580.00,0,,8,7201269973047,2024-11-22T14:21:49+05:30,2024-12-11T19:21:05+05:30
+41386329112631,250g / Inverted Aeropress,250g,Inverted Aeropress,,,True,True,,True,580.00,0,,9,7201269973047,2024-11-22T14:21:49+05:30,2024-12-11T19:21:05+05:30
+41386329210935,250g / Moka Pot,250g,Moka Pot,,,True,True,,True,580.00,0,,10,7201269973047,2024-11-22T14:21:49+05:30,2024-12-11T19:21:05+05:30
+41386329309239,250g / Pourover,250g,Pourover,,,True,True,,True,580.00,0,,11,7201269973047,2024-11-22T14:21:49+05:30,2024-12-11T19:21:05+05:30
+41386329407543,250g / South Indian Filter,250g,South Indian Filter,,,True,True,,True,580.00,0,,12,7201269973047,2024-11-22T14:21:49+05:30,2024-12-11T19:21:05+05:30
+41386329505847,250g / Turkish,250g,Turkish,,,True,True,,True,580.00,0,,13,7201269973047,2024-11-22T14:21:49+05:30,2024-12-11T19:21:05+05:30
+41386329636919,500g / Whole Bean,500g,Whole Bean,,,True,True,,True,1080.00,0,,14,7201269973047,2024-11-22T14:21:49+05:30,2024-12-11T19:21:05+05:30
+41386328457271,500g / Aeropress,500g,Aeropress,,,True,True,,True,1080.00,0,,15,7201269973047,2024-11-22T14:21:49+05:30,2024-12-11T19:21:05+05:30
+41386328555575,500g / Channi,500g,Channi,,,True,True,,True,1080.00,0,,16,7201269973047,2024-11-22T14:21:49+05:30,2024-12-11T19:21:05+05:30
+41386328653879,500g / Coffee Filter,500g,Coffee Filter,,,True,True,,True,1080.00,0,,17,7201269973047,2024-11-22T14:21:49+05:30,2024-12-11T19:21:05+05:30
+41386328752183,500g / Cold Brew,500g,Cold Brew,,,True,True,,True,1080.00,0,,18,7201269973047,2024-11-22T14:21:49+05:30,2024-12-11T19:21:05+05:30
+41386328850487,500g / Commercial Espresso,500g,Commercial Espresso,,,True,True,,True,1080.00,0,,19,7201269973047,2024-11-22T14:21:49+05:30,2024-12-11T19:21:05+05:30
+41386328948791,500g / French Press,500g,French Press,,,True,True,,True,1080.00,0,,20,7201269973047,2024-11-22T14:21:49+05:30,2024-12-11T19:21:05+05:30
+41386329047095,500g / Home Espresso,500g,Home Espresso,,,True,True,,True,1080.00,0,,21,7201269973047,2024-11-22T14:21:49+05:30,2024-12-11T19:21:05+05:30
+41386329145399,500g / Inverted Aeropress,500g,Inverted Aeropress,,,True,True,,True,1080.00,0,,22,7201269973047,2024-11-22T14:21:49+05:30,2024-12-11T19:21:05+05:30
+41386329243703,500g / Moka Pot,500g,Moka Pot,,,True,True,,True,1080.00,0,,23,7201269973047,2024-11-22T14:21:49+05:30,2024-12-11T19:21:05+05:30
+41386329342007,500g / Pourover,500g,Pourover,,,True,True,,True,1080.00,0,,24,7201269973047,2024-11-22T14:21:49+05:30,2024-12-11T19:21:05+05:30
+41386329440311,500g / South Indian Filter,500g,South Indian Filter,,,True,True,,True,1080.00,0,,25,7201269973047,2024-11-22T14:21:49+05:30,2024-12-11T19:21:05+05:30
+41386329538615,500g / Turkish,500g,Turkish,,,True,True,,True,1080.00,0,,26,7201269973047,2024-11-22T14:21:49+05:30,2024-12-11T19:21:05+05:30
+41386329571383,1000g / Whole Bean,1000g,Whole Bean,,,True,True,,True,1970.00,0,,27,7201269973047,2024-11-22T14:21:49+05:30,2024-12-11T19:21:05+05:30
+41386328391735,1000g / Aeropress,1000g,Aeropress,,,True,True,,True,1970.00,0,,28,7201269973047,2024-11-22T14:21:49+05:30,2024-12-11T19:21:05+05:30
+41386328490039,1000g / Channi,1000g,Channi,,,True,True,,True,1970.00,0,,29,7201269973047,2024-11-22T14:21:49+05:30,2024-12-11T19:21:05+05:30
+41386328588343,1000g / Coffee Filter,1000g,Coffee Filter,,,True,True,,True,1970.00,0,,30,7201269973047,2024-11-22T14:21:49+05:30,2024-12-11T19:21:05+05:30
+41386328686647,1000g / Cold Brew,1000g,Cold Brew,,,True,True,,True,1970.00,0,,31,7201269973047,2024-11-22T14:21:49+05:30,2024-12-11T19:21:05+05:30
+41386328784951,1000g / Commercial Espresso,1000g,Commercial Espresso,,,True,True,,True,1970.00,0,,32,7201269973047,2024-11-22T14:21:49+05:30,2024-12-11T19:21:05+05:30
+41386328883255,1000g / French Press,1000g,French Press,,,True,True,,True,1970.00,0,,33,7201269973047,2024-11-22T14:21:49+05:30,2024-12-11T19:21:05+05:30
+41386328981559,1000g / Home Espresso,1000g,Home Espresso,,,True,True,,True,1970.00,0,,34,7201269973047,2024-11-22T14:21:49+05:30,2024-12-11T19:21:05+05:30
+41386329079863,1000g / Inverted Aeropress,1000g,Inverted Aeropress,,,True,True,,True,1970.00,0,,35,7201269973047,2024-11-22T14:21:49+05:30,2024-12-11T19:21:05+05:30
+41386329178167,1000g / Moka Pot,1000g,Moka Pot,,,True,True,,True,1970.00,0,,36,7201269973047,2024-11-22T14:21:49+05:30,2024-12-11T19:21:05+05:30
+41386329276471,1000g / Pourover,1000g,Pourover,,,True,True,,True,1970.00,0,,37,7201269973047,2024-11-22T14:21:49+05:30,2024-12-11T19:21:05+05:30
+41386329374775,1000g / South Indian Filter,1000g,South Indian Filter,,,True,True,,True,1970.00,0,,38,7201269973047,2024-11-22T14:21:49+05:30,2024-12-11T19:21:05+05:30
+41386329473079,1000g / Turkish,1000g,Turkish,,,True,True,,True,1970.00,0,,39,7201269973047,2024-11-22T14:21:49+05:30,2024-12-11T19:21:05+05:30
+41358374862903,Default Title,Default Title,,,,True,True,,True,0.00,250,,1,7193507070007,2024-11-05T11:08:49+05:30,2024-12-11T19:21:05+05:30
+41358374797367,Default Title,Default Title,,,,True,True,,True,0.00,250,,1,7193507004471,2024-11-05T11:08:30+05:30,2024-12-11T19:21:05+05:30
+41358374633527,Default Title,Default Title,,,,True,True,,True,0.00,250,,1,7193506873399,2024-11-05T11:07:50+05:30,2024-12-11T19:21:05+05:30
+41358374142007,Default Title,Default Title,,,,True,True,,True,0.00,250,,1,7193506480183,2024-11-05T11:05:32+05:30,2024-12-11T19:21:05+05:30
+41291266981943,Pack of 10,Pack of 10,,,,True,True,https://cdn.shopify.com/s/files/1/0738/1409/files/Silver-Oak-10.jpg?v=1727685907,False,450.00,500,,1,7175778992183,2024-09-30T14:09:44+05:30,2024-12-11T19:21:05+05:30
+41291267014711,Pack of 20,Pack of 20,,,,True,True,https://cdn.shopify.com/s/files/1/0738/1409/files/Silver-Oak-20.jpg?v=1727685907,False,900.00,500,,2,7175778992183,2024-09-30T14:09:44+05:30,2024-12-11T19:21:05+05:30
+41291267047479,Pack of 30,Pack of 30,,,,True,True,https://cdn.shopify.com/s/files/1/0738/1409/files/Silver-Oak-30.jpg?v=1727685907,False,1300.00,500,,3,7175778992183,2024-09-30T14:09:44+05:30,2024-12-11T19:21:05+05:30
+41291267080247,Pack of 40,Pack of 40,,,,True,True,,False,1600.00,500,,4,7175778992183,2024-09-30T14:09:44+05:30,2024-12-11T19:21:05+05:30
+40085567176759,250g / Whole Bean,250g,Whole Bean,,,True,True,,True,580.00,270,,1,6669349519415,2023-02-02T11:14:57+05:30,2024-12-11T19:21:05+05:30
+40085567209527,250g / Aeropress,250g,Aeropress,,,True,True,,True,580.00,270,,2,6669349519415,2023-02-02T11:14:57+05:30,2024-12-11T19:21:05+05:30
+40085567242295,250g / Channi,250g,Channi,,,True,True,,True,580.00,270,,3,6669349519415,2023-02-02T11:14:57+05:30,2024-12-11T19:21:05+05:30
+40085567275063,250g / Coffee Filter,250g,Coffee Filter,,,True,True,,True,580.00,270,,4,6669349519415,2023-02-02T11:14:57+05:30,2024-12-11T19:21:05+05:30
+40085567307831,250g / Cold Brew,250g,Cold Brew,,,True,True,,True,580.00,270,,5,6669349519415,2023-02-02T11:14:57+05:30,2024-12-11T19:21:05+05:30
+40085567340599,250g / Commercial Espresso,250g,Commercial Espresso,,,True,True,,True,580.00,270,,6,6669349519415,2023-02-02T11:14:57+05:30,2024-12-11T19:21:05+05:30
+40085567373367,250g / French Press,250g,French Press,,,True,True,,True,580.00,270,,7,6669349519415,2023-02-02T11:14:57+05:30,2024-12-11T19:21:05+05:30
+40085567406135,250g / Home Espresso,250g,Home Espresso,,,True,True,,True,580.00,270,,8,6669349519415,2023-02-02T11:14:57+05:30,2024-12-11T19:21:05+05:30
+40085567438903,250g / Inverted Aeropress,250g,Inverted Aeropress,,,True,True,,True,580.00,270,,9,6669349519415,2023-02-02T11:14:57+05:30,2024-12-11T19:21:05+05:30
+40085567471671,250g / Moka Pot,250g,Moka Pot,,,True,True,,True,580.00,270,,10,6669349519415,2023-02-02T11:14:57+05:30,2024-12-11T19:21:05+05:30
+40085567504439,250g / Pourover,250g,Pourover,,,True,True,,True,580.00,270,,11,6669349519415,2023-02-02T11:14:57+05:30,2024-12-11T19:21:05+05:30
+40085567537207,250g / South Indian Filter,250g,South Indian Filter,,,True,True,,True,580.00,270,,12,6669349519415,2023-02-02T11:14:57+05:30,2024-12-11T19:21:05+05:30
+40085567569975,250g / Turkish,250g,Turkish,,,True,True,,True,580.00,270,,13,6669349519415,2023-02-02T11:14:57+05:30,2024-12-11T19:21:05+05:30
+40085567602743,500g / Whole Bean,500g,Whole Bean,,,True,True,,True,1080.00,520,,14,6669349519415,2023-02-02T11:14:57+05:30,2024-12-11T19:21:05+05:30
+40085567635511,500g / Aeropress,500g,Aeropress,,,True,True,,True,1080.00,520,,15,6669349519415,2023-02-02T11:14:57+05:30,2024-12-11T19:21:05+05:30
+40085567668279,500g / Channi,500g,Channi,,,True,True,,True,1080.00,520,,16,6669349519415,2023-02-02T11:14:57+05:30,2024-12-11T19:21:05+05:30
+40085567701047,500g / Coffee Filter,500g,Coffee Filter,,,True,True,,True,1080.00,520,,17,6669349519415,2023-02-02T11:14:57+05:30,2024-12-11T19:21:05+05:30
+40085567733815,500g / Cold Brew,500g,Cold Brew,,,True,True,,True,1080.00,520,,18,6669349519415,2023-02-02T11:14:57+05:30,2024-12-11T19:21:05+05:30
+40085567766583,500g / Commercial Espresso,500g,Commercial Espresso,,,True,True,,True,1080.00,520,,19,6669349519415,2023-02-02T11:14:57+05:30,2024-12-11T19:21:05+05:30
+40085567799351,500g / French Press,500g,French Press,,,True,True,,True,1080.00,520,,20,6669349519415,2023-02-02T11:14:58+05:30,2024-12-11T19:21:05+05:30
+40085567832119,500g / Home Espresso,500g,Home Espresso,,,True,True,,True,1080.00,520,,21,6669349519415,2023-02-02T11:14:58+05:30,2024-12-11T19:21:05+05:30
+40085567864887,500g / Inverted Aeropress,500g,Inverted Aeropress,,,True,True,,True,1080.00,520,,22,6669349519415,2023-02-02T11:14:58+05:30,2024-12-11T19:21:05+05:30
+40085567897655,500g / Moka Pot,500g,Moka Pot,,,True,True,,True,1080.00,520,,23,6669349519415,2023-02-02T11:14:58+05:30,2024-12-11T19:21:05+05:30
+40085567930423,500g / Pourover,500g,Pourover,,,True,True,,True,1080.00,520,,24,6669349519415,2023-02-02T11:14:58+05:30,2024-12-11T19:21:05+05:30
+40085567963191,500g / South Indian Filter,500g,South Indian Filter,,,True,True,,True,1080.00,520,,25,6669349519415,2023-02-02T11:14:58+05:30,2024-12-11T19:21:05+05:30
+40085567995959,500g / Turkish,500g,Turkish,,,True,True,,True,1080.00,520,,26,6669349519415,2023-02-02T11:14:58+05:30,2024-12-11T19:21:05+05:30
+40085568028727,1000g / Whole Bean,1000g,Whole Bean,,,True,True,,True,1970.00,1035,,27,6669349519415,2023-02-02T11:14:58+05:30,2024-12-11T19:21:05+05:30
+40085568061495,1000g / Aeropress,1000g,Aeropress,,,True,True,,True,1970.00,1035,,28,6669349519415,2023-02-02T11:14:58+05:30,2024-12-11T19:21:05+05:30
+40085568094263,1000g / Channi,1000g,Channi,,,True,True,,True,1970.00,1035,,29,6669349519415,2023-02-02T11:14:58+05:30,2024-12-11T19:21:05+05:30
+40085568127031,1000g / Coffee Filter,1000g,Coffee Filter,,,True,True,,True,1970.00,1035,,30,6669349519415,2023-02-02T11:14:58+05:30,2024-12-11T19:21:05+05:30
+40085568159799,1000g / Cold Brew,1000g,Cold Brew,,,True,True,,True,1970.00,1035,,31,6669349519415,2023-02-02T11:14:58+05:30,2024-12-11T19:21:05+05:30
+40085568192567,1000g / Commercial Espresso,1000g,Commercial Espresso,,,True,True,,True,1970.00,1035,,32,6669349519415,2023-02-02T11:14:58+05:30,2024-12-11T19:21:05+05:30
+40085568225335,1000g / French Press,1000g,French Press,,,True,True,,True,1970.00,1035,,33,6669349519415,2023-02-02T11:14:58+05:30,2024-12-11T19:21:05+05:30
+40085568258103,1000g / Home Espresso,1000g,Home Espresso,,,True,True,,True,1970.00,1035,,34,6669349519415,2023-02-02T11:14:58+05:30,2024-12-11T19:21:05+05:30
+40085568290871,1000g / Inverted Aeropress,1000g,Inverted Aeropress,,,True,True,,True,1970.00,1035,,35,6669349519415,2023-02-02T11:14:58+05:30,2024-12-11T19:21:05+05:30
+40085568323639,1000g / Moka Pot,1000g,Moka Pot,,,True,True,,True,1970.00,1035,,36,6669349519415,2023-02-02T11:14:58+05:30,2024-12-11T19:21:05+05:30
+40085568356407,1000g / Pourover,1000g,Pourover,,,True,True,,True,1970.00,1035,,37,6669349519415,2023-02-02T11:14:58+05:30,2024-12-11T19:21:05+05:30
+40085568389175,1000g / South Indian Filter,1000g,South Indian Filter,,,True,True,,True,1970.00,1035,,38,6669349519415,2023-02-02T11:14:58+05:30,2024-12-11T19:21:05+05:30
+40085568421943,1000g / Turkish,1000g,Turkish,,,True,True,,True,1970.00,1035,,39,6669349519415,2023-02-02T11:14:58+05:30,2024-12-11T19:21:05+05:30
+41357238632503,3 / Pack of 40,3,Pack of 40,,,True,True,,True,4320.00,0,4800.00,1,7193231097911,2024-11-04T16:58:36+05:30,2024-12-11T19:21:05+05:30
+41357238665271,6 / Pack of 40,6,Pack of 40,,,True,True,,True,8400.00,0,9600.00,2,7193231097911,2024-11-04T16:58:36+05:30,2024-12-11T19:21:05+05:30
+41357238698039,12 / Pack of 40,12,Pack of 40,,,True,True,,True,15840.00,0,19200.00,3,7193231097911,2024-11-04T16:58:36+05:30,2024-12-11T19:21:05+05:30
+41357238730807,24 / Pack of 40,24,Pack of 40,,,True,True,,True,30720.00,0,38400.00,4,7193231097911,2024-11-04T16:58:36+05:30,2024-12-11T19:21:05+05:30
+41357238435895,3 / Pack of 40,3,Pack of 40,,,True,True,,True,4320.00,0,4800.00,1,7193231032375,2024-11-04T16:56:49+05:30,2024-12-11T19:21:05+05:30
+41357238468663,6 / Pack of 40,6,Pack of 40,,,True,True,,True,8400.00,0,9600.00,2,7193231032375,2024-11-04T16:56:49+05:30,2024-12-11T19:21:05+05:30
+41357238501431,12 / Pack of 40,12,Pack of 40,,,True,True,,True,15840.00,0,19200.00,3,7193231032375,2024-11-04T16:56:49+05:30,2024-12-11T19:21:05+05:30
+41357238534199,24 / Pack of 40,24,Pack of 40,,,True,True,,True,30720.00,0,38400.00,4,7193231032375,2024-11-04T16:56:49+05:30,2024-12-11T19:21:05+05:30
+41097738977335,Default Title,Default Title,,,,True,True,,True,26990.00,0,33999.00,2,7118332952631,2024-06-26T11:52:34+05:30,2024-12-11T19:21:05+05:30
+41329297784887,Default Title,Default Title,,,,True,True,,True,870.00,0,,1,7184851927095,2024-10-21T11:27:54+05:30,2024-12-11T19:21:05+05:30
+41107321880631,Default Title,Default Title,,,,True,True,,True,1869.00,0,2199.00,2,7121859477559,2024-07-01T11:29:11+05:30,2024-12-11T19:21:05+05:30
+40094498029623,250g / Whole Bean,250g,Whole Bean,,,True,True,,True,680.00,270,,1,6774577135671,2023-02-13T11:17:54+05:30,2024-12-11T19:21:05+05:30
+40094496456759,250g / Aeropress,250g,Aeropress,,,True,True,,True,680.00,270,,2,6774577135671,2023-02-13T11:17:54+05:30,2024-12-11T19:21:05+05:30
+40094496587831,250g / Channi,250g,Channi,,,True,True,,True,680.00,270,,3,6774577135671,2023-02-13T11:17:54+05:30,2024-12-11T19:21:05+05:30
+40094496718903,250g / Coffee Filter,250g,Coffee Filter,,,True,True,,True,680.00,270,,4,6774577135671,2023-02-13T11:17:54+05:30,2024-12-11T19:21:05+05:30
+40094496849975,250g / Cold Brew,250g,Cold Brew,,,True,True,,True,680.00,270,,5,6774577135671,2023-02-13T11:17:54+05:30,2024-12-11T19:21:05+05:30
+40094496981047,250g / Commercial Espresso,250g,Commercial Espresso,,,True,True,,True,680.00,270,,6,6774577135671,2023-02-13T11:17:54+05:30,2024-12-11T19:21:05+05:30
+40094497112119,250g / French Press,250g,French Press,,,True,True,,True,680.00,270,,7,6774577135671,2023-02-13T11:17:54+05:30,2024-12-11T19:21:05+05:30
+40094497243191,250g / Home Espresso,250g,Home Espresso,,,True,True,,True,680.00,270,,8,6774577135671,2023-02-13T11:17:54+05:30,2024-12-11T19:21:05+05:30
+40094497374263,250g / Inverted Aeropress,250g,Inverted Aeropress,,,True,True,,True,680.00,270,,9,6774577135671,2023-02-13T11:17:54+05:30,2024-12-11T19:21:05+05:30
+40094497505335,250g / Moka Pot,250g,Moka Pot,,,True,True,,True,680.00,270,,10,6774577135671,2023-02-13T11:17:54+05:30,2024-12-11T19:21:05+05:30
+40094497636407,250g / Pourover,250g,Pourover,,,True,True,,True,680.00,270,,11,6774577135671,2023-02-13T11:17:54+05:30,2024-12-11T19:21:05+05:30
+40094497767479,250g / South Indian Filter,250g,South Indian Filter,,,True,True,,True,680.00,270,,12,6774577135671,2023-02-13T11:17:54+05:30,2024-12-11T19:21:05+05:30
+40094497898551,250g / Turkish,250g,Turkish,,,True,True,,True,680.00,270,,13,6774577135671,2023-02-13T11:17:54+05:30,2024-12-11T19:21:05+05:30
+40094498062391,500g / Whole Bean,500g,Whole Bean,,,True,True,,True,1260.00,520,,14,6774577135671,2023-02-13T11:17:54+05:30,2024-12-11T19:21:05+05:30
+40094496489527,500g / Aeropress,500g,Aeropress,,,True,True,,True,1260.00,520,,15,6774577135671,2023-02-13T11:17:54+05:30,2024-12-11T19:21:05+05:30
+40094496620599,500g / Channi,500g,Channi,,,True,True,,True,1260.00,520,,16,6774577135671,2023-02-13T11:17:54+05:30,2024-12-11T19:21:05+05:30
+40094496751671,500g / Coffee Filter,500g,Coffee Filter,,,True,True,,True,1260.00,520,,17,6774577135671,2023-02-13T11:17:54+05:30,2024-12-11T19:21:05+05:30
+40094496882743,500g / Cold Brew,500g,Cold Brew,,,True,True,,True,1260.00,520,,18,6774577135671,2023-02-13T11:17:54+05:30,2024-12-11T19:21:05+05:30
+40094497013815,500g / Commercial Espresso,500g,Commercial Espresso,,,True,True,,True,1260.00,520,,19,6774577135671,2023-02-13T11:17:54+05:30,2024-12-11T19:21:05+05:30
+40094497144887,500g / French Press,500g,French Press,,,True,True,,True,1260.00,520,,20,6774577135671,2023-02-13T11:17:54+05:30,2024-12-11T19:21:05+05:30
+40094497275959,500g / Home Espresso,500g,Home Espresso,,,True,True,,True,1260.00,520,,21,6774577135671,2023-02-13T11:17:54+05:30,2024-12-11T19:21:05+05:30
+40094497407031,500g / Inverted Aeropress,500g,Inverted Aeropress,,,True,True,,True,1260.00,520,,22,6774577135671,2023-02-13T11:17:54+05:30,2024-12-11T19:21:05+05:30
+40094497538103,500g / Moka Pot,500g,Moka Pot,,,True,True,,True,1260.00,520,,23,6774577135671,2023-02-13T11:17:54+05:30,2024-12-11T19:21:05+05:30
+40094497669175,500g / Pourover,500g,Pourover,,,True,True,,True,1260.00,520,,24,6774577135671,2023-02-13T11:17:54+05:30,2024-12-11T19:21:05+05:30
+40094497800247,500g / South Indian Filter,500g,South Indian Filter,,,True,True,,True,1260.00,520,,25,6774577135671,2023-02-13T11:17:54+05:30,2024-12-11T19:21:05+05:30
+40094497931319,500g / Turkish,500g,Turkish,,,True,True,,True,1260.00,520,,26,6774577135671,2023-02-13T11:17:54+05:30,2024-12-11T19:21:05+05:30
+40094497996855,1000g / Whole Bean,1000g,Whole Bean,,,True,True,,True,2300.00,1035,,27,6774577135671,2023-02-13T11:17:54+05:30,2024-12-11T19:21:05+05:30
+40094496423991,1000g / Aeropress,1000g,Aeropress,,,True,True,,True,2300.00,1035,,28,6774577135671,2023-02-13T11:17:54+05:30,2024-12-11T19:21:05+05:30
+40094496555063,1000g / Channi,1000g,Channi,,,True,True,,True,2300.00,1035,,29,6774577135671,2023-02-13T11:17:54+05:30,2024-12-11T19:21:05+05:30
+40094496686135,1000g / Coffee Filter,1000g,Coffee Filter,,,True,True,,True,2300.00,1035,,30,6774577135671,2023-02-13T11:17:54+05:30,2024-12-11T19:21:05+05:30
+40094496817207,1000g / Cold Brew,1000g,Cold Brew,,,True,True,,True,2300.00,1035,,31,6774577135671,2023-02-13T11:17:54+05:30,2024-12-11T19:21:05+05:30
+40094496948279,1000g / Commercial Espresso,1000g,Commercial Espresso,,,True,True,,True,2300.00,1035,,32,6774577135671,2023-02-13T11:17:54+05:30,2024-12-11T19:21:05+05:30
+40094497079351,1000g / French Press,1000g,French Press,,,True,True,,True,2300.00,1035,,33,6774577135671,2023-02-13T11:17:54+05:30,2024-12-11T19:21:05+05:30
+40094497210423,1000g / Home Espresso,1000g,Home Espresso,,,True,True,,True,2300.00,1035,,34,6774577135671,2023-02-13T11:17:54+05:30,2024-12-11T19:21:05+05:30
+40094497341495,1000g / Inverted Aeropress,1000g,Inverted Aeropress,,,True,True,,True,2300.00,1035,,35,6774577135671,2023-02-13T11:17:54+05:30,2024-12-11T19:21:05+05:30
+40094497472567,1000g / Moka Pot,1000g,Moka Pot,,,True,True,,True,2300.00,1035,,36,6774577135671,2023-02-13T11:17:54+05:30,2024-12-11T19:21:05+05:30
+40094497603639,1000g / Pourover,1000g,Pourover,,,True,True,,True,2300.00,1035,,37,6774577135671,2023-02-13T11:17:54+05:30,2024-12-11T19:21:05+05:30
+40094497734711,1000g / South Indian Filter,1000g,South Indian Filter,,,True,True,,True,2300.00,1035,,38,6774577135671,2023-02-13T11:17:54+05:30,2024-12-11T19:21:05+05:30
+40094497865783,1000g / Turkish,1000g,Turkish,,,True,True,,True,2300.00,1035,,39,6774577135671,2023-02-13T11:17:54+05:30,2024-12-11T19:21:05+05:30
+40655953854519,Whole Bean,Whole Bean,,,CUSTOM,True,True,,True,900.00,225,,1,6953214869559,2024-03-22T14:53:23+05:30,2024-12-11T19:21:05+05:30
+40655953887287,Aeropress,Aeropress,,,CUSTOM,True,True,,True,900.00,225,,2,6953214869559,2024-03-22T14:53:23+05:30,2024-12-11T19:21:05+05:30
+40655953920055,Channi,Channi,,,CUSTOM,True,True,,True,900.00,225,,3,6953214869559,2024-03-22T14:53:23+05:30,2024-12-11T19:21:05+05:30
+40655953952823,Coffee Filter,Coffee Filter,,,CUSTOM,True,True,,True,900.00,225,,4,6953214869559,2024-03-22T14:53:23+05:30,2024-12-11T19:21:05+05:30
+40655953985591,Cold Brew,Cold Brew,,,CUSTOM,True,True,,True,900.00,225,,5,6953214869559,2024-03-22T14:53:23+05:30,2024-12-11T19:21:05+05:30
+40655954018359,Commercial Espresso,Commercial Espresso,,,CUSTOM,True,True,,True,900.00,225,,6,6953214869559,2024-03-22T14:53:23+05:30,2024-12-11T19:21:05+05:30
+40655954051127,French Press,French Press,,,CUSTOM,True,True,,True,900.00,225,,7,6953214869559,2024-03-22T14:53:23+05:30,2024-12-11T19:21:05+05:30
+40655954083895,Home Espresso,Home Espresso,,,CUSTOM,True,True,,True,900.00,225,,8,6953214869559,2024-03-22T14:53:23+05:30,2024-12-11T19:21:05+05:30
+40655954116663,Inverted Aeropress,Inverted Aeropress,,,CUSTOM,True,True,,True,900.00,225,,9,6953214869559,2024-03-22T14:53:23+05:30,2024-12-11T19:21:05+05:30
+40655954149431,Moka Pot,Moka Pot,,,CUSTOM,True,True,,True,900.00,225,,10,6953214869559,2024-03-22T14:53:23+05:30,2024-12-11T19:21:05+05:30
+40655954214967,Pourover,Pourover,,,CUSTOM,True,True,,True,900.00,225,,11,6953214869559,2024-03-22T14:53:23+05:30,2024-12-11T19:21:05+05:30
+40655954247735,South Indian Filter,South Indian Filter,,,CUSTOM,True,True,,True,900.00,225,,12,6953214869559,2024-03-22T14:53:23+05:30,2024-12-11T19:21:05+05:30
+40655954280503,Turkish,Turkish,,,CUSTOM,True,True,,True,900.00,225,,13,6953214869559,2024-03-22T14:53:23+05:30,2024-12-11T19:21:05+05:30
+40598489333815,3 / 250g,3,250g,,CUSTOM,True,True,https://cdn.shopify.com/s/files/1/0738/1409/files/Subscription-3_delivery_ad46ca21-fedb-49e5-ac1e-dd59609e77fc.jpg?v=1711971065,True,1350.00,0,1500.00,1,6936208506935,2024-03-01T10:59:15+05:30,2024-12-11T19:21:05+05:30
+40598489366583,3 / 500g,3,500g,,CUSTOM,True,True,https://cdn.shopify.com/s/files/1/0738/1409/files/Subscription-3_delivery_ad46ca21-fedb-49e5-ac1e-dd59609e77fc.jpg?v=1711971065,True,2511.00,0,2790.00,2,6936208506935,2024-03-01T10:59:15+05:30,2024-12-11T19:21:05+05:30
+40598489399351,3 / 1000g,3,1000g,,CUSTOM,True,True,https://cdn.shopify.com/s/files/1/0738/1409/files/Subscription-3_delivery_ad46ca21-fedb-49e5-ac1e-dd59609e77fc.jpg?v=1711971065,True,4590.00,0,5100.00,3,6936208506935,2024-03-01T10:59:15+05:30,2024-12-11T19:21:05+05:30
+40598489432119,6 / 250g,6,250g,,CUSTOM,True,True,https://cdn.shopify.com/s/files/1/0738/1409/files/Subscription-6_delivery_02e31da1-3345-41ab-ad59-cab57a8a9dd5.jpg?v=1711971076,True,2625.00,0,3000.00,4,6936208506935,2024-03-01T10:59:15+05:30,2024-12-11T19:21:05+05:30
+40598489464887,6 / 500g,6,500g,,CUSTOM,True,True,https://cdn.shopify.com/s/files/1/0738/1409/files/Subscription-6_delivery_02e31da1-3345-41ab-ad59-cab57a8a9dd5.jpg?v=1711971076,True,4882.50,0,5580.00,5,6936208506935,2024-03-01T10:59:15+05:30,2024-12-11T19:21:05+05:30
+40598489497655,6 / 1000g,6,1000g,,CUSTOM,True,True,https://cdn.shopify.com/s/files/1/0738/1409/files/Subscription-6_delivery_02e31da1-3345-41ab-ad59-cab57a8a9dd5.jpg?v=1711971076,True,8925.00,0,10200.00,6,6936208506935,2024-03-01T10:59:15+05:30,2024-12-11T19:21:05+05:30
+40598489530423,12 / 250g,12,250g,,CUSTOM,True,True,https://cdn.shopify.com/s/files/1/0738/1409/files/Subscription-12_delivery_8dc650fb-6ecd-41d3-b6c3-47de880c9822.jpg?v=1711971085,True,4950.00,0,6000.00,7,6936208506935,2024-03-01T10:59:16+05:30,2024-12-11T19:21:05+05:30
+40598489563191,12 / 500g,12,500g,,CUSTOM,True,True,https://cdn.shopify.com/s/files/1/0738/1409/files/Subscription-12_delivery_8dc650fb-6ecd-41d3-b6c3-47de880c9822.jpg?v=1711971085,True,9207.00,0,11160.00,8,6936208506935,2024-03-01T10:59:16+05:30,2024-12-11T19:21:05+05:30
+40598489595959,12 / 1000g,12,1000g,,CUSTOM,True,True,https://cdn.shopify.com/s/files/1/0738/1409/files/Subscription-12_delivery_8dc650fb-6ecd-41d3-b6c3-47de880c9822.jpg?v=1711971085,True,16830.00,0,20400.00,9,6936208506935,2024-03-01T10:59:16+05:30,2024-12-11T19:21:05+05:30
+40598489628727,24 / 250g,24,250g,,CUSTOM,True,True,https://cdn.shopify.com/s/files/1/0738/1409/files/Subscription-24_delivery_70aa6303-7fb9-4782-a34f-71d03bed2be2.jpg?v=1711971098,True,9600.00,0,12000.00,10,6936208506935,2024-03-01T10:59:16+05:30,2024-12-11T19:21:05+05:30
+40598489661495,24 / 500g,24,500g,,CUSTOM,True,True,https://cdn.shopify.com/s/files/1/0738/1409/files/Subscription-24_delivery_70aa6303-7fb9-4782-a34f-71d03bed2be2.jpg?v=1711971098,True,17856.00,0,22320.00,11,6936208506935,2024-03-01T10:59:16+05:30,2024-12-11T19:21:05+05:30
+40598489694263,24 / 1000g,24,1000g,,CUSTOM,True,True,https://cdn.shopify.com/s/files/1/0738/1409/files/Subscription-24_delivery_70aa6303-7fb9-4782-a34f-71d03bed2be2.jpg?v=1711971098,True,32640.00,0,40800.00,12,6936208506935,2024-03-01T10:59:16+05:30,2024-12-11T19:21:05+05:30
+40086450602039,250g / Whole Bean,250g,Whole Bean,,,True,True,,True,500.00,270,,1,6623009177655,2023-02-03T11:19:10+05:30,2024-12-11T19:21:05+05:30
+40086450634807,250g / Aeropress,250g,Aeropress,,,True,True,,True,500.00,270,,2,6623009177655,2023-02-03T11:19:10+05:30,2024-12-11T19:21:05+05:30
+40086450667575,250g / Channi,250g,Channi,,,True,True,,True,500.00,270,,3,6623009177655,2023-02-03T11:19:10+05:30,2024-12-11T19:21:05+05:30
+40086450700343,250g / Coffee Filter,250g,Coffee Filter,,,True,True,,True,500.00,270,,4,6623009177655,2023-02-03T11:19:10+05:30,2024-12-11T19:21:05+05:30
+40086450733111,250g / Cold Brew,250g,Cold Brew,,,True,True,,True,500.00,270,,5,6623009177655,2023-02-03T11:19:10+05:30,2024-12-11T19:21:05+05:30
+40086450765879,250g / Commercial Espresso,250g,Commercial Espresso,,,True,True,,True,500.00,270,,6,6623009177655,2023-02-03T11:19:10+05:30,2024-12-11T19:21:05+05:30
+40086450798647,250g / French Press,250g,French Press,,,True,True,,True,500.00,270,,7,6623009177655,2023-02-03T11:19:10+05:30,2024-12-11T19:21:05+05:30
+40086450831415,250g / Home Espresso,250g,Home Espresso,,,True,True,,True,500.00,270,,8,6623009177655,2023-02-03T11:19:10+05:30,2024-12-11T19:21:05+05:30
+40086450864183,250g / Inverted Aeropress,250g,Inverted Aeropress,,,True,True,,True,500.00,270,,9,6623009177655,2023-02-03T11:19:10+05:30,2024-12-11T19:21:05+05:30
+40086450896951,250g / Moka Pot,250g,Moka Pot,,,True,True,,True,500.00,270,,10,6623009177655,2023-02-03T11:19:10+05:30,2024-12-11T19:21:05+05:30
+40086450929719,250g / Pourover,250g,Pourover,,,True,True,,True,500.00,270,,11,6623009177655,2023-02-03T11:19:10+05:30,2024-12-11T19:21:05+05:30
+40086450962487,250g / South Indian Filter,250g,South Indian Filter,,,True,True,,True,500.00,270,,12,6623009177655,2023-02-03T11:19:10+05:30,2024-12-11T19:21:05+05:30
+40086450995255,250g / Turkish,250g,Turkish,,,True,True,,True,500.00,270,,13,6623009177655,2023-02-03T11:19:10+05:30,2024-12-11T19:21:05+05:30
+40086451028023,500g / Whole Bean,500g,Whole Bean,,,True,True,,True,930.00,520,,14,6623009177655,2023-02-03T11:19:10+05:30,2024-12-11T19:21:05+05:30
+40086451060791,500g / Aeropress,500g,Aeropress,,,True,True,,True,930.00,520,,15,6623009177655,2023-02-03T11:19:10+05:30,2024-12-11T19:21:05+05:30
+40086451093559,500g / Channi,500g,Channi,,,True,True,,True,930.00,520,,16,6623009177655,2023-02-03T11:19:10+05:30,2024-12-11T19:21:05+05:30
+40086451126327,500g / Coffee Filter,500g,Coffee Filter,,,True,True,,True,930.00,520,,17,6623009177655,2023-02-03T11:19:10+05:30,2024-12-11T19:21:05+05:30
+40086451159095,500g / Cold Brew,500g,Cold Brew,,,True,True,,True,930.00,520,,18,6623009177655,2023-02-03T11:19:10+05:30,2024-12-11T19:21:05+05:30
+40086451191863,500g / Commercial Espresso,500g,Commercial Espresso,,,True,True,,True,930.00,520,,19,6623009177655,2023-02-03T11:19:10+05:30,2024-12-11T19:21:05+05:30
+40086451224631,500g / French Press,500g,French Press,,,True,True,,True,930.00,520,,20,6623009177655,2023-02-03T11:19:10+05:30,2024-12-11T19:21:05+05:30
+40086451257399,500g / Home Espresso,500g,Home Espresso,,,True,True,,True,930.00,520,,21,6623009177655,2023-02-03T11:19:10+05:30,2024-12-11T19:21:05+05:30
+40086451290167,500g / Inverted Aeropress,500g,Inverted Aeropress,,,True,True,,True,930.00,520,,22,6623009177655,2023-02-03T11:19:10+05:30,2024-12-11T19:21:05+05:30
+40086451322935,500g / Moka Pot,500g,Moka Pot,,,True,True,,True,930.00,520,,23,6623009177655,2023-02-03T11:19:10+05:30,2024-12-11T19:21:05+05:30
+40086451355703,500g / Pourover,500g,Pourover,,,True,True,,True,930.00,520,,24,6623009177655,2023-02-03T11:19:10+05:30,2024-12-11T19:21:05+05:30
+40086451388471,500g / South Indian Filter,500g,South Indian Filter,,,True,True,,True,930.00,520,,25,6623009177655,2023-02-03T11:19:11+05:30,2024-12-11T19:21:05+05:30
+40086451421239,500g / Turkish,500g,Turkish,,,True,True,,True,930.00,520,,26,6623009177655,2023-02-03T11:19:11+05:30,2024-12-11T19:21:05+05:30
+40086451454007,1000g / Whole Bean,1000g,Whole Bean,,,True,True,,True,1700.00,1035,,27,6623009177655,2023-02-03T11:19:11+05:30,2024-12-11T19:21:05+05:30
+40086451486775,1000g / Aeropress,1000g,Aeropress,,,True,True,,True,1700.00,1035,,28,6623009177655,2023-02-03T11:19:11+05:30,2024-12-11T19:21:05+05:30
+40086451519543,1000g / Channi,1000g,Channi,,,True,True,,True,1700.00,1035,,29,6623009177655,2023-02-03T11:19:11+05:30,2024-12-11T19:21:05+05:30
+40086451552311,1000g / Coffee Filter,1000g,Coffee Filter,,,True,True,,True,1700.00,1035,,30,6623009177655,2023-02-03T11:19:11+05:30,2024-12-11T19:21:05+05:30
+40086451585079,1000g / Cold Brew,1000g,Cold Brew,,,True,True,,True,1700.00,1035,,31,6623009177655,2023-02-03T11:19:11+05:30,2024-12-11T19:21:05+05:30
+40086451617847,1000g / Commercial Espresso,1000g,Commercial Espresso,,,True,True,,True,1700.00,1035,,32,6623009177655,2023-02-03T11:19:11+05:30,2024-12-11T19:21:05+05:30
+40086451650615,1000g / French Press,1000g,French Press,,,True,True,,True,1700.00,1035,,33,6623009177655,2023-02-03T11:19:11+05:30,2024-12-11T19:21:05+05:30
+40086451683383,1000g / Home Espresso,1000g,Home Espresso,,,True,True,,True,1700.00,1035,,34,6623009177655,2023-02-03T11:19:11+05:30,2024-12-11T19:21:05+05:30
+40086451716151,1000g / Inverted Aeropress,1000g,Inverted Aeropress,,,True,True,,True,1700.00,1035,,35,6623009177655,2023-02-03T11:19:11+05:30,2024-12-11T19:21:05+05:30
+40086451748919,1000g / Moka Pot,1000g,Moka Pot,,,True,True,,True,1700.00,1035,,36,6623009177655,2023-02-03T11:19:11+05:30,2024-12-11T19:21:05+05:30
+40086451781687,1000g / Pourover,1000g,Pourover,,,True,True,,True,1700.00,1035,,37,6623009177655,2023-02-03T11:19:11+05:30,2024-12-11T19:21:05+05:30
+40086451814455,1000g / South Indian Filter,1000g,South Indian Filter,,,True,True,,True,1700.00,1035,,38,6623009177655,2023-02-03T11:19:11+05:30,2024-12-11T19:21:05+05:30
+40086451847223,1000g / Turkish,1000g,Turkish,,,True,True,,True,1700.00,1035,,39,6623009177655,2023-02-03T11:19:11+05:30,2024-12-11T19:21:05+05:30
+40598195339319,3 / 250g,3,250g,,,True,True,https://cdn.shopify.com/s/files/1/0738/1409/files/Subscription-3_delivery_53cbba3b-f7ee-4e2e-ab57-960f4b69a417.jpg?v=1711971541,True,1458.00,0,1620.00,1,6936081727543,2024-03-01T10:25:05+05:30,2024-12-11T19:21:05+05:30
+40598195372087,3 / 500g,3,500g,,,True,True,https://cdn.shopify.com/s/files/1/0738/1409/files/Subscription-3_delivery_53cbba3b-f7ee-4e2e-ab57-960f4b69a417.jpg?v=1711971541,True,2700.00,0,3000.00,2,6936081727543,2024-03-01T10:25:05+05:30,2024-12-11T19:21:05+05:30
+40598195404855,3 / 1kg,3,1kg,,,True,True,https://cdn.shopify.com/s/files/1/0738/1409/files/Subscription-3_delivery_53cbba3b-f7ee-4e2e-ab57-960f4b69a417.jpg?v=1711971541,True,4914.00,0,5460.00,3,6936081727543,2024-03-01T10:25:05+05:30,2024-12-11T19:21:05+05:30
+40598195437623,6 / 250g,6,250g,,,True,True,https://cdn.shopify.com/s/files/1/0738/1409/files/Subscription-6_delivery_acd42bc6-37ae-45cf-a6df-46bb317b9e0c.jpg?v=1711971553,True,2835.00,0,3240.00,4,6936081727543,2024-03-01T10:25:05+05:30,2024-12-11T19:21:05+05:30
+40598195470391,6 / 500g,6,500g,,,True,True,https://cdn.shopify.com/s/files/1/0738/1409/files/Subscription-6_delivery_acd42bc6-37ae-45cf-a6df-46bb317b9e0c.jpg?v=1711971553,True,5250.00,0,6000.00,5,6936081727543,2024-03-01T10:25:05+05:30,2024-12-11T19:21:05+05:30
+40598195503159,6 / 1kg,6,1kg,,,True,True,https://cdn.shopify.com/s/files/1/0738/1409/files/Subscription-6_delivery_acd42bc6-37ae-45cf-a6df-46bb317b9e0c.jpg?v=1711971553,True,9555.00,0,10920.00,6,6936081727543,2024-03-01T10:25:05+05:30,2024-12-11T19:21:05+05:30
+40598195535927,12 / 250g,12,250g,,,True,True,https://cdn.shopify.com/s/files/1/0738/1409/files/Subscription-12_delivery_581db232-430d-48ed-aab5-a4fc9e1c3c24.jpg?v=1711971569,True,5346.00,0,6480.00,7,6936081727543,2024-03-01T10:25:05+05:30,2024-12-11T19:21:05+05:30
+40598195568695,12 / 500g,12,500g,,,True,True,https://cdn.shopify.com/s/files/1/0738/1409/files/Subscription-12_delivery_581db232-430d-48ed-aab5-a4fc9e1c3c24.jpg?v=1711971569,True,9900.00,0,12000.00,8,6936081727543,2024-03-01T10:25:05+05:30,2024-12-11T19:21:05+05:30
+40598195601463,12 / 1kg,12,1kg,,,True,True,https://cdn.shopify.com/s/files/1/0738/1409/files/Subscription-12_delivery_581db232-430d-48ed-aab5-a4fc9e1c3c24.jpg?v=1711971569,True,18018.00,0,21840.00,9,6936081727543,2024-03-01T10:25:05+05:30,2024-12-11T19:21:05+05:30
+40598195634231,24 / 250g,24,250g,,,True,True,https://cdn.shopify.com/s/files/1/0738/1409/files/Subscription-24_delivery_23eedaf2-ec27-4b44-9801-fd200deffe00.jpg?v=1711971580,True,10368.00,0,12960.00,10,6936081727543,2024-03-01T10:25:05+05:30,2024-12-11T19:21:05+05:30
+40598195666999,24 / 500g,24,500g,,,True,True,https://cdn.shopify.com/s/files/1/0738/1409/files/Subscription-24_delivery_23eedaf2-ec27-4b44-9801-fd200deffe00.jpg?v=1711971580,True,19200.00,0,24000.00,11,6936081727543,2024-03-01T10:25:05+05:30,2024-12-11T19:21:05+05:30
+40598195699767,24 / 1kg,24,1kg,,,True,True,https://cdn.shopify.com/s/files/1/0738/1409/files/Subscription-24_delivery_23eedaf2-ec27-4b44-9801-fd200deffe00.jpg?v=1711971580,True,34944.00,0,43680.00,12,6936081727543,2024-03-01T10:25:05+05:30,2024-12-11T19:21:05+05:30
+40073206628407,250g / Whole Bean,250g,Whole Bean,,,True,True,,True,540.00,350,,1,1718179725367,2023-01-16T16:01:29+05:30,2024-12-11T19:21:05+05:30
+40073206661175,250g / Aeropress,250g,Aeropress,,,True,True,,True,540.00,350,,2,1718179725367,2023-01-16T16:01:29+05:30,2024-12-11T19:21:05+05:30
+40073206693943,250g / Channi,250g,Channi,,,True,True,,True,540.00,350,,3,1718179725367,2023-01-16T16:01:29+05:30,2024-12-11T19:21:05+05:30
+40073206726711,250g / Coffee Filter,250g,Coffee Filter,,,True,True,,True,540.00,350,,4,1718179725367,2023-01-16T16:01:29+05:30,2024-12-11T19:21:05+05:30
+40073206759479,250g / Cold Brew,250g,Cold Brew,,,True,True,,True,540.00,350,,5,1718179725367,2023-01-16T16:01:29+05:30,2024-12-11T19:21:05+05:30
+40073206792247,250g / Commercial Espresso,250g,Commercial Espresso,,,True,True,,True,540.00,350,,6,1718179725367,2023-01-16T16:01:29+05:30,2024-12-11T19:21:05+05:30
+40073206825015,250g / French Press,250g,French Press,,,True,True,,True,540.00,350,,7,1718179725367,2023-01-16T16:01:29+05:30,2024-12-11T19:21:05+05:30
+40073206857783,250g / Home Espresso,250g,Home Espresso,,,True,True,,True,540.00,350,,8,1718179725367,2023-01-16T16:01:29+05:30,2024-12-11T19:21:05+05:30
+40073207021623,250g / Inverted Aeropress,250g,Inverted Aeropress,,,True,True,,True,540.00,350,,9,1718179725367,2023-01-16T16:01:29+05:30,2024-12-11T19:21:05+05:30
+40073206890551,250g / Moka Pot,250g,Moka Pot,,,True,True,,True,540.00,350,,10,1718179725367,2023-01-16T16:01:29+05:30,2024-12-11T19:21:05+05:30
+40073206923319,250g / Pourover,250g,Pourover,,,True,True,,True,540.00,350,,11,1718179725367,2023-01-16T16:01:29+05:30,2024-12-11T19:21:05+05:30
+40073206956087,250g / South Indian Filter,250g,South Indian Filter,,,True,True,,True,540.00,350,,12,1718179725367,2023-01-16T16:01:29+05:30,2024-12-11T19:21:05+05:30
+40073206988855,250g / Turkish,250g,Turkish,,,True,True,,True,540.00,350,,13,1718179725367,2023-01-16T16:01:29+05:30,2024-12-11T19:21:05+05:30
+40073207054391,500g / Whole Bean,500g,Whole Bean,,,True,True,,True,1000.00,350,,14,1718179725367,2023-01-16T16:01:29+05:30,2024-12-11T19:21:05+05:30
+40073207087159,500g / Aeropress,500g,Aeropress,,,True,True,,True,1000.00,350,,15,1718179725367,2023-01-16T16:01:29+05:30,2024-12-11T19:21:05+05:30
+40073207119927,500g / Channi,500g,Channi,,,True,True,,True,1000.00,350,,16,1718179725367,2023-01-16T16:01:29+05:30,2024-12-11T19:21:05+05:30
+40073207152695,500g / Coffee Filter,500g,Coffee Filter,,,True,True,,True,1000.00,350,,17,1718179725367,2023-01-16T16:01:29+05:30,2024-12-11T19:21:05+05:30
+40073207185463,500g / Cold Brew,500g,Cold Brew,,,True,True,,True,1000.00,350,,18,1718179725367,2023-01-16T16:01:29+05:30,2024-12-11T19:21:05+05:30
+40073207218231,500g / Commercial Espresso,500g,Commercial Espresso,,,True,True,,True,1000.00,350,,19,1718179725367,2023-01-16T16:01:29+05:30,2024-12-11T19:21:05+05:30
+40073207250999,500g / French Press,500g,French Press,,,True,True,,True,1000.00,350,,20,1718179725367,2023-01-16T16:01:29+05:30,2024-12-11T19:21:05+05:30
+40073207283767,500g / Home Espresso,500g,Home Espresso,,,True,True,,True,1000.00,350,,21,1718179725367,2023-01-16T16:01:29+05:30,2024-12-11T19:21:05+05:30
+40073207447607,500g / Inverted Aeropress,500g,Inverted Aeropress,,,True,True,,True,1000.00,350,,22,1718179725367,2023-01-16T16:01:29+05:30,2024-12-11T19:21:05+05:30
+40073207316535,500g / Moka Pot,500g,Moka Pot,,,True,True,,True,1000.00,350,,23,1718179725367,2023-01-16T16:01:29+05:30,2024-12-11T19:21:05+05:30
+40073207349303,500g / Pourover,500g,Pourover,,,True,True,,True,1000.00,350,,24,1718179725367,2023-01-16T16:01:29+05:30,2024-12-11T19:21:05+05:30
+40073207382071,500g / South Indian Filter,500g,South Indian Filter,,,True,True,,True,1000.00,350,,25,1718179725367,2023-01-16T16:01:29+05:30,2024-12-11T19:21:05+05:30
+40073207414839,500g / Turkish,500g,Turkish,,,True,True,,True,1000.00,350,,26,1718179725367,2023-01-16T16:01:29+05:30,2024-12-11T19:21:05+05:30
+40073207480375,1Kg / Whole Bean,1Kg,Whole Bean,,,True,True,,True,1820.00,350,,27,1718179725367,2023-01-16T16:01:29+05:30,2024-12-11T19:21:05+05:30
+40073207513143,1Kg / Aeropress,1Kg,Aeropress,,,True,True,,True,1820.00,350,,28,1718179725367,2023-01-16T16:01:29+05:30,2024-12-11T19:21:05+05:30
+40073207545911,1Kg / Channi,1Kg,Channi,,,True,True,,True,1820.00,350,,29,1718179725367,2023-01-16T16:01:29+05:30,2024-12-11T19:21:05+05:30
+40073207578679,1Kg / Coffee Filter,1Kg,Coffee Filter,,,True,True,,True,1820.00,350,,30,1718179725367,2023-01-16T16:01:29+05:30,2024-12-11T19:21:05+05:30
+40073207611447,1Kg / Cold Brew,1Kg,Cold Brew,,,True,True,,True,1820.00,350,,31,1718179725367,2023-01-16T16:01:29+05:30,2024-12-11T19:21:05+05:30
+40073207644215,1Kg / Commercial Espresso,1Kg,Commercial Espresso,,,True,True,,True,1820.00,350,,32,1718179725367,2023-01-16T16:01:29+05:30,2024-12-11T19:21:05+05:30
+40073207676983,1Kg / French Press,1Kg,French Press,,,True,True,,True,1820.00,350,,33,1718179725367,2023-01-16T16:01:29+05:30,2024-12-11T19:21:05+05:30
+40073207709751,1Kg / Home Espresso,1Kg,Home Espresso,,,True,True,,True,1820.00,350,,34,1718179725367,2023-01-16T16:01:29+05:30,2024-12-11T19:21:05+05:30
+40073207873591,1Kg / Inverted Aeropress,1Kg,Inverted Aeropress,,,True,True,,True,1820.00,350,,35,1718179725367,2023-01-16T16:01:29+05:30,2024-12-11T19:21:05+05:30
+40073207742519,1Kg / Moka Pot,1Kg,Moka Pot,,,True,True,,True,1820.00,350,,36,1718179725367,2023-01-16T16:01:29+05:30,2024-12-11T19:21:05+05:30
+40073207775287,1Kg / Pourover,1Kg,Pourover,,,True,True,,True,1820.00,350,,37,1718179725367,2023-01-16T16:01:29+05:30,2024-12-11T19:21:05+05:30
+40073207808055,1Kg / South Indian Filter,1Kg,South Indian Filter,,,True,True,,True,1820.00,350,,38,1718179725367,2023-01-16T16:01:29+05:30,2024-12-11T19:21:05+05:30
+40073207840823,1Kg / Turkish,1Kg,Turkish,,,True,True,,True,1820.00,350,,39,1718179725367,2023-01-16T16:01:29+05:30,2024-12-11T19:21:05+05:30
+40088515084343,250g / Whole Bean,250g,Whole Bean,,,True,True,,True,540.00,270,,1,6547929530423,2023-02-06T12:10:06+05:30,2024-12-11T19:21:05+05:30
+40088515117111,250g / Aeropress,250g,Aeropress,,,True,True,,True,540.00,270,,2,6547929530423,2023-02-06T12:10:06+05:30,2024-12-11T19:21:05+05:30
+40088515149879,250g / Channi,250g,Channi,,,True,True,,True,540.00,270,,3,6547929530423,2023-02-06T12:10:06+05:30,2024-12-11T19:21:05+05:30
+40088515182647,250g / Coffee Filter,250g,Coffee Filter,,,True,True,,True,540.00,270,,4,6547929530423,2023-02-06T12:10:06+05:30,2024-12-11T19:21:05+05:30
+40088515215415,250g / Cold Brew,250g,Cold Brew,,,True,True,,True,540.00,270,,5,6547929530423,2023-02-06T12:10:06+05:30,2024-12-11T19:21:05+05:30
+40088515248183,250g / Commercial Espresso,250g,Commercial Espresso,,,True,True,,True,540.00,270,,6,6547929530423,2023-02-06T12:10:06+05:30,2024-12-11T19:21:05+05:30
+40088515280951,250g / French Press,250g,French Press,,,True,True,,True,540.00,270,,7,6547929530423,2023-02-06T12:10:06+05:30,2024-12-11T19:21:05+05:30
+40088515313719,250g / Home Espresso,250g,Home Espresso,,,True,True,,True,540.00,270,,8,6547929530423,2023-02-06T12:10:06+05:30,2024-12-11T19:21:05+05:30
+40088515346487,250g / Inverted Aeropress,250g,Inverted Aeropress,,,True,True,,True,540.00,270,,9,6547929530423,2023-02-06T12:10:06+05:30,2024-12-11T19:21:05+05:30
+40088515379255,250g / Moka Pot,250g,Moka Pot,,,True,True,,True,540.00,270,,10,6547929530423,2023-02-06T12:10:06+05:30,2024-12-11T19:21:05+05:30
+40088515412023,250g / Pourover,250g,Pourover,,,True,True,,True,540.00,270,,11,6547929530423,2023-02-06T12:10:06+05:30,2024-12-11T19:21:05+05:30
+40088515444791,250g / South Indian Filter,250g,South Indian Filter,,,True,True,,True,540.00,270,,12,6547929530423,2023-02-06T12:10:06+05:30,2024-12-11T19:21:05+05:30
+40088515477559,250g / Turkish,250g,Turkish,,,True,True,,True,540.00,270,,13,6547929530423,2023-02-06T12:10:06+05:30,2024-12-11T19:21:05+05:30
+40088515510327,500g / Whole Bean,500g,Whole Bean,,,True,True,,True,1000.00,520,,14,6547929530423,2023-02-06T12:10:06+05:30,2024-12-11T19:21:05+05:30
+40088515543095,500g / Aeropress,500g,Aeropress,,,True,True,,True,1000.00,520,,15,6547929530423,2023-02-06T12:10:06+05:30,2024-12-11T19:21:05+05:30
+40088515575863,500g / Channi,500g,Channi,,,True,True,,True,1000.00,520,,16,6547929530423,2023-02-06T12:10:06+05:30,2024-12-11T19:21:05+05:30
+40088515608631,500g / Coffee Filter,500g,Coffee Filter,,,True,True,,True,1000.00,520,,17,6547929530423,2023-02-06T12:10:06+05:30,2024-12-11T19:21:05+05:30
+40088515641399,500g / Cold Brew,500g,Cold Brew,,,True,True,,True,1000.00,520,,18,6547929530423,2023-02-06T12:10:06+05:30,2024-12-11T19:21:05+05:30
+40088515674167,500g / Commercial Espresso,500g,Commercial Espresso,,,True,True,,True,1000.00,520,,19,6547929530423,2023-02-06T12:10:06+05:30,2024-12-11T19:21:05+05:30
+40088515706935,500g / French Press,500g,French Press,,,True,True,,True,1000.00,520,,20,6547929530423,2023-02-06T12:10:06+05:30,2024-12-11T19:21:05+05:30
+40088515739703,500g / Home Espresso,500g,Home Espresso,,,True,True,,True,1000.00,520,,21,6547929530423,2023-02-06T12:10:06+05:30,2024-12-11T19:21:05+05:30
+40088515772471,500g / Inverted Aeropress,500g,Inverted Aeropress,,,True,True,,True,1000.00,520,,22,6547929530423,2023-02-06T12:10:06+05:30,2024-12-11T19:21:05+05:30
+40088515805239,500g / Moka Pot,500g,Moka Pot,,,True,True,,True,1000.00,520,,23,6547929530423,2023-02-06T12:10:06+05:30,2024-12-11T19:21:05+05:30
+40088515838007,500g / Pourover,500g,Pourover,,,True,True,,True,1000.00,520,,24,6547929530423,2023-02-06T12:10:06+05:30,2024-12-11T19:21:05+05:30
+40088515870775,500g / South Indian Filter,500g,South Indian Filter,,,True,True,,True,1000.00,520,,25,6547929530423,2023-02-06T12:10:06+05:30,2024-12-11T19:21:05+05:30
+40088515903543,500g / Turkish,500g,Turkish,,,True,True,,True,1000.00,520,,26,6547929530423,2023-02-06T12:10:06+05:30,2024-12-11T19:21:05+05:30
+40088515936311,1000g / Whole Bean,1000g,Whole Bean,,,True,True,,True,1820.00,1035,,27,6547929530423,2023-02-06T12:10:06+05:30,2024-12-11T19:21:05+05:30
+40088515969079,1000g / Aeropress,1000g,Aeropress,,,True,True,,True,1820.00,1035,,28,6547929530423,2023-02-06T12:10:06+05:30,2024-12-11T19:21:05+05:30
+40088516001847,1000g / Channi,1000g,Channi,,,True,True,,True,1820.00,1035,,29,6547929530423,2023-02-06T12:10:06+05:30,2024-12-11T19:21:05+05:30
+40088516034615,1000g / Coffee Filter,1000g,Coffee Filter,,,True,True,,True,1820.00,1035,,30,6547929530423,2023-02-06T12:10:06+05:30,2024-12-11T19:21:05+05:30
+40088516067383,1000g / Cold Brew,1000g,Cold Brew,,,True,True,,True,1820.00,1035,,31,6547929530423,2023-02-06T12:10:06+05:30,2024-12-11T19:21:05+05:30
+40088516100151,1000g / Commercial Espresso,1000g,Commercial Espresso,,,True,True,,True,1820.00,1035,,32,6547929530423,2023-02-06T12:10:06+05:30,2024-12-11T19:21:05+05:30
+40088516132919,1000g / French Press,1000g,French Press,,,True,True,,True,1820.00,1035,,33,6547929530423,2023-02-06T12:10:06+05:30,2024-12-11T19:21:05+05:30
+40088516165687,1000g / Home Espresso,1000g,Home Espresso,,,True,True,,True,1820.00,1035,,34,6547929530423,2023-02-06T12:10:06+05:30,2024-12-11T19:21:05+05:30
+40088516198455,1000g / Inverted Aeropress,1000g,Inverted Aeropress,,,True,True,,True,1820.00,1035,,35,6547929530423,2023-02-06T12:10:06+05:30,2024-12-11T19:21:05+05:30
+40088516231223,1000g / Moka Pot,1000g,Moka Pot,,,True,True,,True,1820.00,1035,,36,6547929530423,2023-02-06T12:10:06+05:30,2024-12-11T19:21:05+05:30
+40088516263991,1000g / Pourover,1000g,Pourover,,,True,True,,True,1820.00,1035,,37,6547929530423,2023-02-06T12:10:06+05:30,2024-12-11T19:21:05+05:30
+40088516296759,1000g / South Indian Filter,1000g,South Indian Filter,,,True,True,,True,1820.00,1035,,38,6547929530423,2023-02-06T12:10:06+05:30,2024-12-11T19:21:05+05:30
+40088516329527,1000g / Turkish,1000g,Turkish,,,True,True,,True,1820.00,1035,,39,6547929530423,2023-02-06T12:10:06+05:30,2024-12-11T19:21:05+05:30
+41308723478583,Whole Bean,Whole Bean,,,,True,True,,True,580.00,225,,1,7180851380279,2024-10-09T12:41:52+05:30,2024-12-11T19:21:05+05:30
+41308723511351,Aeropress,Aeropress,,,,True,True,,True,580.00,225,,2,7180851380279,2024-10-09T12:41:52+05:30,2024-12-11T19:21:05+05:30
+41308723544119,Channi,Channi,,,,True,True,,True,580.00,225,,3,7180851380279,2024-10-09T12:41:52+05:30,2024-12-11T19:21:05+05:30
+41308723576887,Coffee Filter,Coffee Filter,,,,True,True,,True,580.00,225,,4,7180851380279,2024-10-09T12:41:52+05:30,2024-12-11T19:21:05+05:30
+41308723609655,Cold Brew,Cold Brew,,,,True,True,,True,580.00,225,,5,7180851380279,2024-10-09T12:41:52+05:30,2024-12-11T19:21:05+05:30
+41308723642423,Commercial Espresso,Commercial Espresso,,,,True,True,,True,580.00,225,,6,7180851380279,2024-10-09T12:41:52+05:30,2024-12-11T19:21:05+05:30
+41308723675191,French Press,French Press,,,,True,True,,True,580.00,225,,7,7180851380279,2024-10-09T12:41:52+05:30,2024-12-11T19:21:05+05:30
+41308723707959,Home Espresso,Home Espresso,,,,True,True,,True,580.00,225,,8,7180851380279,2024-10-09T12:41:52+05:30,2024-12-11T19:21:05+05:30
+41308723740727,Inverted Aeropress,Inverted Aeropress,,,,True,True,,True,580.00,225,,9,7180851380279,2024-10-09T12:41:52+05:30,2024-12-11T19:21:05+05:30
+41308723773495,Moka Pot,Moka Pot,,,,True,True,,True,580.00,225,,10,7180851380279,2024-10-09T12:41:52+05:30,2024-12-11T19:21:05+05:30
+41308723806263,Pourover,Pourover,,,,True,True,,True,580.00,225,,11,7180851380279,2024-10-09T12:41:52+05:30,2024-12-11T19:21:05+05:30
+41308723839031,South Indian Filter,South Indian Filter,,,,True,True,,True,580.00,225,,12,7180851380279,2024-10-09T12:41:52+05:30,2024-12-11T19:21:05+05:30
+41308723871799,Turkish,Turkish,,,,True,True,,True,580.00,225,,13,7180851380279,2024-10-09T12:41:52+05:30,2024-12-11T19:21:05+05:30
+54967290167677,Default Title,Default Title,,,,True,True,,True,0.00,0,,1,14888581726589,2024-12-10T18:42:30+00:00,2024-12-11T13:29:07+00:00
+54961844257149,Default Title,Default Title,,,,True,True,,True,0.00,0,,1,14887062077821,2024-12-09T13:13:48+00:00,2024-12-11T13:29:07+00:00
+46504536735981,Default Title,Default Title,,,,True,True,,True,0.00,0,,1,8719719006445,2024-06-18T13:34:38+01:00,2024-12-11T13:29:07+00:00
+46512483762413,Default Title,Default Title,,,,True,True,,True,0.00,0,,1,8721643274477,2024-06-19T11:36:10+01:00,2024-12-11T13:29:07+00:00
+46504312307949,Default Title,Default Title,,,,True,True,,True,0.00,0,,1,8719690957037,2024-06-18T12:45:58+01:00,2024-12-11T13:29:07+00:00
+46897552130285,Default Title,Default Title,,,,True,True,,True,0.00,0,,1,8799361597677,2024-08-19T12:47:47+01:00,2024-12-11T13:29:07+00:00
+46504157905133,Default Title,Default Title,,,,True,True,,True,0.00,0,,1,8719663071469,2024-06-18T12:11:13+01:00,2024-12-11T13:29:07+00:00
+46584843960557,Default Title,Default Title,,,,True,True,,True,0.00,0,,1,8738776121581,2024-06-28T11:42:57+01:00,2024-12-11T13:29:07+00:00
+46529055949037,Default Title,Default Title,,,,True,True,,True,0.00,0,,1,8725144469741,2024-06-21T16:06:01+01:00,2024-12-11T13:29:07+00:00
+46505384444141,Default Title,Default Title,,,,True,True,,True,0.00,0,,1,8719846047981,2024-06-18T16:25:24+01:00,2024-12-11T13:29:07+00:00
+46732755337453,250g / Whole Bean,250g,Whole Bean,,TC-DIS-5-250-BEA,True,False,,True,17.99,250,,1,8772961468653,2024-07-23T10:23:39+01:00,2024-12-11T13:29:07+00:00
+46732755370221,250g / Pre-Ground: Espresso (dual wall basket),250g,Pre-Ground: Espresso (dual wall basket),,TC-DIS-5-250-RET,True,False,,True,17.99,250,,2,8772961468653,2024-07-23T10:23:39+01:00,2024-12-11T13:29:07+00:00
+46732755402989,250g / Pre-Ground: Cafetiere,250g,Pre-Ground: Cafetiere,,TC-DIS-5-250-RET,True,False,,True,17.99,250,,3,8772961468653,2024-07-23T10:23:39+01:00,2024-12-11T13:29:07+00:00
+46732755435757,250g / Pre-Ground: Aeropress,250g,Pre-Ground: Aeropress,,TC-DIS-5-250-RET,True,False,,True,17.99,250,,4,8772961468653,2024-07-23T10:23:39+01:00,2024-12-11T13:29:07+00:00
+46732755468525,250g / Pre-Ground: Filter,250g,Pre-Ground: Filter,,TC-DIS-5-250-RET,True,False,,True,17.99,250,,5,8772961468653,2024-07-23T10:23:39+01:00,2024-12-11T13:29:07+00:00
+46732755501293,250g / Pre-Ground: Stovetop,250g,Pre-Ground: Stovetop,,TC-DIS-5-250-RET,True,False,,True,17.99,250,,6,8772961468653,2024-07-23T10:23:39+01:00,2024-12-11T13:29:07+00:00
+46732755534061,250g / Pre-Ground: V60,250g,Pre-Ground: V60,,TC-DIS-5-250-RET,True,False,,True,17.99,250,,7,8772961468653,2024-07-23T10:23:39+01:00,2024-12-11T13:29:07+00:00
+46732755566829,250g / Pre-Ground: Chemex,250g,Pre-Ground: Chemex,,TC-DIS-5-250-RET,True,False,,True,17.99,250,,8,8772961468653,2024-07-23T10:23:40+01:00,2024-12-11T13:29:07+00:00
+46732755599597,1kg / Whole Bean,1kg,Whole Bean,,TC-DIS-5-1000-BEA,True,False,,True,46.99,1000,,9,8772961468653,2024-07-23T10:23:40+01:00,2024-12-11T13:29:07+00:00
+46732755632365,1kg / Pre-Ground: Espresso (dual wall basket),1kg,Pre-Ground: Espresso (dual wall basket),,TC-DIS-5-1000-RET,True,False,,True,46.99,1000,,10,8772961468653,2024-07-23T10:23:40+01:00,2024-12-11T13:29:07+00:00
+46732755665133,1kg / Pre-Ground: Cafetiere,1kg,Pre-Ground: Cafetiere,,TC-DIS-5-1000-RET,True,False,,True,46.99,1000,,11,8772961468653,2024-07-23T10:23:40+01:00,2024-12-11T13:29:07+00:00
+46732755697901,1kg / Pre-Ground: Aeropress,1kg,Pre-Ground: Aeropress,,TC-DIS-5-1000-RET,True,False,,True,46.99,1000,,12,8772961468653,2024-07-23T10:23:40+01:00,2024-12-11T13:29:07+00:00
+46732755730669,1kg / Pre-Ground: Filter,1kg,Pre-Ground: Filter,,TC-DIS-5-1000-RET,True,False,,True,46.99,1000,,13,8772961468653,2024-07-23T10:23:40+01:00,2024-12-11T13:29:07+00:00
+46732755763437,1kg / Pre-Ground: Stovetop,1kg,Pre-Ground: Stovetop,,TC-DIS-5-1000-RET,True,False,,True,46.99,1000,,14,8772961468653,2024-07-23T10:23:40+01:00,2024-12-11T13:29:07+00:00
+46732755796205,1kg / Pre-Ground: V60,1kg,Pre-Ground: V60,,TC-DIS-5-1000-RET,True,False,,True,46.99,1000,,15,8772961468653,2024-07-23T10:23:40+01:00,2024-12-11T13:29:07+00:00
+46732755828973,1kg / Pre-Ground: Chemex,1kg,Pre-Ground: Chemex,,TC-DIS-5-1000-RET,True,False,,True,46.99,1000,,16,8772961468653,2024-07-23T10:23:40+01:00,2024-12-11T13:29:07+00:00
+46512750592237,Default Title,Default Title,,,,True,True,,True,0.00,0,,1,8721695539437,2024-06-19T12:43:43+01:00,2024-12-11T13:29:07+00:00
+46512092905709,Default Title,Default Title,,,,True,True,,True,0.00,0,,1,8721573511405,2024-06-19T10:25:41+01:00,2024-12-11T13:29:07+00:00
+46585526255853,Default Title,Default Title,,,,True,True,,True,0.00,0,,1,8738927771885,2024-06-28T14:31:04+01:00,2024-12-11T13:29:07+00:00
+46584904843501,Default Title,Default Title,,,,True,True,,True,0.00,0,,1,8738795028717,2024-06-28T12:00:44+01:00,2024-12-11T13:29:07+00:00
+46585892438253,Default Title,Default Title,,,,True,True,,True,0.00,0,,1,8739014377709,2024-06-28T15:45:56+01:00,2024-12-11T13:29:07+00:00
+46513112219885,Default Title,Default Title,,,,True,True,,True,0.00,0,,1,8721737515245,2024-06-19T13:37:13+01:00,2024-12-11T13:29:07+00:00
+46519464132845,Default Title,Default Title,,,,True,True,,True,0.00,0,,1,8722669469933,2024-06-20T13:28:15+01:00,2024-12-11T13:29:07+00:00
+46338908258541,Default Title,Default Title,,,,True,True,,True,0.00,0,,1,8683990122733,2024-05-29T15:59:07+01:00,2024-12-11T13:29:07+00:00
+46338690777325,Default Title,Default Title,,,,True,True,,True,0.00,0,,1,8683931599085,2024-05-29T15:02:36+01:00,2024-12-11T13:29:07+00:00
+46338359951597,Default Title,Default Title,,,,True,True,,True,0.00,0,,1,8683793187053,2024-05-29T14:15:19+01:00,2024-12-11T13:29:07+00:00
+46346752393453,Default Title,Default Title,,,,True,True,,True,0.00,0,,1,8686525186285,2024-05-30T10:11:23+01:00,2024-12-11T13:29:07+00:00
+45460603896045,Default Title,Default Title,,,,True,True,,True,0.00,0,,1,8469377712365,2024-03-18T17:20:16+00:00,2024-12-11T13:29:07+00:00
+45459704152301,Default Title,Default Title,,,,True,True,,True,0.00,0,,1,8469115273453,2024-03-18T13:27:44+00:00,2024-12-11T13:29:07+00:00
+45632570556653,Default Title,Default Title,,,,True,True,,True,0.00,0,,1,8499256164589,2024-04-02T14:59:46+01:00,2024-12-11T13:29:07+00:00
+45632329449709,Default Title,Default Title,,,,True,True,,True,0.00,0,,1,8499212091629,2024-04-02T14:32:49+01:00,2024-12-11T13:29:07+00:00
+45647964176621,Default Title,Default Title,,,,True,True,,True,0.00,0,,1,8502562488557,2024-04-03T12:00:14+01:00,2024-12-11T13:29:07+00:00
+45631514607853,Default Title,Default Title,,,,True,True,,True,0.00,0,,1,8498677743853,2024-04-02T14:00:08+01:00,2024-12-11T13:29:07+00:00
+46215712047341,250g / Whole Bean,250g,Whole Bean,,TC-BUN-BTC-250-BEA,True,False,,True,30.99,250,,1,8652456558829,2024-05-20T11:26:20+01:00,2024-12-11T13:29:07+00:00
+46215712080109,250g / Pre-Ground: Espresso (dual wall basket),250g,Pre-Ground: Espresso (dual wall basket),,TC-BUN-BTC-250-RET,True,False,,True,30.99,250,,2,8652456558829,2024-05-20T11:26:20+01:00,2024-12-11T13:29:07+00:00
+46215712112877,250g / Pre-Ground: Cafetiere,250g,Pre-Ground: Cafetiere,,TC-BUN-BTC-250-RET,True,False,,True,30.99,250,,3,8652456558829,2024-05-20T11:26:20+01:00,2024-12-11T13:29:07+00:00
+46215712145645,250g / Pre-Ground: Aeropress,250g,Pre-Ground: Aeropress,,TC-BUN-BTC-250-RET,True,False,,True,30.99,250,,4,8652456558829,2024-05-20T11:26:20+01:00,2024-12-11T13:29:07+00:00
+46215712178413,250g / Pre-Ground: Filter,250g,Pre-Ground: Filter,,TC-BUN-BTC-250-RET,True,False,,True,30.99,250,,5,8652456558829,2024-05-20T11:26:20+01:00,2024-12-11T13:29:07+00:00
+46215712211181,250g / Pre-Ground: Stovetop,250g,Pre-Ground: Stovetop,,TC-BUN-BTC-250-RET,True,False,,True,30.99,250,,6,8652456558829,2024-05-20T11:26:20+01:00,2024-12-11T13:29:07+00:00
+46215712243949,250g / Pre-Ground: V60,250g,Pre-Ground: V60,,TC-BUN-BTC-250-RET,True,False,,True,30.99,250,,7,8652456558829,2024-05-20T11:26:20+01:00,2024-12-11T13:29:07+00:00
+46215712276717,250g / Pre-Ground: Chemex,250g,Pre-Ground: Chemex,,TC-BUN-BTC-250-RET,True,False,,True,30.99,250,,8,8652456558829,2024-05-20T11:26:20+01:00,2024-12-11T13:29:07+00:00
+45459664929005,Default Title,Default Title,,,,True,True,,True,0.00,0,,1,8469110784237,2024-03-18T13:14:09+00:00,2024-12-11T13:29:07+00:00
+40850396414120,250g / Whole Beans,250g,Whole Beans,,MES1,True,False,,True,23.99,265,,1,7010889466024,2021-08-26T10:40:43+01:00,2024-12-11T13:51:08+00:00
+45062547931387,250g / Cafetière,250g,Cafetière,,MES123,True,False,,True,23.99,265,,2,7010889466024,2023-12-05T18:52:35+00:00,2024-12-11T13:51:08+00:00
+45062547964155,250g / Metal Filter,250g,Metal Filter,,MES124,True,False,,True,23.99,265,,3,7010889466024,2023-12-05T18:52:35+00:00,2024-12-11T13:51:08+00:00
+45062547996923,250g / Paper Filter,250g,Paper Filter,,MES125,True,False,,True,23.99,265,,4,7010889466024,2023-12-05T18:52:35+00:00,2024-12-11T13:51:08+00:00
+45062548029691,250g / AeroPress,250g,AeroPress,,MES126,True,False,,True,23.99,265,,5,7010889466024,2023-12-05T18:52:35+00:00,2024-12-11T13:51:08+00:00
+45062548062459,250g / Espresso,250g,Espresso,,MES127,True,False,,True,23.99,265,,6,7010889466024,2023-12-05T18:52:35+00:00,2024-12-11T13:51:08+00:00
+45062548095227,250g / Turkish,250g,Turkish,,MES128,True,False,,True,23.99,265,,7,7010889466024,2023-12-05T18:52:35+00:00,2024-12-11T13:51:08+00:00
+54862640152949,2x 250g / Whole Beans,2x 250g,Whole Beans,,MES129,True,False,,True,45.00,450,,8,7010889466024,2024-12-06T11:45:04+00:00,2024-12-11T13:51:08+00:00
+54862640185717,2x 250g / Cafetière,2x 250g,Cafetière,,MES130,True,False,,True,45.00,450,,9,7010889466024,2024-12-06T11:45:04+00:00,2024-12-11T13:51:08+00:00
+54862640218485,2x 250g / Metal Filter,2x 250g,Metal Filter,,MES131,True,False,,True,45.00,450,,10,7010889466024,2024-12-06T11:45:04+00:00,2024-12-11T13:51:08+00:00
+54862640251253,2x 250g / Paper Filter,2x 250g,Paper Filter,,MES132,True,False,,True,45.00,450,,11,7010889466024,2024-12-06T11:45:04+00:00,2024-12-11T13:51:08+00:00
+54862640284021,2x 250g / AeroPress,2x 250g,AeroPress,,MES133,True,False,,True,45.00,450,,12,7010889466024,2024-12-06T11:45:04+00:00,2024-12-11T13:51:08+00:00
+54862640316789,2x 250g / Espresso,2x 250g,Espresso,,MES134,True,False,,True,45.00,450,,13,7010889466024,2024-12-06T11:45:04+00:00,2024-12-11T13:51:08+00:00
+54862640349557,2x 250g / Turkish,2x 250g,Turkish,,MES135,True,False,,True,45.00,450,,14,7010889466024,2024-12-06T11:45:04+00:00,2024-12-11T13:51:08+00:00
+40316117483688,2 x 250g / Whole beans,2 x 250g,Whole beans,,Kilimanjaro,True,False,,True,21.99,500,,1,6859874238632,2021-06-25T08:40:51+01:00,2024-12-11T13:51:08+00:00
+40316117516456,2 x 250g / Cafetière,2 x 250g,Cafetière,,Kilimanjaro2,True,False,,True,21.99,500,,2,6859874238632,2021-06-25T08:40:51+01:00,2024-12-11T13:51:08+00:00
+40316117549224,2 x 250g / Metal Filter,2 x 250g,Metal Filter,,Kilimanjaro3,True,False,,True,21.99,500,,3,6859874238632,2021-06-25T08:40:51+01:00,2024-12-11T13:51:08+00:00
+40316117581992,2 x 250g / Paper Filter,2 x 250g,Paper Filter,,Kilimanjaro4,True,False,,True,21.99,500,,4,6859874238632,2021-06-25T08:40:51+01:00,2024-12-11T13:51:08+00:00
+40316117614760,2 x 250g / AeroPress,2 x 250g,AeroPress,,Kilimanjaro5,True,False,,True,21.99,500,,5,6859874238632,2021-06-25T08:40:52+01:00,2024-12-11T13:51:08+00:00
+40316117647528,2 x 250g / Espresso,2 x 250g,Espresso,,Kilimanjaro6,True,False,,True,21.99,500,,6,6859874238632,2021-06-25T08:40:52+01:00,2024-12-11T13:51:08+00:00
+40316117680296,2 x 250g / Turkish,2 x 250g,Turkish,,Kilimanjaro7,True,False,,True,21.99,500,,7,6859874238632,2021-06-25T08:40:52+01:00,2024-12-11T13:51:08+00:00
+36419924459688,250g / Whole Bean,250g,Whole Bean,,Australian Skybury1,True,False,,True,25.75,265,,1,5845122875560,2020-09-24T11:40:24+01:00,2024-12-11T13:51:08+00:00
+36419924525224,250g / Cafetière,250g,Cafetière,,Australian Skybury2,True,False,,False,25.75,265,,2,5845122875560,2020-09-24T11:40:24+01:00,2024-12-11T13:51:08+00:00
+36419924557992,250g / Metal Filter,250g,Metal Filter,,Australian Skybury3,True,False,,False,25.75,265,,3,5845122875560,2020-09-24T11:40:24+01:00,2024-12-11T13:51:08+00:00
+36419924656296,250g / Paper Filter,250g,Paper Filter,,Australian Skybury4,True,False,,False,25.75,265,,4,5845122875560,2020-09-24T11:40:24+01:00,2024-12-11T13:51:08+00:00
+36419924754600,250g / AeroPress,250g,AeroPress,,Australian Skybury5,True,False,,False,25.75,265,,5,5845122875560,2020-09-24T11:40:24+01:00,2024-12-11T13:51:08+00:00
+36419924852904,250g / Espresso,250g,Espresso,,Australian Skybury6,True,False,,False,25.75,265,,6,5845122875560,2020-09-24T11:40:24+01:00,2024-12-11T13:51:08+00:00
+36419924951208,250g / Turkish,250g,Turkish,,Australian Skybury7,True,False,,False,25.75,265,,7,5845122875560,2020-09-24T11:40:24+01:00,2024-12-11T13:51:08+00:00
+45027300376827,250g / Whole Beans,250g,Whole Beans,,PHONEY1,True,False,,False,15.00,265,,1,8250169360635,2023-11-22T17:15:44+00:00,2024-12-11T13:51:08+00:00
+45027300409595,250g / Cafetière,250g,Cafetière,,PHONEY2,True,False,,False,15.00,265,,2,8250169360635,2023-11-22T17:15:45+00:00,2024-12-11T13:51:08+00:00
+45027300442363,250g / Metal Filter,250g,Metal Filter,,PHONEY3,True,False,,False,15.00,265,,3,8250169360635,2023-11-22T17:15:45+00:00,2024-12-11T13:51:08+00:00
+45027300475131,250g / Paper Filter,250g,Paper Filter,,PHONEY4,True,False,,False,15.00,265,,4,8250169360635,2023-11-22T17:15:45+00:00,2024-12-11T13:51:08+00:00
+45027300507899,250g / AeroPress,250g,AeroPress,,PHONEY5,True,False,,False,15.00,265,,5,8250169360635,2023-11-22T17:15:45+00:00,2024-12-11T13:51:08+00:00
+45027300540667,250g / Espresso,250g,Espresso,,PHONEY6,True,False,,False,15.00,265,,6,8250169360635,2023-11-22T17:15:45+00:00,2024-12-11T13:51:08+00:00
+45027300573435,250g / Turkish,250g,Turkish,,PHONEY7,True,False,,False,15.00,265,,7,8250169360635,2023-11-22T17:15:45+00:00,2024-12-11T13:51:08+00:00
+44132756455675,250g / Whole Beans,250g,Whole Beans,,XMASBAG,True,False,,True,11.99,265,,1,7986353209595,2022-11-23T14:06:39+00:00,2024-12-11T13:51:08+00:00
+44132756488443,250g / Cafetière,250g,Cafetière,,XMASBAG1,True,False,,True,11.99,265,,2,7986353209595,2022-11-23T14:06:39+00:00,2024-12-11T13:51:08+00:00
+44132756521211,250g / Metal Filter,250g,Metal Filter,,XMASBAG2,True,False,,True,11.99,265,,3,7986353209595,2022-11-23T14:06:40+00:00,2024-12-11T13:51:08+00:00
+44132756553979,250g / Paper Filter,250g,Paper Filter,,XMASBAG3,True,False,,True,11.99,265,,4,7986353209595,2022-11-23T14:06:40+00:00,2024-12-11T13:51:08+00:00
+44132756586747,250g / AeroPress,250g,AeroPress,,XMASBAG4,True,False,,True,11.99,265,,5,7986353209595,2022-11-23T14:06:40+00:00,2024-12-11T13:51:08+00:00
+44132756619515,250g / Espresso,250g,Espresso,,XMASBAG5,True,False,,True,11.99,265,,6,7986353209595,2022-11-23T14:06:40+00:00,2024-12-11T13:51:08+00:00
+44132756652283,250g / Turkish,250g,Turkish,,XMASBAG6,True,False,,True,11.99,265,,7,7986353209595,2022-11-23T14:06:40+00:00,2024-12-11T13:51:08+00:00
+36420240539816,250g / Whole Bean,250g,Whole Bean,,RC2,True,False,,True,8.50,260,,1,5845191000232,2020-09-24T12:02:32+01:00,2024-12-11T13:51:08+00:00
+36420240572584,250g / Cafetière,250g,Cafetière,,RC21,True,False,,True,8.50,260,,2,5845191000232,2020-09-24T12:02:32+01:00,2024-12-11T13:51:08+00:00
+36420240605352,250g / Metal Filter,250g,Metal Filter,,RC22,True,False,,True,8.50,260,,3,5845191000232,2020-09-24T12:02:32+01:00,2024-12-11T13:51:08+00:00
+36420240638120,250g / Paper Filter,250g,Paper Filter,,RC23,True,False,,True,8.50,260,,4,5845191000232,2020-09-24T12:02:32+01:00,2024-12-11T13:51:08+00:00
+36420240670888,250g / AeroPress,250g,AeroPress,,RC24,True,False,,True,8.50,260,,5,5845191000232,2020-09-24T12:02:32+01:00,2024-12-11T13:51:08+00:00
+36420240703656,250g / Espresso,250g,Espresso,,RC25,True,False,,True,8.50,260,,6,5845191000232,2020-09-24T12:02:32+01:00,2024-12-11T13:51:08+00:00
+36420240736424,250g / Turkish,250g,Turkish,,RC26,True,False,,True,8.50,260,,7,5845191000232,2020-09-24T12:02:32+01:00,2024-12-11T13:51:08+00:00
+36422527418536,Whole Bean,Whole Bean,,,AeroPressG1,True,True,,False,42.99,1250,,1,5845798977704,2020-09-24T15:25:49+01:00,2024-12-11T13:51:08+00:00
+36422527549608,AeroPress,AeroPress,,,AeroPressG11,True,True,,False,42.99,1250,,2,5845798977704,2020-09-24T15:25:49+01:00,2024-12-11T13:51:08+00:00
+53604391518581,500ml,500ml,,,TENUTE,True,False,,True,19.99,600,19.99,1,14790887965045,2024-10-31T09:22:55+00:00,2024-12-11T13:51:08+00:00
+53604369170805,250ml,250ml,,,Vecchia,True,False,,True,19.99,300,,1,14790885966197,2024-10-31T09:09:07+00:00,2024-12-11T13:51:08+00:00
+53604347183477,256g,256g,,,WildHoney,True,False,,True,11.10,280,,1,14790884852085,2024-10-31T08:54:41+00:00,2024-12-11T13:51:08+00:00
+53604338499957,256g,256g,,,OakHoney,True,False,,True,11.10,280,,1,14790884491637,2024-10-31T08:45:52+00:00,2024-12-11T13:51:08+00:00
+53600199868789,500g,500g,,,TPL,True,False,,True,9.95,550,,1,14771134431605,2024-10-29T15:01:22+00:00,2024-12-11T13:51:08+00:00
+53600185090421,500g,500g,,,TPP,True,False,,True,9.95,550,,1,14722617016693,2024-10-29T14:51:44+00:00,2024-12-11T13:51:08+00:00
+53604349215093,500ml,500ml,,,TAMIAGOLD,True,False,,True,29.99,600,,1,14790885048693,2024-10-31T08:56:52+00:00,2024-12-11T13:51:08+00:00
+53600236241269,250g,250g,,,RICER,True,False,,True,13.60,255,,1,14771139608949,2024-10-29T15:17:37+00:00,2024-12-11T13:51:08+00:00
+53600234635637,250g,250g,,,RICEM,True,False,,True,12.60,255,,1,14771139379573,2024-10-29T15:16:28+00:00,2024-12-11T13:51:08+00:00
+53600219267445,250g,250g,,,RICEE,True,False,,True,11.60,255,,1,14771136823669,2024-10-29T15:09:28+00:00,2024-12-11T13:51:08+00:00
+53600206717301,500g,500g,,,TPC,True,False,,True,9.95,550,,1,14771135480181,2024-10-29T15:04:07+00:00,2024-12-11T13:51:08+00:00
+53604410687861,300g,300g,,,FIGJAM,True,False,,False,9.50,400,,1,14790889603445,2024-10-31T09:36:24+00:00,2024-12-11T13:51:08+00:00
+53604416160117,45g,45g,,,ANCHOVY,True,False,,True,6.99,100,,1,14790890127733,2024-10-31T09:41:48+00:00,2024-12-11T13:51:08+00:00
+46602139533563,250g / Whole Beans,250g,Whole Beans,,ITALIAN1,True,False,,False,9.50,260,,1,8843470340347,2024-10-09T13:48:10+01:00,2024-12-11T13:51:08+00:00
+46602139566331,250g / Cafetière,250g,Cafetière,,ITALIAN2,True,False,,False,9.50,260,,2,8843470340347,2024-10-09T13:48:10+01:00,2024-12-11T13:51:08+00:00
+46602139599099,250g / Metal Filter,250g,Metal Filter,,ITALIAN3,True,False,,False,9.50,260,0.00,3,8843470340347,2024-10-09T13:48:10+01:00,2024-12-11T13:51:08+00:00
+46602139631867,250g / Paper Filter,250g,Paper Filter,,ITALIAN4,True,False,,False,9.50,260,,4,8843470340347,2024-10-09T13:48:10+01:00,2024-12-11T13:51:08+00:00
+46602139664635,250g / AeroPress,250g,AeroPress,,ITALIAN5,True,False,,False,9.50,260,,5,8843470340347,2024-10-09T13:48:10+01:00,2024-12-11T13:51:08+00:00
+46602139697403,250g / Espresso,250g,Espresso,,ITALIAN6,True,False,,False,9.50,260,,6,8843470340347,2024-10-09T13:48:10+01:00,2024-12-11T13:51:08+00:00
+46602139730171,250g / Turkish,250g,Turkish,,ITALIAN7,True,False,,False,9.50,260,,7,8843470340347,2024-10-09T13:48:10+01:00,2024-12-11T13:51:08+00:00
+46568915796219,1KG / GREEN COFFEE BEANS,1KG,GREEN COFFEE BEANS,,CRHBGREEN,True,False,,True,23.75,1100,,1,8835203531003,2024-10-02T15:43:34+01:00,2024-12-11T13:51:08+00:00
+46568900362491,1KG / GREEN COFFEE BEANS,1KG,GREEN COFFEE BEANS,,DR1GREEN,True,False,,True,22.99,1100,,1,8835199893755,2024-10-02T15:37:25+01:00,2024-12-11T13:51:08+00:00
+46568513601787,1KG,1KG,,,MS1GREEN,True,False,,True,21.95,1100,,1,8834991456507,2024-10-02T12:08:14+01:00,2024-12-11T13:51:08+00:00
+44350242980091,1 KG GREEN / GREEN COFFEE BEANS,1 KG GREEN,GREEN COFFEE BEANS,,GREEN11,True,False,,True,24.99,1100,,1,8050771394811,2023-02-03T15:50:47+00:00,2024-12-11T13:51:08+00:00
+46568477753595,1KG / GREEN COFFEE BEANS,1KG,GREEN COFFEE BEANS,,GREENPTUNKI,True,False,,True,23.99,1100,,1,8834972221691,2024-10-02T11:43:50+01:00,2024-12-11T13:51:08+00:00
+44323551641851,6 x 500g (3KG) / GREEN COFFEE BEANS,6 x 500g (3KG),GREEN COFFEE BEANS,,Green Seasonal,True,False,,True,48.00,3200,,1,8043675713787,2023-01-20T10:17:08+00:00,2024-12-11T13:51:08+00:00
+36421181538472,Whole Bean / 250g,Whole Bean,250g,,guatswd,True,False,,True,9.85,250,,1,5845382267048,2020-09-24T13:08:06+01:00,2024-12-11T13:51:08+00:00
+36421181571240,Cafetière / 250g,Cafetière,250g,,guatswd1,True,False,,True,9.85,250,,2,5845382267048,2020-09-24T13:08:06+01:00,2024-12-11T13:51:08+00:00
+36421181604008,Metal Filter / 250g,Metal Filter,250g,,guatswd2,True,False,,True,9.85,250,,3,5845382267048,2020-09-24T13:08:06+01:00,2024-12-11T13:51:08+00:00
+36421181636776,Paper Filter / 250g,Paper Filter,250g,,guatswd3,True,False,,True,9.85,250,,4,5845382267048,2020-09-24T13:08:06+01:00,2024-12-11T13:51:08+00:00
+36421181669544,AeroPress / 250g,AeroPress,250g,,guatswd4,True,False,,True,9.85,250,,5,5845382267048,2020-09-24T13:08:06+01:00,2024-12-11T13:51:08+00:00
+36421181702312,Espresso / 250g,Espresso,250g,,guatswd5,True,False,,True,9.85,250,,6,5845382267048,2020-09-24T13:08:06+01:00,2024-12-11T13:51:08+00:00
+36421181735080,Turkish / 250g,Turkish,250g,,guatswd6,True,False,,True,9.85,250,,7,5845382267048,2020-09-24T13:08:06+01:00,2024-12-11T13:51:08+00:00
+36418043084968,250g / Whole Bean,250g,Whole Bean,,OBJ1,True,False,,True,8.85,260,,1,5837911982248,2020-09-24T09:13:12+01:00,2024-12-11T13:51:08+00:00
+36418043117736,250g / Cafetière,250g,Cafetière,,OBJ11,True,False,,True,8.85,260,,2,5837911982248,2020-09-24T09:13:12+01:00,2024-12-11T13:51:08+00:00
+36418043150504,250g / Metal Filter,250g,Metal Filter,,OBJ12,True,False,,True,8.85,260,,3,5837911982248,2020-09-24T09:13:12+01:00,2024-12-11T13:51:08+00:00
+36418043183272,250g / Paper Filter,250g,Paper Filter,,OBJ13,True,False,,True,8.85,260,,4,5837911982248,2020-09-24T09:13:12+01:00,2024-12-11T13:51:08+00:00
+36418043216040,250g / AeroPress,250g,AeroPress,,OBJ14,True,False,,True,8.85,260,,5,5837911982248,2020-09-24T09:13:12+01:00,2024-12-11T13:51:08+00:00
+36418043248808,250g / Espresso,250g,Espresso,,OBJ15,True,False,,True,8.85,260,,6,5837911982248,2020-09-24T09:13:12+01:00,2024-12-11T13:51:08+00:00
+36418043281576,250g / Turkish,250g,Turkish,,OBJ16,True,False,,True,8.85,260,,7,5837911982248,2020-09-24T09:13:12+01:00,2024-12-11T13:51:08+00:00
+42101974073595,Red & Green tartan - Owl only / Whole Beans,Red & Green tartan - Owl only,Whole Beans,,Stocking,True,False,,True,39.00,1000,,1,7437854245115,2021-11-08T09:50:17+00:00,2024-12-11T13:51:08+00:00
+42101974302971,Blue & Green - Stag only / Whole Beans,Blue & Green - Stag only,Whole Beans,,Stocking7,True,False,,True,39.00,1000,,2,7437854245115,2021-11-08T09:50:18+00:00,2024-12-11T13:51:08+00:00
