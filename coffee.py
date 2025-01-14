@@ -145,57 +145,29 @@ def write_data2():
     product_df = pd.read_csv("dataset/products.csv")
     variant_df = pd.read_csv("dataset/variants.csv")
 
-    # Define the IST timezone
-    ist_timezone = timezone('Asia/Kolkata')
-
-    # Convert datetime columns for product_df
-    for col in ['published_at', 'created_at', 'updated_at']:
-        if col in product_df.columns:
-            # Convert to datetime, handle invalid values, and set UTC
-            product_df[col] = pd.to_datetime(product_df[col], errors='coerce', utc=True)
-            # Convert to IST
-            product_df[col] = product_df[col].dt.tz_convert(ist_timezone)
-
-    # Add a Date_Recorded column for product_df
-    if 'created_at' in product_df.columns:
-        product_df['Date_Recorded'] = product_df['created_at'].dt.date
-
-    # Convert datetime columns for variant_df
-    for col in ['created_at', 'updated_at']:
-        if col in variant_df.columns:
-            variant_df[col] = pd.to_datetime(variant_df[col], errors='coerce', utc=True)
-            variant_df[col] = variant_df[col].dt.tz_convert(ist_timezone)
-
-    # Add a Date_Recorded column for variant_df
-    if 'created_at' in variant_df.columns:
-        variant_df['Date_Recorded'] = variant_df['created_at'].dt.date
+    # Load credentials from the GSHEET_TOKEN environment variable
+    gsheet_credentials = json.loads(os.getenv("GSHEET_TOKEN"))
+    gc = gspread.service_account_from_dict(gsheet_credentials)
 
     # Google Sheets details
     PRODUCT_GSHEET_NAME = 'Coffee Products'
     VARIANT_GSHEET_NAME = 'Coffee Variants'
     PRODUCT_TAB = 'Products'
     VARIANT_TAB = 'Variants'
-    credentialsPath = os.path.expanduser("credentials/diamond-analysis-ac6758ca1ace.json")
 
-    if os.path.isfile(credentialsPath):
-        # Authenticate with Google Sheets API
-        gc = gspread.service_account(filename=credentialsPath)
+    # Handle the Products Google Sheet
+    product_sh = gc.open(PRODUCT_GSHEET_NAME)
+    product_worksheet = product_sh.worksheet(PRODUCT_TAB)
+    product_worksheet.clear()  # Clear existing data
+    set_with_dataframe(product_worksheet, product_df)
 
-        # Handle the Products Google Sheet
-        product_sh = gc.open(PRODUCT_GSHEET_NAME)
-        product_worksheet = product_sh.worksheet(PRODUCT_TAB)
-        product_worksheet.clear()  # Clear existing data
-        set_with_dataframe(product_worksheet, product_df)
+    # Handle the Variants Google Sheet
+    variant_sh = gc.open(VARIANT_GSHEET_NAME)
+    variant_worksheet = variant_sh.worksheet(VARIANT_TAB)
+    variant_worksheet.clear()  # Clear existing data
+    set_with_dataframe(variant_worksheet, variant_df)
 
-        # Handle the Variants Google Sheet
-        variant_sh = gc.open(VARIANT_GSHEET_NAME)
-        variant_worksheet = variant_sh.worksheet(VARIANT_TAB)
-        variant_worksheet.clear()  # Clear existing data
-        set_with_dataframe(variant_worksheet, variant_df)
-
-        print("Data has been written to separate Google Sheets successfully!")
-    else:
-        print(f"Credentials file not found at {credentialsPath}")
+    print("Data has been written to separate Google Sheets successfully!")
 
 
 # Loop through each URL and fetch data, then save the results to CSV files
@@ -209,5 +181,4 @@ for url in urls:
 
 
 print("Data has been saved to 'products.csv' and 'variants.csv'.")
-write_data()
 write_data2()
