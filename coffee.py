@@ -6,6 +6,7 @@ import pandas as pd
 import os
 from pytz import timezone
 from gspread_dataframe import set_with_dataframe
+import json
 
 # List of URLs to fetch data from
 urls = [
