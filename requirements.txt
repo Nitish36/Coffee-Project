@@ -1,0 +1,6 @@
+beautifulsoup4
+gspread
+gspread-dataframe
+pandas
+requests
+pytz
