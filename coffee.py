@@ -35,7 +35,6 @@ def clean_html(html_content):
 # Function to save product data into a CSV file
 def save_product_data(products, filename):
     product_headers = ["id", "title", "handle", "body_html", "published_at", "created_at", "updated_at", "vendor", "product_type", "tags", "Date_Recorded"]
-    product = []
     with open(filename, mode='a', newline='', encoding='utf-8') as file:  # Open in append mode
         writer = csv.DictWriter(file, fieldnames=product_headers)
 
@@ -54,22 +53,20 @@ def save_product_data(products, filename):
                 "id": product_item["id"],
                 "title": product_item["title"],
                 "handle": product_item["handle"],
-                "body_html": cleaned_body_html,  # Updated to contain cleaned text
+                "body_html": cleaned_body_html,
                 "published_at": product_item["published_at"],
                 "created_at": product_item["created_at"],
                 "updated_at": product_item["updated_at"],
                 "vendor": product_item["vendor"],
                 "product_type": product_item["product_type"],
-                "tags": ', '.join(product_item["tags"]),  # Convert tags list to a comma-separated string
-                "Date_Recorded": date_recorded  # Added Date_Recorded column
+                "tags": ', '.join(product_item["tags"]),
+                "Date_Recorded": date_recorded
             }
             writer.writerow(product_data)
 
-
 # Function to save variant data into a CSV file
 def save_variant_data(products, filename):
-    variant_headers = ["id", "title", "option1", "option2", "option3", "sku", "requires_shipping", "taxable", "featured_image_src", "available", "price", "grams", "compare_at_price", "position", "product_id", "created_at", "updated_at","Date_Recorded"]
-    variant = []
+    variant_headers = ["id", "title", "option1", "option2", "option3", "sku", "requires_shipping", "taxable", "featured_image_src", "available", "price", "grams", "compare_at_price", "position", "product_id", "created_at", "updated_at", "Date_Recorded"]
     with open(filename, mode='a', newline='', encoding='utf-8') as file:  # Open in append mode
         writer = csv.DictWriter(file, fieldnames=variant_headers)
 
@@ -100,56 +97,11 @@ def save_variant_data(products, filename):
                     "product_id": variant_item["product_id"],
                     "created_at": variant_item["created_at"],
                     "updated_at": variant_item["updated_at"],
-                    "Date_Recorded": date_recorded  # Added Date_Recorded column
+                    "Date_Recorded": date_recorded
                 }
                 writer.writerow(variant_data)
 
-
-def write_data():
-    # Read the data from CSV files
-    product_df = pd.read_csv("dataset/products.csv")
-    variant_df = pd.read_csv("dataset/variants.csv")
-
-    # Google Sheets details
-    PRODUCT_GSHEET_NAME = 'Coffee Products'
-    VARIANT_GSHEET_NAME = 'Coffee Variants'
-    PRODUCT_TAB = 'Products'
-    VARIANT_TAB = 'Variants'
-    credentialsPath = os.path.expanduser("cred/ct-email-generation-fd91c0d8a01e.json")
-
-    if os.path.isfile(credentialsPath):
-        # Authenticate with Google Sheets API
-        gc = gspread.service_account(filename=credentialsPath)
-
-        # Handle the Products Google Sheet
-
-        product_sh = gc.open(PRODUCT_GSHEET_NAME)
-        product_worksheet = product_sh.worksheet(PRODUCT_TAB)
-        product_worksheet.clear()  # Clear existing data
-
-        set_with_dataframe(product_worksheet, product_df)
-
-        # Handle the Variants Google Sheet
-
-        variant_sh = gc.open(VARIANT_GSHEET_NAME)
-        variant_worksheet = variant_sh.worksheet(VARIANT_TAB)
-        variant_worksheet.clear()  # Clear existing data
-        set_with_dataframe(variant_worksheet, variant_df)
-
-        print("Data has been written to separate Google Sheets successfully!")
-    else:
-        print(f"Credentials file not found at {credentialsPath}")
-
-
-# Loop through each URL and fetch data, then save the results to CSV files
-for url in urls:
-    data = fetch_data(url)
-    
-    # Save product and variant data for each URL into separate files
-    save_product_data(data["products"], "dataset/products.csv")
-    save_variant_data(data["products"], "dataset/variants.csv")
-
-
+# Function to write data to Google Sheets (personal ID)
 def write_data2():
     # Read the data from CSV files
     product_df = pd.read_csv("dataset/products.csv")
@@ -191,13 +143,47 @@ def write_data2():
 
     print("Data has been written to separate Google Sheets successfully!")
 
+# Function to write data to Smartsheet (via write_data)
+def write_data():
+    # Read the data from CSV files
+    product_df = pd.read_csv("dataset/products.csv")
+    variant_df = pd.read_csv("dataset/variants.csv")
+
+    # Google Sheets details for Smartsheet integration
+    PRODUCT_GSHEET_NAME = 'Coffee Products'
+    VARIANT_GSHEET_NAME = 'Coffee Variants'
+    PRODUCT_TAB = 'Products'
+    VARIANT_TAB = 'Variants'
+    credentialsPath = os.path.expanduser("cred/ct-email-generation-fd91c0d8a01e.json")
+
+    if os.path.isfile(credentialsPath):
+        # Authenticate with Google Sheets API
+        gc = gspread.service_account(filename=credentialsPath)
+
+        # Handle the Products Google Sheet
+        product_sh = gc.open(PRODUCT_GSHEET_NAME)
+        product_worksheet = product_sh.worksheet(PRODUCT_TAB)
+        product_worksheet.clear()  # Clear existing data
+        set_with_dataframe(product_worksheet, product_df)
+
+        # Handle the Variants Google Sheet
+        variant_sh = gc.open(VARIANT_GSHEET_NAME)
+        variant_worksheet = variant_sh.worksheet(VARIANT_TAB)
+        variant_worksheet.clear()  # Clear existing data
+        set_with_dataframe(variant_worksheet, variant_df)
+
+        print("Data has been written to separate Google Sheets successfully!")
+    else:
+        print(f"Credentials file not found at {credentialsPath}")
+
 # Loop through each URL and fetch data, then save the results to CSV files
 for url in urls:
     data = fetch_data(url)
-
+    
     # Save product and variant data for each URL into separate files
     save_product_data(data["products"], "dataset/products.csv")
     save_variant_data(data["products"], "dataset/variants.csv")
 
 print("Data has been saved to 'products.csv' and 'variants.csv'.")
-write_data2()
+write_data2()  # Call write_data2 for Google Sheets (personal ID)
+write_data()   # Call write_data for Smartsheet
