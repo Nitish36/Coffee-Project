@@ -182,8 +182,6 @@ def write_data2():
 
     print("Data has been written to separate Google Sheets successfully!")
 
-
-
 # Loop through each URL and fetch data, then save the results to CSV files
 for url in urls:
     data = fetch_data(url)
@@ -191,8 +189,6 @@ for url in urls:
     # Save product and variant data for each URL into separate files
     save_product_data(data["products"], "dataset/products.csv")
     save_variant_data(data["products"], "dataset/variants.csv")
-
-
 
 print("Data has been saved to 'products.csv' and 'variants.csv'.")
 write_data2()
