@@ -5,6 +5,7 @@ from datetime import datetime
 from gspread_dataframe import set_with_dataframe
 import json
 import os
+import pandas as pd
 
 # List of URLs to fetch data from
 urls = [
