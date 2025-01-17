@@ -33,7 +33,7 @@ def clean_html(html_content):
 
 # Function to save product data into a CSV file
 def save_product_data(products, filename):
-    product_headers = ["id", "title", "handle", "body_html", "published_at", "created_at", "updated_at", "vendor", "product_type", "tags"]
+    product_headers = ["id", "title", "handle", "body_html", "published_at", "created_at", "updated_at", "vendor", "product_type", "tags", "Date_Recorded"]
     product = []
     with open(filename, mode='a', newline='', encoding='utf-8') as file:  # Open in append mode
         writer = csv.DictWriter(file, fieldnames=product_headers)
@@ -42,21 +42,25 @@ def save_product_data(products, filename):
         if file.tell() == 0:
             writer.writeheader()
 
-        for product in products:
+        for product_item in products:
             # Clean the body_html to remove HTML tags and retain only the text
-            cleaned_body_html = clean_html(product["body_html"])
+            cleaned_body_html = clean_html(product_item["body_html"])
+
+            # Extract date from created_at (assuming it's in ISO 8601 format)
+            date_recorded = datetime.fromisoformat(product_item["created_at"]).date()
 
             product_data = {
-                "id": product["id"],
-                "title": product["title"],
-                "handle": product["handle"],
+                "id": product_item["id"],
+                "title": product_item["title"],
+                "handle": product_item["handle"],
                 "body_html": cleaned_body_html,  # Updated to contain cleaned text
-                "published_at": product["published_at"],
-                "created_at": product["created_at"],
-                "updated_at": product["updated_at"],
-                "vendor": product["vendor"],
-                "product_type": product["product_type"],
-                "tags": ', '.join(product["tags"])  # Convert tags list to a comma-separated string
+                "published_at": product_item["published_at"],
+                "created_at": product_item["created_at"],
+                "updated_at": product_item["updated_at"],
+                "vendor": product_item["vendor"],
+                "product_type": product_item["product_type"],
+                "tags": ', '.join(product_item["tags"]),  # Convert tags list to a comma-separated string
+                "Date_Recorded": date_recorded  # Added Date_Recorded column
             }
             writer.writerow(product_data)
 
@@ -72,26 +76,30 @@ def save_variant_data(products, filename):
         if file.tell() == 0:
             writer.writeheader()
 
-        for product in products:
-            for variant in product["variants"]:
+        for product_item in products:
+            for variant_item in product_item["variants"]:
+                # Extract date from created_at (assuming it's in ISO 8601 format)
+                date_recorded = datetime.fromisoformat(variant_item["created_at"]).date()
+
                 variant_data = {
-                    "id": variant["id"],
-                    "title": variant["title"],
-                    "option1": variant["option1"],
-                    "option2": variant["option2"],
-                    "option3": variant["option3"],
-                    "sku": variant["sku"],
-                    "requires_shipping": variant["requires_shipping"],
-                    "taxable": variant["taxable"],
-                    "featured_image_src": variant["featured_image"]["src"] if variant.get("featured_image") else None,
-                    "available": variant["available"],
-                    "price": variant["price"],
-                    "grams": variant["grams"],
-                    "compare_at_price": variant["compare_at_price"],
-                    "position": variant["position"],
-                    "product_id": variant["product_id"],
-                    "created_at": variant["created_at"],
-                    "updated_at": variant["updated_at"]
+                    "id": variant_item["id"],
+                    "title": variant_item["title"],
+                    "option1": variant_item["option1"],
+                    "option2": variant_item["option2"],
+                    "option3": variant_item["option3"],
+                    "sku": variant_item["sku"],
+                    "requires_shipping": variant_item["requires_shipping"],
+                    "taxable": variant_item["taxable"],
+                    "featured_image_src": variant_item["featured_image"]["src"] if variant_item.get("featured_image") else None,
+                    "available": variant_item["available"],
+                    "price": variant_item["price"],
+                    "grams": variant_item["grams"],
+                    "compare_at_price": variant_item["compare_at_price"],
+                    "position": variant_item["position"],
+                    "product_id": variant_item["product_id"],
+                    "created_at": variant_item["created_at"],
+                    "updated_at": variant_item["updated_at"],
+                    "Date_Recorded": date_recorded  # Added Date_Recorded column
                 }
                 writer.writerow(variant_data)
 
