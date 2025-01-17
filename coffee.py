@@ -68,7 +68,7 @@ def save_product_data(products, filename):
 
 # Function to save variant data into a CSV file
 def save_variant_data(products, filename):
-    variant_headers = ["id", "title", "option1", "option2", "option3", "sku", "requires_shipping", "taxable", "featured_image_src", "available", "price", "grams", "compare_at_price", "position", "product_id", "created_at", "updated_at"]
+    variant_headers = ["id", "title", "option1", "option2", "option3", "sku", "requires_shipping", "taxable", "featured_image_src", "available", "price", "grams", "compare_at_price", "position", "product_id", "created_at", "updated_at","Date_Recorded"]
     variant = []
     with open(filename, mode='a', newline='', encoding='utf-8') as file:  # Open in append mode
         writer = csv.DictWriter(file, fieldnames=variant_headers)
