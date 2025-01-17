@@ -1,13 +1,10 @@
-import csv
 import gspread
 import requests
 from bs4 import BeautifulSoup
-import pandas as pd
-import os
-from pytz import timezone
+from datetime import datetime
 from gspread_dataframe import set_with_dataframe
 import json
-from datetime import datetime
+import os
 
 # List of URLs to fetch data from
 urls = [
@@ -83,7 +80,7 @@ def create_variant_data(products):
             })
     return variant_data
 
-# Function to write data to Google Sheets (personal ID)
+# Function to upload product and variant data to Google Sheets (personal ID)
 def write_data2():
     # Google Sheets details
     PRODUCT_GSHEET_NAME = 'Coffee Products'
@@ -131,46 +128,5 @@ def write_data2():
 
     print("Data has been written to Google Sheets successfully!")
 
-# Function to write data to Smartsheet (via write_data)
-def write_data():
-    # Read the data from CSV files
-    product_df = pd.read_csv("dataset/products.csv")
-    variant_df = pd.read_csv("dataset/variants.csv")
-
-    # Google Sheets details for Smartsheet integration
-    PRODUCT_GSHEET_NAME = 'Coffee Products'
-    VARIANT_GSHEET_NAME = 'Coffee Variants'
-    PRODUCT_TAB = 'Products'
-    VARIANT_TAB = 'Variants'
-    credentialsPath = os.path.expanduser("cred/ct-email-generation-fd91c0d8a01e.json")
-
-    if os.path.isfile(credentialsPath):
-        # Authenticate with Google Sheets API
-        gc = gspread.service_account(filename=credentialsPath)
-
-        # Handle the Products Google Sheet
-        product_sh = gc.open(PRODUCT_GSHEET_NAME)
-        product_worksheet = product_sh.worksheet(PRODUCT_TAB)
-        product_worksheet.clear()  # Clear existing data
-        set_with_dataframe(product_worksheet, product_df)
-
-        # Handle the Variants Google Sheet
-        variant_sh = gc.open(VARIANT_GSHEET_NAME)
-        variant_worksheet = variant_sh.worksheet(VARIANT_TAB)
-        variant_worksheet.clear()  # Clear existing data
-        set_with_dataframe(variant_worksheet, variant_df)
-
-        print("Data has been written to separate Google Sheets successfully!")
-    else:
-        print(f"Credentials file not found at {credentialsPath}")
-
-# Loop through each URL and fetch data, then save the results to CSV files
-for url in urls:
-    data = fetch_data(url)
-    
-    # Save product and variant data for each URL into separate files
-    save_product_data(data["products"], "dataset/products.csv")
-    save_variant_data(data["products"], "dataset/variants.csv")
-
-print("Data has been saved to 'products.csv' and 'variants.csv'.")
-write_data2()  # Call write_data2 for Google Sheets (personal ID)
+# Call the function to upload data to Google Sheets
+write_data2()
