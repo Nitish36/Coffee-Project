@@ -81,6 +81,7 @@ def create_variant_data(products):
     return variant_data
 
 # Function to upload product and variant data to Google Sheets (personal ID)
+# Correct range calculation for batch_clear
 def write_data2():
     # Google Sheets details
     PRODUCT_GSHEET_NAME = 'Coffee Products'
@@ -110,8 +111,13 @@ def write_data2():
     if not product_worksheet.row_values(1):  # Check if the first row is empty (i.e., no headers)
         product_worksheet.append_row(["id", "title", "handle", "body_html", "published_at", "created_at", "updated_at", "vendor", "product_type", "tags", "Date_Recorded"])
 
+    # Calculate the last row and column
+    num_rows = len(product_data) + 1  # +1 for header row
+    num_cols = len(product_data[0])  # Number of columns based on the first data row
+    last_cell = f"{chr(64 + num_cols)}{num_rows}"  # Construct the last cell (e.g., 'D271')
+
     # Clear the data (from row 2 onwards)
-    product_worksheet.batch_clear([f"A2:{chr(64+len(product_data))}{len(product_data)+1}"])
+    product_worksheet.batch_clear([f"A2:{last_cell}"])
     set_with_dataframe(product_worksheet, pd.DataFrame(product_data))
 
     # Handle the Variants Google Sheet
@@ -122,11 +128,20 @@ def write_data2():
     if not variant_worksheet.row_values(1):  # Check if the first row is empty (i.e., no headers)
         variant_worksheet.append_row(["id", "title", "option1", "option2", "option3", "sku", "requires_shipping", "taxable", "featured_image_src", "available", "price", "grams", "compare_at_price", "position", "product_id", "created_at", "updated_at", "Date_Recorded"])
 
+    # Calculate the last row and column for variants
+    num_rows_variant = len(variant_data) + 1  # +1 for header row
+    num_cols_variant = len(variant_data[0])  # Number of columns based on the first data row
+    last_cell_variant = f"{chr(64 + num_cols_variant)}{num_rows_variant}"  # Construct the last cell (e.g., 'P350')
+
     # Clear the data (from row 2 onwards)
-    variant_worksheet.batch_clear([f"A2:{chr(64+len(variant_data))}{len(variant_data)+1}"])
+    variant_worksheet.batch_clear([f"A2:{last_cell_variant}"])
     set_with_dataframe(variant_worksheet, pd.DataFrame(variant_data))
 
     print("Data has been written to Google Sheets successfully!")
+
+# Call the function to upload data to Google Sheets
+write_data2()
+
 
 # Call the function to upload data to Google Sheets
 write_data2()
