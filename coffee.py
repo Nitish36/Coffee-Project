@@ -159,16 +159,29 @@ def write_data2():
     # Handle the Products Google Sheet
     product_sh = gc.open(PRODUCT_GSHEET_NAME)
     product_worksheet = product_sh.worksheet(PRODUCT_TAB)
-    product_worksheet.clear()  # Clear existing data
+
+    # Check if headers already exist and skip overwriting them
+    if not product_worksheet.row_values(1):  # Check if the first row is empty (i.e., no headers)
+        set_with_dataframe(product_worksheet, product_df.iloc[0:0])  # Add headers only
+
+    # Clear the data (from row 2 onwards)
+    product_worksheet.batch_clear([f"A2:{chr(64+len(product_df.columns))}{len(product_df)+1}"])
     set_with_dataframe(product_worksheet, product_df)
 
     # Handle the Variants Google Sheet
     variant_sh = gc.open(VARIANT_GSHEET_NAME)
     variant_worksheet = variant_sh.worksheet(VARIANT_TAB)
-    variant_worksheet.clear()  # Clear existing data
+
+    # Check if headers already exist and skip overwriting them
+    if not variant_worksheet.row_values(1):  # Check if the first row is empty (i.e., no headers)
+        set_with_dataframe(variant_worksheet, variant_df.iloc[0:0])  # Add headers only
+
+    # Clear the data (from row 2 onwards)
+    variant_worksheet.batch_clear([f"A2:{chr(64+len(variant_df.columns))}{len(variant_df)+1}"])
     set_with_dataframe(variant_worksheet, variant_df)
 
     print("Data has been written to separate Google Sheets successfully!")
+
 
 
 # Loop through each URL and fetch data, then save the results to CSV files
