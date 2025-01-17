@@ -32,90 +32,78 @@ def clean_html(html_content):
     soup = BeautifulSoup(html_content, "html.parser")
     return soup.get_text(strip=True)
 
-# Function to save product data into a CSV file
-def save_product_data(products, filename):
-    product_headers = ["id", "title", "handle", "body_html", "published_at", "created_at", "updated_at", "vendor", "product_type", "tags", "Date_Recorded"]
-    with open(filename, mode='a', newline='', encoding='utf-8') as file:  # Open in append mode
-        writer = csv.DictWriter(file, fieldnames=product_headers)
+# Function to create product data (dictionary) for Google Sheets upload
+def create_product_data(products):
+    product_data = []
+    for product_item in products:
+        cleaned_body_html = clean_html(product_item["body_html"])
+        date_recorded = datetime.fromisoformat(product_item["created_at"]).date()
 
-        # If the file is empty, write the header
-        if file.tell() == 0:
-            writer.writeheader()
+        product_data.append({
+            "id": product_item["id"],
+            "title": product_item["title"],
+            "handle": product_item["handle"],
+            "body_html": cleaned_body_html,
+            "published_at": product_item["published_at"],
+            "created_at": product_item["created_at"],
+            "updated_at": product_item["updated_at"],
+            "vendor": product_item["vendor"],
+            "product_type": product_item["product_type"],
+            "tags": ', '.join(product_item["tags"]),
+            "Date_Recorded": date_recorded
+        })
+    return product_data
 
-        for product_item in products:
-            # Clean the body_html to remove HTML tags and retain only the text
-            cleaned_body_html = clean_html(product_item["body_html"])
+# Function to create variant data (dictionary) for Google Sheets upload
+def create_variant_data(products):
+    variant_data = []
+    for product_item in products:
+        for variant_item in product_item["variants"]:
+            date_recorded = datetime.fromisoformat(variant_item["created_at"]).date()
 
-            # Extract date from created_at (assuming it's in ISO 8601 format)
-            date_recorded = datetime.fromisoformat(product_item["created_at"]).date()
-
-            product_data = {
-                "id": product_item["id"],
-                "title": product_item["title"],
-                "handle": product_item["handle"],
-                "body_html": cleaned_body_html,
-                "published_at": product_item["published_at"],
-                "created_at": product_item["created_at"],
-                "updated_at": product_item["updated_at"],
-                "vendor": product_item["vendor"],
-                "product_type": product_item["product_type"],
-                "tags": ', '.join(product_item["tags"]),
+            variant_data.append({
+                "id": variant_item["id"],
+                "title": variant_item["title"],
+                "option1": variant_item["option1"],
+                "option2": variant_item["option2"],
+                "option3": variant_item["option3"],
+                "sku": variant_item["sku"],
+                "requires_shipping": variant_item["requires_shipping"],
+                "taxable": variant_item["taxable"],
+                "featured_image_src": variant_item["featured_image"]["src"] if variant_item.get("featured_image") else None,
+                "available": variant_item["available"],
+                "price": variant_item["price"],
+                "grams": variant_item["grams"],
+                "compare_at_price": variant_item["compare_at_price"],
+                "position": variant_item["position"],
+                "product_id": variant_item["product_id"],
+                "created_at": variant_item["created_at"],
+                "updated_at": variant_item["updated_at"],
                 "Date_Recorded": date_recorded
-            }
-            writer.writerow(product_data)
-
-# Function to save variant data into a CSV file
-def save_variant_data(products, filename):
-    variant_headers = ["id", "title", "option1", "option2", "option3", "sku", "requires_shipping", "taxable", "featured_image_src", "available", "price", "grams", "compare_at_price", "position", "product_id", "created_at", "updated_at", "Date_Recorded"]
-    with open(filename, mode='a', newline='', encoding='utf-8') as file:  # Open in append mode
-        writer = csv.DictWriter(file, fieldnames=variant_headers)
-
-        # If the file is empty, write the header
-        if file.tell() == 0:
-            writer.writeheader()
-
-        for product_item in products:
-            for variant_item in product_item["variants"]:
-                # Extract date from created_at (assuming it's in ISO 8601 format)
-                date_recorded = datetime.fromisoformat(variant_item["created_at"]).date()
-
-                variant_data = {
-                    "id": variant_item["id"],
-                    "title": variant_item["title"],
-                    "option1": variant_item["option1"],
-                    "option2": variant_item["option2"],
-                    "option3": variant_item["option3"],
-                    "sku": variant_item["sku"],
-                    "requires_shipping": variant_item["requires_shipping"],
-                    "taxable": variant_item["taxable"],
-                    "featured_image_src": variant_item["featured_image"]["src"] if variant_item.get("featured_image") else None,
-                    "available": variant_item["available"],
-                    "price": variant_item["price"],
-                    "grams": variant_item["grams"],
-                    "compare_at_price": variant_item["compare_at_price"],
-                    "position": variant_item["position"],
-                    "product_id": variant_item["product_id"],
-                    "created_at": variant_item["created_at"],
-                    "updated_at": variant_item["updated_at"],
-                    "Date_Recorded": date_recorded
-                }
-                writer.writerow(variant_data)
+            })
+    return variant_data
 
 # Function to write data to Google Sheets (personal ID)
 def write_data2():
-    # Read the data from CSV files
-    product_df = pd.read_csv("dataset/products.csv")
-    variant_df = pd.read_csv("dataset/variants.csv")
-
-    # Load credentials from the GSHEET_TOKEN environment variable
-    gsheet_credentials = json.loads(os.getenv("GSHEET_TOKEN"))
-    gc = gspread.service_account_from_dict(gsheet_credentials)
-
     # Google Sheets details
     PRODUCT_GSHEET_NAME = 'Coffee Products'
     VARIANT_GSHEET_NAME = 'Coffee Variants'
     PRODUCT_TAB = 'Products'
     VARIANT_TAB = 'Variants'
+
+    # Authenticate with Google Sheets API
+    gsheet_credentials = json.loads(os.getenv("GSHEET_TOKEN"))
+    gc = gspread.service_account_from_dict(gsheet_credentials)
+
+    # Create product data and variant data
+    product_data = []
+    variant_data = []
+
+    # Loop through each URL and fetch data
+    for url in urls:
+        data = fetch_data(url)
+        product_data.extend(create_product_data(data["products"]))
+        variant_data.extend(create_variant_data(data["products"]))
 
     # Handle the Products Google Sheet
     product_sh = gc.open(PRODUCT_GSHEET_NAME)
@@ -123,11 +111,11 @@ def write_data2():
 
     # Check if headers already exist and skip overwriting them
     if not product_worksheet.row_values(1):  # Check if the first row is empty (i.e., no headers)
-        set_with_dataframe(product_worksheet, product_df.iloc[0:0])  # Add headers only
+        product_worksheet.append_row(["id", "title", "handle", "body_html", "published_at", "created_at", "updated_at", "vendor", "product_type", "tags", "Date_Recorded"])
 
     # Clear the data (from row 2 onwards)
-    product_worksheet.batch_clear([f"A2:{chr(64+len(product_df.columns))}{len(product_df)+1}"])
-    set_with_dataframe(product_worksheet, product_df)
+    product_worksheet.batch_clear([f"A2:{chr(64+len(product_data))}{len(product_data)+1}"])
+    set_with_dataframe(product_worksheet, pd.DataFrame(product_data))
 
     # Handle the Variants Google Sheet
     variant_sh = gc.open(VARIANT_GSHEET_NAME)
@@ -135,13 +123,13 @@ def write_data2():
 
     # Check if headers already exist and skip overwriting them
     if not variant_worksheet.row_values(1):  # Check if the first row is empty (i.e., no headers)
-        set_with_dataframe(variant_worksheet, variant_df.iloc[0:0])  # Add headers only
+        variant_worksheet.append_row(["id", "title", "option1", "option2", "option3", "sku", "requires_shipping", "taxable", "featured_image_src", "available", "price", "grams", "compare_at_price", "position", "product_id", "created_at", "updated_at", "Date_Recorded"])
 
     # Clear the data (from row 2 onwards)
-    variant_worksheet.batch_clear([f"A2:{chr(64+len(variant_df.columns))}{len(variant_df)+1}"])
-    set_with_dataframe(variant_worksheet, variant_df)
+    variant_worksheet.batch_clear([f"A2:{chr(64+len(variant_data))}{len(variant_data)+1}"])
+    set_with_dataframe(variant_worksheet, pd.DataFrame(variant_data))
 
-    print("Data has been written to separate Google Sheets successfully!")
+    print("Data has been written to Google Sheets successfully!")
 
 # Function to write data to Smartsheet (via write_data)
 def write_data():
@@ -186,4 +174,3 @@ for url in urls:
 
 print("Data has been saved to 'products.csv' and 'variants.csv'.")
 write_data2()  # Call write_data2 for Google Sheets (personal ID)
-write_data()   # Call write_data for Smartsheet
